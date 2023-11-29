@@ -13,8 +13,8 @@
 | Frontpanel PBF4           | AL-FP-PBF4          | Fabricated | <img src="Preview/Mechanical/PBF4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PBF4.step) [[stl]](Preview/Mechanical/PBF4.stl) [[pdf]](Preview/Mechanical/PBF4_Drawing.pdf) |
 | Frontpanel EF44           | AL-FP-EF44          | Fabricated | <img src="Preview/Mechanical/EF44.png?raw=true" width="100"> | [[step]](Preview/Mechanical/EF44.step) [[stl]](Preview/Mechanical/EF44.stl) [[pdf]](Preview/Mechanical/EF44_Drawing.pdf) |
 | Frontpanel TEK2           | AL-FP-TEK2          | Fabricated | <img src="Preview/Mechanical/TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/TEK2.step) [[stl]](Preview/Mechanical/TEK2.stl) [[pdf]](Preview/Mechanical/TEK2_Drawing.pdf) |
-| D3x13mm N52 neodymium     | MAGNET-D3x13        | Fabricated |         | Source       |
-| 3x3x3mm N52 neodymium     | MAGNET-SQ3          | Fabricated |         | Source       |
+| D3x13mm N52 neodymium     | MAGNET-D3x13        | Fabricated | <img src="Preview/Mechanical/MAGNET-D3x13.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-D3x13.step) [[stl]](Preview/Mechanical/MAGNET-D3x13.stl) [[pdf]](Preview/Mechanical/MAGNET-D3x13_Drawing.pdf) |
+| 3x3x3mm N52 neodymium     | MAGNET-SQ3          | Fabricated | <img src="Preview/Mechanical/MAGNET-SQ3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-SQ3.step) [[stl]](Preview/Mechanical/MAGNET-SQ3.stl) [[pdf]](Preview/Mechanical/MAGNET-SQ3_Drawing.pdf) |
 | Potmeter Bushing          | PLASTIC-BUSHING-POT | Fabricated |         | Source       |
 | Crown                     | PLASTIC-SPACER      | Fabricated |         | Source       |
 | Lightpipe                 | PLASTIC-LIGHTPIPE   | Purchased  |         | Reference    |
