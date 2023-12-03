@@ -15,7 +15,7 @@
 | Frontpanel TEK2           | AL-FP-TEK2          | Fabricated | <img src="Preview/Mechanical/TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/TEK2.step) [[stl]](Preview/Mechanical/TEK2.stl) [[pdf]](Preview/Mechanical/TEK2_Drawing.pdf) |
 | D3x13mm N52 neodymium     | MAGNET-D3x13        | Fabricated | <img src="Preview/Mechanical/MAGNET-D3x13.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-D3x13.step) [[stl]](Preview/Mechanical/MAGNET-D3x13.stl) [[pdf]](Preview/Mechanical/MAGNET-D3x13_Drawing.pdf) |
 | 3x3x3mm N52 neodymium     | MAGNET-SQ3          | Fabricated | <img src="Preview/Mechanical/MAGNET-SQ3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-SQ3.step) [[stl]](Preview/Mechanical/MAGNET-SQ3.stl) [[pdf]](Preview/Mechanical/MAGNET-SQ3_Drawing.pdf) |
-| Potmeter Bushing          | PLASTIC-BUSHING-POT | Fabricated |         | Source       |
+| Potmeter Bushing          | PLASTIC-BUSHING-POT | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT_Drawing.pdf) |
 | Crown                     | PLASTIC-SPACER      | Fabricated |         | Source       |
 | Lightpipe                 | PLASTIC-LIGHTPIPE   | Purchased  |         | Reference    |
 | Encoder Knob Injection    | PLASTIC-KNOB-ENC    | Fabricated |         | External     |
