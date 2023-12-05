@@ -3,10 +3,10 @@
 | Component                 | Part number         | Type       | Preview | Links        |
 |---------------------------|---------------------|------------|---------|--------------|
 | Rubber foot               | RUBBER-FOOT         | Fabricated |         | External     |
-| Metric corner screw       | SCREW-M1.6x16       | Purchased  |         | Reference    |
-| Metric PCB screw          | SCREW-M1.6x8        | Purchased  |         | Reference    |
-| Brass threaded insert 3mm | INSERT-M1.6x2.5x3   | Purchased  |         | Reference    |
-| Brass threaded insert 4mm | INSERT-M1.6x2.5x4   | Purchased  |         | Reference    |
+| Metric corner screw       | SCREW-M1.6x16       | Purchased  | <img src="Preview/Mechanical/SCREW-M1.6x16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/SCREW-M1.6x16.step) [[stl]](Preview/Mechanical/SCREW-M1.6x16.stl) |
+| Metric PCB screw          | SCREW-M1.6x8        | Purchased  | <img src="Preview/Mechanical/SCREW-M1.6x8.png?raw=true" width="100"> | [[step]](Preview/Mechanical/SCREW-M1.6x8.step) [[stl]](Preview/Mechanical/SCREW-M1.6x8.stl)|
+| Brass threaded insert 3mm | INSERT-M1.6x2.5x3   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x3.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x3.stl) |
+| Brass threaded insert 4mm | INSERT-M1.6x2.5x4   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x4.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x4.stl) |
 | Lower housing             | PLASTIC-HOUSING     | Fabricated |         | Source, Tool |
 | Mapmode button            | PLASTIC-MAPMODE     | Fabricated |         | Source       |
 | Frontpanel BU16*          | AL-FP-BU16          | Fabricated | <img src="Preview/Mechanical/BU16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/BU16.step) [[stl]](Preview/Mechanical/BU16.stl) [[pdf]](Preview/Mechanical/BU16_Drawing.pdf) |
