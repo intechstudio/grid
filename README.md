@@ -36,3 +36,10 @@
 |---------------------------|----------------------|---------|--------------|
 | Interfaceboard            | PCBA-INTERFACE       | <img src="Preview/Electrical/INTERFACE-3D_top.png?raw=true" width="200"> <img src="Preview/Electrical/INTERFACE-3D_bottom.png?raw=true" width="200"> | [[Schematic]](Preview/Electrical/INTERFACE_Schematic.pdf) [[Gerber]](Preview/Electrical/mfg/INTERFACE-gerber.zip?raw=true) |
 | PO16/BU16 Motherboard     | PCBA-PO16_BU16       | <img src="Preview/Electrical/PO16_BU16-3D_top.png?raw=true" width="200"> | [[schematic]](Preview/Electrical/PO16_BU16_Schematic.pdf) |
+
+# Desktop Tools Used
+- FreeCAD
+- KiCAD
+# Command-Line Tools Used
+- PytonOCC
+- OpenSCAD
