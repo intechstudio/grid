@@ -1,0 +1,131 @@
+** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/INTERFACE/INTERFACE.kicad_pcb **
+** Created on 2023-12-06 12:11:48 **
+
+** Found 39 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(123.6500 mm, 109.4400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(69.3300 mm, 103.2500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(77.3300 mm, 109.2500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(122.6700 mm, 103.2500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(130.6700 mm, 109.2500 mm): Line on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(100.0000 mm, 102.0000 mm): PCB Text 'INTERFACE EE: SUKU 2023/12' on F.Silkscreen
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(142.0116 mm, 111.0500 mm): Footprint C2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(57.9884 mm, 111.0500 mm): Footprint C1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(93.7770 mm, 111.0500 mm): Footprint R6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.3020 mm, 111.0500 mm): Footprint C4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(95.6820 mm, 111.0500 mm): Footprint R8
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(99.4920 mm, 111.0500 mm): Footprint R5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(97.5870 mm, 111.0500 mm): Footprint C5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.3970 mm, 111.0500 mm): Footprint R7
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.0450 mm, 111.0500 mm): Footprint Q3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(74.6000 mm, 111.5000 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(130.2500 mm, 111.7500 mm): Footprint R4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.7812 mm, 111.0500 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(122.7500 mm, 111.0500 mm): Footprint Q4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(70.7500 mm, 111.7500 mm): Footprint R2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(130.2500 mm, 110.7500 mm): Footprint R3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(70.7500 mm, 110.7500 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(91.8720 mm, 111.0754 mm): Footprint C3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(89.3320 mm, 111.0500 mm): Footprint D1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 108.2500 mm): Footprint J5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(83.7500 mm, 111.2500 mm): Footprint U3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(106.6040 mm, 111.0754 mm): Footprint U4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 108.2500 mm): Footprint J6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(137.0840 mm, 111.0500 mm): Footprint U7
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(62.9160 mm, 111.0530 mm): Footprint U6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(133.0200 mm, 111.0500 mm): Footprint U8
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(66.9800 mm, 111.0530 mm): Footprint U5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 106.0000 mm): Footprint J3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 106.0000 mm): Footprint J1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(60.9950 mm, 113.0000 mm): Line on Edge.Cuts
+    @(80.8230 mm, 112.8280 mm): Circle on F.Silkscreen
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(91.8720 mm, 111.0754 mm): Footprint C3
+    @(89.3320 mm, 111.0500 mm): Footprint D1
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(73.3300 mm, 108.2500 mm): Footprint J5
+    @(73.3300 mm, 106.0000 mm): Footprint J1
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(126.6700 mm, 108.2500 mm): Footprint J6
+    @(126.6700 mm, 106.0000 mm): Footprint J3
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(81.4400 mm, 105.0000 mm): Track [+5F] on F.Cu, length 0.3111 mm
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
