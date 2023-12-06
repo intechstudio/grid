@@ -32,7 +32,7 @@
 
 ## Electrical components
 
-| Component                 | Part number          | Type       | Preview | Links        |
-|---------------------------|----------------------|------------|---------|--------------|
-| Interfaceboard            | PCBA-INTERFACE       | Fabricated | <img src="Preview/Electrical/INTERFACE-3D_top.png?raw=true" width="100"> | [[schematic]](Preview/Electrical/INTERFACE_Schematic.pdf) |
-| PO16/BU16 Motherboard     | PCBA-PO16_BU16       | Fabricated | <img src="Preview/Electrical/PO16_BU16-3D_top.png?raw=true" width="100"> | [[schematic]](Preview/Electrical/PO16_BU16_Schematic.pdf) |
+| Component                 | Part number          | Preview | Links        |
+|---------------------------|----------------------|---------|--------------|
+| Interfaceboard            | PCBA-INTERFACE       | <img src="Preview/Electrical/INTERFACE-3D_top.png?raw=true" width="200"> | [[schematic]](Preview/Electrical/INTERFACE_Schematic.pdf) |
+| PO16/BU16 Motherboard     | PCBA-PO16_BU16       | <img src="Preview/Electrical/PO16_BU16-3D_top.png?raw=true" width="200"> | [[schematic]](Preview/Electrical/PO16_BU16_Schematic.pdf) |
