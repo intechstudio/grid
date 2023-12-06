@@ -8,7 +8,7 @@
 | Brass threaded insert 3mm | INSERT-M1.6x2.5x3   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x3.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x3.stl) |
 | Brass threaded insert 4mm | INSERT-M1.6x2.5x4   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x4.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x4.stl) |
 | Lower housing             | PLASTIC-HOUSING     | Fabricated | <img src="Preview/Mechanical/Canvas/PLASTIC-HOUSING.png?raw=true" width="100"> | [[Model tree]]("Preview/Mechanical/Canvas/README.md) |
-| Mapmode button            | PLASTIC-MAPMODE     | Fabricated |         | Source       |
+| Mapmode button            | PLASTIC-MAPMODE     | Fabricated | <img src="Preview/Mechanical/PLASTIC-MAPMODE.png?raw=true" width="100">        | Source       |
 | Frontpanel BU16*          | AL-FP-BU16          | Fabricated | <img src="Preview/Mechanical/BU16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/BU16.step) [[stl]](Preview/Mechanical/BU16.stl) [[pdf]](Preview/Mechanical/BU16_Drawing.pdf) |
 | Frontpanel PBF4           | AL-FP-PBF4          | Fabricated | <img src="Preview/Mechanical/PBF4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PBF4.step) [[stl]](Preview/Mechanical/PBF4.stl) [[pdf]](Preview/Mechanical/PBF4_Drawing.pdf) |
 | Frontpanel EF44           | AL-FP-EF44          | Fabricated | <img src="Preview/Mechanical/EF44.png?raw=true" width="100"> | [[step]](Preview/Mechanical/EF44.step) [[stl]](Preview/Mechanical/EF44.stl) [[pdf]](Preview/Mechanical/EF44_Drawing.pdf) |
@@ -26,5 +26,5 @@
 | Long Fader                | PCBA-LONGFADER      | Purchased  |         | Reference    |
 | Fader Cap                 | PLASTIC-CAP-FADER   | Purchased  |         | Reference    |
 | Button                    | PCBA-BUTTON         | Purchased  |         | Reference    |
-| Button Cap                | PLASTIC-CAP-BUTTON  | Purchased  | | |
-| Endless potentiometer     | PCBA-ENDLESSPOT     | Purchased  |         |  |
+| Button Cap                | PLASTIC-CAP-BUTTON  | Purchased  |         |              |
+| Endless potentiometer     | PCBA-ENDLESSPOT     | Purchased  |         |              |
