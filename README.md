@@ -7,7 +7,7 @@
 | Metric PCB screw          | SCREW-M1.6x8        | Purchased  | <img src="Preview/Mechanical/SCREW-M1.6x8.png?raw=true" width="100"> | [[step]](Preview/Mechanical/SCREW-M1.6x8.step) [[stl]](Preview/Mechanical/SCREW-M1.6x8.stl)|
 | Brass threaded insert 3mm | INSERT-M1.6x2.5x3   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x3.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x3.stl) |
 | Brass threaded insert 4mm | INSERT-M1.6x2.5x4   | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x4.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x4.stl) |
-| Lower housing             | PLASTIC-HOUSING     | Fabricated |         | Source, Tool |
+| Lower housing             | PLASTIC-HOUSING     | Fabricated | <img src="Preview/Mechanical/Canvas/PLASTIC-HOUSING.png?raw=true" width="100"> | [[Model tree]]("Preview/Mechanical/Canvas/README.md) |
 | Mapmode button            | PLASTIC-MAPMODE     | Fabricated |         | Source       |
 | Frontpanel BU16*          | AL-FP-BU16          | Fabricated | <img src="Preview/Mechanical/BU16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/BU16.step) [[stl]](Preview/Mechanical/BU16.stl) [[pdf]](Preview/Mechanical/BU16_Drawing.pdf) |
 | Frontpanel PBF4           | AL-FP-PBF4          | Fabricated | <img src="Preview/Mechanical/PBF4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PBF4.step) [[stl]](Preview/Mechanical/PBF4.stl) [[pdf]](Preview/Mechanical/PBF4_Drawing.pdf) |
