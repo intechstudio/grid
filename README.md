@@ -29,3 +29,6 @@
 | Button                    | PCBA-BUTTON          | Purchased  |         | Reference    |
 | Button Cap                | PLASTIC-CAP-BUTTON   | Purchased  |         |              |
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  |         |              |
+
+## Electrical components
+| Interfaceboard            | PCBA-INTERFACE       | Fabricated | <img src="Preview/Electrical/PCBA-INTERFACE.png?raw=true" width="100"> | [[schematic]](Preview/Electrical/INTERFACE_Schematic.pdf) |
