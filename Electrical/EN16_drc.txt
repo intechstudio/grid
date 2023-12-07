@@ -1,0 +1,1363 @@
+** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/EN16/EN16.kicad_pcb **
+** Created on 2023-12-07 21:49:59 **
+
+** Found 409 DRC violations **
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(138.5550 mm, 133.5350 mm): Line on F.Silkscreen
+    @(135.0050 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 133.5050 mm): Line on F.Silkscreen
+    @(141.7050 mm, 133.7850 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 133.5050 mm): Line on F.Silkscreen
+    @(141.4550 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(141.7050 mm, 80.4450 mm): Line on F.Silkscreen
+    @(135.0050 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(141.4550 mm, 79.5950 mm): Line on F.Silkscreen
+    @(135.0050 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(138.5550 mm, 80.1950 mm): Line on F.Silkscreen
+    @(135.0050 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 106.8350 mm): Line on F.Silkscreen
+    @(138.5550 mm, 106.8650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 106.8350 mm): Line on F.Silkscreen
+    @(141.7050 mm, 107.1150 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 106.8350 mm): Line on F.Silkscreen
+    @(141.4550 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0350 mm, 107.1150 mm): Line on F.Silkscreen
+    @(108.3350 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(114.7850 mm, 106.2650 mm): Line on F.Silkscreen
+    @(108.3350 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(111.8850 mm, 106.8650 mm): Line on F.Silkscreen
+    @(108.3350 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 133.5050 mm): Line on F.Silkscreen
+    @(88.3650 mm, 133.7850 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 133.5050 mm): Line on F.Silkscreen
+    @(88.1150 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 133.5050 mm): Line on F.Silkscreen
+    @(85.2150 mm, 133.5350 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0350 mm, 133.7850 mm): Line on F.Silkscreen
+    @(108.3350 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(114.7850 mm, 132.9350 mm): Line on F.Silkscreen
+    @(108.3350 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(111.8850 mm, 133.5350 mm): Line on F.Silkscreen
+    @(108.3350 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 106.8350 mm): Line on F.Silkscreen
+    @(88.3650 mm, 107.1150 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 106.8350 mm): Line on F.Silkscreen
+    @(88.1150 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 106.8350 mm): Line on F.Silkscreen
+    @(85.2150 mm, 106.8650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(92.3000 mm, 91.5500 mm): Line on F.Silkscreen
+    @(92.6650 mm, 92.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(92.3000 mm, 92.9500 mm): Line on F.Silkscreen
+    @(91.6650 mm, 92.1650 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(93.7000 mm, 92.9500 mm): Line on F.Silkscreen
+    @(91.6650 mm, 92.1650 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 80.1650 mm): Line on F.Silkscreen
+    @(88.3650 mm, 80.4450 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 80.1650 mm): Line on F.Silkscreen
+    @(88.1150 mm, 79.5950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(81.6650 mm, 80.1650 mm): Line on F.Silkscreen
+    @(85.2150 mm, 80.1950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0350 mm, 80.4450 mm): Line on F.Silkscreen
+    @(108.3350 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(114.7850 mm, 79.5950 mm): Line on F.Silkscreen
+    @(108.3350 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(108.3350 mm, 80.1650 mm): Line on F.Silkscreen
+    @(111.8850 mm, 80.1950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.6950 mm, 53.7750 mm): Line on F.Silkscreen
+    @(54.9950 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.4450 mm, 52.9250 mm): Line on F.Silkscreen
+    @(54.9950 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(58.5450 mm, 53.5250 mm): Line on F.Silkscreen
+    @(54.9950 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(111.8850 mm, 53.5250 mm): Line on F.Silkscreen
+    @(108.3350 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0350 mm, 53.7750 mm): Line on F.Silkscreen
+    @(108.3350 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(114.7850 mm, 52.9250 mm): Line on F.Silkscreen
+    @(108.3350 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(141.7050 mm, 53.7750 mm): Line on F.Silkscreen
+    @(135.0050 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(141.4550 mm, 52.9250 mm): Line on F.Silkscreen
+    @(135.0050 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(135.0050 mm, 53.4950 mm): Line on F.Silkscreen
+    @(138.5550 mm, 53.5250 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(85.2150 mm, 53.5250 mm): Line on F.Silkscreen
+    @(81.6650 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(88.3650 mm, 53.7750 mm): Line on F.Silkscreen
+    @(81.6650 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(88.1150 mm, 52.9250 mm): Line on F.Silkscreen
+    @(81.6650 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.6950 mm, 133.7850 mm): Line on F.Silkscreen
+    @(54.9950 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.4450 mm, 132.9350 mm): Line on F.Silkscreen
+    @(54.9950 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(54.9950 mm, 106.8350 mm): Line on F.Silkscreen
+    @(61.6950 mm, 107.1150 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(54.9950 mm, 106.8350 mm): Line on F.Silkscreen
+    @(61.4450 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(54.9950 mm, 106.8350 mm): Line on F.Silkscreen
+    @(58.5450 mm, 106.8650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(58.5450 mm, 133.5350 mm): Line on F.Silkscreen
+    @(54.9950 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.6950 mm, 80.4450 mm): Line on F.Silkscreen
+    @(54.9950 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(61.4450 mm, 79.5950 mm): Line on F.Silkscreen
+    @(54.9950 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(58.5450 mm, 80.1950 mm): Line on F.Silkscreen
+    @(54.9950 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(61.4450 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(114.7850 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.1150 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(141.4550 mm, 132.9350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.1150 mm, 52.9250 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(114.7850 mm, 52.9250 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(141.4550 mm, 79.5950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(61.4450 mm, 52.9250 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.1150 mm, 79.5950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(141.4550 mm, 52.9250 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(61.4450 mm, 79.5950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(114.7850 mm, 79.5950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(104.7500 mm, 56.5700 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(95.2500 mm, 56.5700 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(53.9950 mm, 54.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(54.9950 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.9950 mm, 65.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(76.3300 mm, 114.3755 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(107.3350 mm, 134.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(108.3350 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(119.3350 mm, 145.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(53.9950 mm, 81.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(54.9950 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.9950 mm, 92.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(76.3300 mm, 87.7040 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(61.4450 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(80.6650 mm, 54.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(81.6650 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(92.6650 mm, 65.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.0050 mm, 134.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(135.0050 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(146.0050 mm, 145.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.0050 mm, 107.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(135.0050 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(146.0050 mm, 118.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.0050 mm, 54.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(135.0050 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(146.0050 mm, 65.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(107.3350 mm, 81.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(108.3350 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(119.3350 mm, 92.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(107.3350 mm, 54.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(108.3350 mm, 53.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(119.3350 mm, 65.4950 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.0050 mm, 81.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(135.0050 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(146.0050 mm, 92.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(53.9950 mm, 107.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(54.9950 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.9950 mm, 118.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(129.6700 mm, 114.3740 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(141.4550 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(107.3350 mm, 107.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(108.3350 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(119.3350 mm, 118.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(114.7850 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(129.6700 mm, 87.7040 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.1150 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(53.9950 mm, 134.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(54.9950 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.9950 mm, 145.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(80.6650 mm, 81.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(81.6650 mm, 80.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(92.6650 mm, 92.1650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(91.6650 mm, 92.1650 mm): Arc on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(80.6650 mm, 134.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(81.6650 mm, 133.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(92.6650 mm, 145.5050 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(80.6650 mm, 107.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(81.6650 mm, 106.8350 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(92.6650 mm, 118.8350 mm): Line on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(94.6660 mm, 110.6680 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid EN16 RevD 2023/...' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(100.0000 mm, 122.7500 mm): PCB Text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(106.0000 mm, 118.0000 mm): PCB Text 'RESET' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(94.0000 mm, 118.0000 mm): PCB Text 'BOOT 0' on F.Silkscreen
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 132.3850 mm): Footprint D904
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 132.3850 mm): Footprint D912
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 132.3850 mm): Footprint D908
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 132.3850 mm): Footprint D916
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 52.3750 mm): Footprint D905
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 52.3750 mm): Footprint D909
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 79.0450 mm): Footprint D914
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(99.0000 mm, 142.5000 mm): Footprint C757
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 50.5970 mm): Footprint C905
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 50.5970 mm): Footprint C909
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 130.6070 mm): Footprint C912
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 50.5970 mm): Footprint C913
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 77.2670 mm): Footprint C914
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 52.3750 mm): Footprint D901
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 79.0450 mm): Footprint D906
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 52.3750 mm): Footprint D913
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(50.0000 mm, 73.3300 mm): Footprint J703
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(50.0000 mm, 126.6700 mm): Footprint J704
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 150.0000 mm): Footprint J706
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 50.0000 mm): Footprint J705
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 150.0000 mm): Footprint J708
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 50.0000 mm): Footprint J707
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(150.0000 mm, 73.3300 mm): Footprint J709
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.0000 mm, 142.5000 mm): Footprint R736
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 130.6070 mm): Footprint C904
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 77.2670 mm): Footprint C906
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 130.6070 mm): Footprint C908
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 130.6070 mm): Footprint C916
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(150.0000 mm, 126.6700 mm): Footprint J710
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 50.5970 mm): Footprint C901
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(99.0000 mm, 78.8875 mm): Footprint C801
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 146.2000 mm): Footprint SW701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.5000 mm, 73.0000 mm): Footprint U801
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 79.0450 mm): Footprint D902
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 77.2670 mm): Footprint C902
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 79.0450 mm): Footprint D910
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 77.2670 mm): Footprint C910
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 53.4000 mm): Footprint J711
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(97.0000 mm, 62.7500 mm): Footprint U706
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 103.9370 mm): Footprint C907
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 94.6660 mm): Footprint R1018
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 59.9950 mm): Footprint UI1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 92.1260 mm): Footprint U1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 83.2360 mm): Footprint R1040
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 62.7500 mm): Footprint L703
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 81.7120 mm): Footprint C1049
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 79.6800 mm): Footprint R1037
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 82.7280 mm): Footprint R1025
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 109.9060 mm): Footprint R1010
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 94.1580 mm): Footprint R1016
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 83.2360 mm): Footprint R1026
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 91.6180 mm): Footprint R1089
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 94.1580 mm): Footprint R1086
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 82.7280 mm): Footprint C1032
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 119.3040 mm): Footprint R1077
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 92.1260 mm): Footprint U1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 79.6800 mm): Footprint C1015
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 107.8755 mm): Footprint U1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 140.0050 mm): Footprint UI1010
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.0000 mm, 105.2500 mm): Footprint C753
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 86.6650 mm): Footprint UI1015
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 109.9060 mm): Footprint R1094
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 89.5860 mm): Footprint C1033
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(105.2500 mm, 102.7500 mm): Footprint C742
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 79.6800 mm): Footprint R1043
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 105.8420 mm): Footprint R1004
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.2500 mm, 113.2500 mm): Footprint R735
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 123.2410 mm): Footprint C1026
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 81.2040 mm): Footprint U1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 108.3820 mm): Footprint C1043
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 94.6660 mm): Footprint C1016
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 107.3660 mm): Footprint C1055
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 78.6640 mm): Footprint R1084
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 116.2560 mm): Footprint C1045
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.0000 mm, 90.2500 mm): Footprint C756
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 110.4140 mm): Footprint C1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 79.1720 mm): Footprint R1044
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 110.4140 mm): Footprint R1012
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 80.6960 mm): Footprint C1028
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 83.2360 mm): Footprint R1080
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 103.9370 mm): Footprint C915
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 106.3500 mm): Footprint C1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 94.1580 mm): Footprint R1032
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 105.7150 mm): Footprint D903
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 81.2040 mm): Footprint R1039
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 81.7120 mm): Footprint C1014
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.6650 mm, 59.9950 mm): Footprint UI1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 107.3660 mm): Footprint C1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 107.8740 mm): Footprint R1093
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 103.9370 mm): Footprint C903
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.0000 mm, 86.2500 mm): Footprint R734
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 90.6020 mm): Footprint C1053
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 78.6640 mm): Footprint C1030
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(104.0000 mm, 60.5000 mm): Footprint C761
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 110.4140 mm): Footprint C1042
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(73.3300 mm, 118.7960 mm): Footprint U1004
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.0000 mm, 105.2500 mm): Footprint C754
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 120.3200 mm): Footprint R1055
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 92.1260 mm): Footprint R1087
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 119.3040 mm): Footprint R1065
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 83.7440 mm): Footprint R1048
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 93.6500 mm): Footprint C1035
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 120.3200 mm): Footprint C1047
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 117.2720 mm): Footprint R1061
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 82.7280 mm): Footprint R1079
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 116.2560 mm): Footprint R1060
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 140.0050 mm): Footprint UI1013
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(98.7500 mm, 105.2500 mm): Footprint C752
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 90.0940 mm): Footprint R1014
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(105.2500 mm, 57.5000 mm): Footprint C759
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 89.5860 mm): Footprint C1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 82.7280 mm): Footprint C1029
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 80.6960 mm): Footprint R1029
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 90.6020 mm): Footprint R1013
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 120.8280 mm): Footprint R1064
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 91.6180 mm): Footprint C1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 117.2720 mm): Footprint C1038
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 121.3360 mm): Footprint C1010
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 109.3980 mm): Footprint C1056
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 80.6960 mm): Footprint R1083
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 103.4290 mm): Footprint C1025
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 105.3340 mm): Footprint C1054
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 109.9060 mm): Footprint R1068
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 110.4140 mm): Footprint R1096
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 121.3360 mm): Footprint R1078
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 121.3360 mm): Footprint R1066
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 113.3350 mm): Footprint UI1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 117.2500 mm): Footprint C1012
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 90.0940 mm): Footprint R1050
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 109.3980 mm): Footprint C1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 92.1260 mm): Footprint R1051
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.0000 mm, 60.5000 mm): Footprint C760
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 59.9950 mm): Footprint UI1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 109.3980 mm): Footprint R1067
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 90.6020 mm): Footprint R1049
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 90.0940 mm): Footprint R1088
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 91.6180 mm): Footprint R1035
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.0000 mm, 94.7500 mm): Footprint C751
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 120.8280 mm): Footprint R1056
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 86.6650 mm): Footprint UI1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.1000 mm, 108.0000 mm): Footprint C748
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(101.5000 mm, 58.2500 mm): Footprint R738
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(106.8340 mm, 76.4890 mm): Footprint R801
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 79.1720 mm): Footprint R1028
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 109.3980 mm): Footprint R1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 100.0000 mm): Footprint M701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 107.8740 mm): Footprint R1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(98.5000 mm, 58.2500 mm): Footprint R739
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 142.5000 mm): Footprint R701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 118.2500 mm): Footprint R1023
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 59.9950 mm): Footprint UI1014
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 91.6180 mm): Footprint C1034
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 119.2500 mm): Footprint C1011
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 105.3340 mm): Footprint C1004
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 118.2880 mm): Footprint R1059
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(96.2500 mm, 111.7500 mm): Footprint R733
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 120.3200 mm): Footprint R1019
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 78.6640 mm): Footprint R1030
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 117.2720 mm): Footprint R1073
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 116.2560 mm): Footprint C1039
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 92.6340 mm): Footprint C1052
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 81.2040 mm): Footprint R1027
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 96.5710 mm): Footprint C1024
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 86.6650 mm): Footprint UI1009
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(104.7500 mm, 104.2500 mm): Footprint L701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 107.8740 mm): Footprint R1069
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 93.6500 mm): Footprint R1031
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 120.8280 mm): Footprint R1076
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(132.8930 mm, 105.8420 mm): Footprint R1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 96.5710 mm): Footprint C1020
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(59.9950 mm, 113.3350 mm): Footprint UI1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 83.7440 mm): Footprint C1048
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(67.1070 mm, 120.8280 mm): Footprint R1020
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.0000 mm, 62.7500 mm): Footprint U707
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(105.7500 mm, 104.2500 mm): Footprint C739
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 116.7640 mm): Footprint R1058
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(105.2500 mm, 101.5000 mm): Footprint C749
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 120.3200 mm): Footprint C1041
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 107.8740 mm): Footprint U1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 116.7640 mm): Footprint R1062
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 105.8420 mm): Footprint R1070
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.5530 mm, 92.1260 mm): Footprint R1015
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(68.6310 mm, 105.3340 mm): Footprint R1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 78.6640 mm): Footprint C1027
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 103.4290 mm): Footprint C1021
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 118.2880 mm): Footprint C1040
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 118.7960 mm): Footprint R1057
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(140.0050 mm, 105.7150 mm): Footprint D915
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 113.3350 mm): Footprint UI1012
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 76.7590 mm): Footprint C1019
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.3350 mm, 105.7150 mm): Footprint D911
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 81.2040 mm): Footprint U1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 108.3820 mm): Footprint R1095
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.9710 mm, 105.3340 mm): Footprint R1072
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(126.6700 mm, 118.7960 mm): Footprint U1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(78.0290 mm, 92.6340 mm): Footprint R1017
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 81.2040 mm): Footprint R1081
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.4470 mm, 92.1260 mm): Footprint R1033
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(131.3690 mm, 106.3500 mm): Footprint R1007
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 77.3300 mm): Arc on Edge.Cuts
+    @(50.0000 mm, 77.8300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 69.3300 mm): Arc on Edge.Cuts
+    @(50.0000 mm, 68.8300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 77.3300 mm): Arc on Edge.Cuts
+    @(51.5000 mm, 77.3300 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 69.3300 mm): Arc on Edge.Cuts
+    @(51.5000 mm, 69.3300 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 130.6700 mm): Arc on Edge.Cuts
+    @(50.0000 mm, 131.1700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(51.5000 mm, 122.1700 mm): Line on Edge.Cuts
+    @(50.0000 mm, 122.1700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(52.0000 mm, 130.6700 mm): Line on Edge.Cuts
+    @(51.5000 mm, 130.6700 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(52.0000 mm, 130.6700 mm): Line on Edge.Cuts
+    @(51.5000 mm, 122.6700 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.3300 mm, 148.5000 mm): Arc on Edge.Cuts
+    @(77.8300 mm, 150.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(68.8300 mm, 148.5000 mm): Line on Edge.Cuts
+    @(68.8300 mm, 150.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.3300 mm, 148.5000 mm): Arc on Edge.Cuts
+    @(77.3300 mm, 148.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.3300 mm, 148.0000 mm): Line on Edge.Cuts
+    @(69.3300 mm, 148.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(68.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(68.8300 mm, 50.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(77.8300 mm, 50.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(68.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(69.3300 mm, 51.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.3300 mm, 51.5000 mm): Arc on Edge.Cuts
+    @(77.3300 mm, 51.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(130.6700 mm, 148.5000 mm): Arc on Edge.Cuts
+    @(131.1700 mm, 150.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(122.6700 mm, 148.5000 mm): Arc on Edge.Cuts
+    @(122.1700 mm, 150.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(130.6700 mm, 148.0000 mm): Line on Edge.Cuts
+    @(130.6700 mm, 148.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(130.6700 mm, 148.0000 mm): Line on Edge.Cuts
+    @(122.6700 mm, 148.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(122.1700 mm, 50.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(130.6700 mm, 51.5000 mm): Arc on Edge.Cuts
+    @(131.1700 mm, 50.0000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(122.1700 mm, 50.0000 mm): Line on Edge.Cuts
+    @(122.6700 mm, 51.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(130.6700 mm, 51.5000 mm): Arc on Edge.Cuts
+    @(130.6700 mm, 51.5000 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 69.3300 mm): Arc on Edge.Cuts
+    @(150.0000 mm, 68.8300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 77.8300 mm): Line on Edge.Cuts
+    @(150.0000 mm, 77.8300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 69.3300 mm): Arc on Edge.Cuts
+    @(148.5000 mm, 69.3300 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 77.8300 mm): Line on Edge.Cuts
+    @(148.5000 mm, 77.3300 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(150.0000 mm, 122.1700 mm): Line on Edge.Cuts
+    @(150.0000 mm, 122.1700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 130.6700 mm): Arc on Edge.Cuts
+    @(150.0000 mm, 131.1700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(150.0000 mm, 122.1700 mm): Line on Edge.Cuts
+    @(148.5000 mm, 122.6700 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(148.5000 mm, 130.6700 mm): Arc on Edge.Cuts
+    @(148.5000 mm, 130.6700 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(104.7500 mm, 56.5700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(77.8300 mm, 50.0000 mm): Line on Edge.Cuts
+    @(95.2500 mm, 56.5700 mm): Line on F.Silkscreen
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(59.9950 mm, 132.3850 mm): Footprint D904
+    @(59.9950 mm, 130.6070 mm): Footprint C904
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(113.3350 mm, 132.3850 mm): Footprint D912
+    @(113.3350 mm, 130.6070 mm): Footprint C912
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(86.6650 mm, 132.3850 mm): Footprint D908
+    @(86.6650 mm, 130.6070 mm): Footprint C908
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(140.0050 mm, 132.3850 mm): Footprint D916
+    @(140.0050 mm, 130.6070 mm): Footprint C916
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(86.6650 mm, 52.3750 mm): Footprint D905
+    @(86.6650 mm, 50.5970 mm): Footprint C905
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(113.3350 mm, 52.3750 mm): Footprint D909
+    @(113.3350 mm, 50.5970 mm): Footprint C909
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(140.0050 mm, 79.0450 mm): Footprint D914
+    @(140.0050 mm, 77.2670 mm): Footprint C914
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(140.0050 mm, 50.5970 mm): Footprint C913
+    @(140.0050 mm, 52.3750 mm): Footprint D913
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(59.9950 mm, 52.3750 mm): Footprint D901
+    @(59.9950 mm, 50.5970 mm): Footprint C901
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(86.6650 mm, 79.0450 mm): Footprint D906
+    @(86.6650 mm, 77.2670 mm): Footprint C906
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(59.9950 mm, 79.0450 mm): Footprint D902
+    @(59.9950 mm, 77.2670 mm): Footprint C902
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(113.3350 mm, 79.0450 mm): Footprint D910
+    @(113.3350 mm, 77.2670 mm): Footprint C910
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(100.0000 mm, 53.4000 mm): Footprint J711
+    @(105.2500 mm, 57.5000 mm): Footprint C759
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(100.0000 mm, 53.4000 mm): Footprint J711
+    @(94.7500 mm, 57.5000 mm): Footprint R737
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(86.6650 mm, 103.9370 mm): Footprint C907
+    @(86.6650 mm, 105.7150 mm): Footprint D907
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(93.7500 mm, 97.7500 mm): Footprint TP707
+    @(93.7500 mm, 96.2500 mm): Footprint TP706
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(93.7500 mm, 97.7500 mm): Footprint TP707
+    @(92.2500 mm, 97.7500 mm): Footprint TP709
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(93.7500 mm, 96.2500 mm): Footprint TP706
+    @(92.2500 mm, 96.2500 mm): Footprint TP708
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(101.2500 mm, 113.2500 mm): Footprint R735
+    @(103.0000 mm, 118.0000 mm): Footprint SW702
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(140.0050 mm, 103.9370 mm): Footprint C915
+    @(140.0050 mm, 105.7150 mm): Footprint D915
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(59.9950 mm, 105.7150 mm): Footprint D903
+    @(59.9950 mm, 103.9370 mm): Footprint C903
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(104.0000 mm, 60.5000 mm): Footprint C761
+    @(103.0000 mm, 62.7500 mm): Footprint U707
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(103.0000 mm, 105.2500 mm): Footprint C754
+    @(105.0000 mm, 107.2500 mm): Footprint J701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(98.7500 mm, 105.2500 mm): Footprint C752
+    @(95.6250 mm, 105.2500 mm): Footprint J702
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(95.6250 mm, 105.2500 mm): Footprint J702
+    @(96.2500 mm, 111.7500 mm): Footprint R733
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(95.6250 mm, 105.2500 mm): Footprint J702
+    @(100.0000 mm, 100.0000 mm): Footprint U704
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(92.2500 mm, 96.2500 mm): Footprint TP708
+    @(92.2500 mm, 97.7500 mm): Footprint TP709
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.0000 mm, 60.5000 mm): Footprint C760
+    @(103.0000 mm, 62.7500 mm): Footprint U707
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.1000 mm, 108.0000 mm): Footprint C748
+    @(105.0000 mm, 107.2500 mm): Footprint J701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.1000 mm, 108.0000 mm): Footprint C748
+    @(100.3500 mm, 108.0000 mm): Footprint C750
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(104.7500 mm, 104.2500 mm): Footprint L701
+    @(105.0000 mm, 107.2500 mm): Footprint J701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(105.7500 mm, 104.2500 mm): Footprint C739
+    @(105.0000 mm, 107.2500 mm): Footprint J701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(97.0000 mm, 118.0000 mm): Footprint SW703
+    @(98.7500 mm, 113.2500 mm): Footprint C758
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(113.3350 mm, 105.7150 mm): Footprint D911
+    @(113.3350 mm, 103.9370 mm): Footprint C911
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(105.0000 mm, 107.2500 mm): Footprint J701
+    @(101.2500 mm, 110.2500 mm): Footprint Y701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(96.5000 mm, 93.5000 mm): Footprint TP702
+    @(96.5000 mm, 95.0000 mm): Footprint TP701
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(96.5000 mm, 93.5000 mm): Footprint TP702
+    @(98.0000 mm, 93.5000 mm): Footprint TP704
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(96.5000 mm, 95.0000 mm): Footprint TP701
+    @(100.0000 mm, 100.0000 mm): Footprint U703
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(96.5000 mm, 95.0000 mm): Footprint TP701
+    @(98.0000 mm, 95.0000 mm): Footprint TP703
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(100.0000 mm, 100.0000 mm): Footprint U703
+    @(98.0000 mm, 95.0000 mm): Footprint TP703
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(98.0000 mm, 95.0000 mm): Footprint TP703
+    @(98.0000 mm, 93.5000 mm): Footprint TP704
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; Severity: warning
+    @(105.7500 mm, 108.5000 mm): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; Severity: warning
+    @(104.2500 mm, 108.5000 mm): Via [GND] on F.Cu - B.Cu
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(126.4160 mm, 88.1890 mm): Track [Net-(U1004-Q)] on F.Cu, length 0.1270 mm
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

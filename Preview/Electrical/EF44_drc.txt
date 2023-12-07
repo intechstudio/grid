@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/EF44/EF44.kicad_pcb **
-** Created on 2023-12-07 21:49:42 **
+** Created on 2023-12-07 21:55:55 **
 
 ** Found 274 DRC violations **
 [silk_overlap]: Silkscreen overlap
