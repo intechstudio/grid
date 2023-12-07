@@ -2,7 +2,7 @@
 
 | Component                 | Part number          | Type       | Preview | Links        |
 |---------------------------|----------------------|------------|---------|--------------|
-| Rubber foot               | RUBBER-FOOT          | Fabricated |         | External     |
+| Rubber foot               | RUBBER-FOOT          | Fabricated | <img src="Preview/Mechanical/RUBBER-FOOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/RUBBER-FOOT.step) [[stl]](Preview/Mechanical/RUBBER-FOOT.stl) [[pdf]](Preview/Mechanical/RUBBER-FOOT_Drawing.pdf) |
 | Metric corner screw       | SCREW-M1.6x16        | Purchased  | <img src="Preview/Mechanical/SCREW-M1.6x16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/SCREW-M1.6x16.step) [[stl]](Preview/Mechanical/SCREW-M1.6x16.stl) |
 | Metric PCB screw          | SCREW-M1.6x8         | Purchased  | <img src="Preview/Mechanical/SCREW-M1.6x8.png?raw=true" width="100"> | [[step]](Preview/Mechanical/SCREW-M1.6x8.step) [[stl]](Preview/Mechanical/SCREW-M1.6x8.stl)|
 | Brass threaded insert 3mm | INSERT-M1.6x2.5x3    | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x3.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x3.stl) |
