@@ -34,12 +34,12 @@
 
 | Component                 | Part number          | Preview | Links        |
 |---------------------------|----------------------|---------|--------------|
-| Interfaceboard            | PCBA-INTERFACE       | <img src="Preview/Electrical/INTERFACE-3D_top.png?raw=true" width="150"> <img src="Preview/Electrical/INTERFACE-3D_bottom.png?raw=true" width="150"> | [[Schematic]](Preview/Electrical/INTERFACE_Schematic.pdf) [[Gerber]](Preview/Electrical/mfg/INTERFACE-gerber.zip?raw=true) |
-| PO16/BU16 Motherboard     | PCBA-PO16_BU16       | <img src="Preview/Electrical/PO16_BU16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PO16_BU16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PO16_BU16_Schematic.pdf) |
-| PBF4 Motherboard     | PCBA-PBF4       | <img src="Preview/Electrical/PBF4-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PBF4-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PBF4_Schematic.pdf) |
-| EN16 Motherboard     | PCBA-EN16       | <img src="Preview/Electrical/EN16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/EN16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/EN16_Schematic.pdf) |
-| EF44 Motherboard     | PCBA-EF44       | <img src="Preview/Electrical/EF44-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/EF44-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/EF44_Schematic.pdf) |
-| TEK2 Motherboard     | PCBA-TEK2       | <img src="Preview/Electrical/TEK2-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/TEK2-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/TEK2_Schematic.pdf) |
+| Interfaceboard            | PCBA-INTERFACE       | <img src="Preview/Electrical/PCBA-INTERFACE-3D_top.png?raw=true" width="150"> <img src="Preview/Electrical/PCBA-INTERFACE-3D_bottom.png?raw=true" width="150"> | [[Schematic]](Preview/Electrical/PCBA-INTERFACE_Schematic.pdf) [[Gerber]](Preview/Electrical/mfg/PCBA-INTERFACE-gerber.zip?raw=true) |
+| PO16/BU16 Motherboard     | PCBA-PO16_BU16       | <img src="Preview/Electrical/PCBA-PO16_BU16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-PO16_BU16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-PO16_BU16_Schematic.pdf) |
+| PBF4 Motherboard     | PCBA-PBF4       | <img src="Preview/Electrical/PCBA-PBF4-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-PBF4-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-PBF4_Schematic.pdf) |
+| EN16 Motherboard     | PCBA-EN16       | <img src="Preview/Electrical/PCBA-EN16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EN16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EN16_Schematic.pdf) |
+| EF44 Motherboard     | PCBA-EF44       | <img src="Preview/Electrical/PCBA-EF44-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EF44-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EF44_Schematic.pdf) |
+| TEK2 Motherboard     | PCBA-TEK2       | <img src="Preview/Electrical/PCBA-TEK2-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-TEK2-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-TEK2_Schematic.pdf) |
 # Desktop Tools Used
 - FreeCAD
 - KiCAD
