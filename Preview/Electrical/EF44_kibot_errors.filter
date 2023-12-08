@@ -1,6 +1,0 @@
-# Filter to ignore courtyards_overlap
-courtyards_overlap,Footprint
-# Filter to ignore silk_over_copper
-silk_over_copper,Silkscreen
-# Filter to ignore silk_overlap
-silk_overlap,Silkscreen
