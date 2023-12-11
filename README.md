@@ -1,5 +1,7 @@
 # Open-Source Hardware
 <img src="Preview/Logo/grid_oshwa.png?raw=true" width="100">
+Licence: GPL3
+[Project Page - Open Source Hardware Association](https://certification.oshwa.org/hu000001.html)
 
 # Mechanical components
 
