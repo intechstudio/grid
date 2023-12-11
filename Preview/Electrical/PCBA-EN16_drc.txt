@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-EN16/PCBA-EN16.kicad_pcb **
-** Created on 2023-12-08 14:32:19 **
+** Created on 2023-12-11 10:51:21 **
 
 ** Found 409 DRC violations **
 [silk_overlap]: Silkscreen overlap
