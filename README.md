@@ -1,3 +1,6 @@
+# Open-Source Hardware
+<img src="Preview/Logo/grid_oshwa.png?raw=true" width="100">
+
 # Mechanical components
 
 | Component                 | Part number          | Type       | Preview | Links        |
