@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-PBF4/PCBA-PBF4.kicad_pcb **
-** Created on 2023-12-12 08:25:25 **
+** Created on 2023-12-12 08:43:41 **
 
 ** Found 265 DRC violations **
 [silk_over_copper]: Silkscreen clipped by solder mask
