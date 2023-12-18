@@ -1,4 +1,4 @@
-ERC report (Tue Dec 12 08:43:29 2023, Encoding UTF8)
+ERC report (Mon Dec 18 16:15:30 2023, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -1344,7 +1344,7 @@ ERC report (Tue Dec 12 08:43:29 2023, Encoding UTF8)
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW'
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; Severity: warning
-    @(55.8800 mm, 53.3400 mm): Symbol #PWR0879 Hidden pin 1 [+3V3, Power input, Line]
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
     @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
