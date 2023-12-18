@@ -24,7 +24,7 @@ Licence: GPL3
 | 3x3x3mm N52 neodymium     | MAGNET-SQ3           | Fabricated | <img src="Preview/Mechanical/MAGNET-SQ3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-SQ3.step) [[stl]](Preview/Mechanical/MAGNET-SQ3.stl) [[pdf]](Preview/Mechanical/MAGNET-SQ3_Drawing.pdf) |
 | Potmeter Bushing          | PLASTIC-BUSHING-POT  | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT_Drawing.pdf) |
 | Crown                     | PLASTIC-SPACER       | Fabricated | <img src="Preview/Mechanical/PLASTIC-SPACER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-SPACER.step) [[stl]](Preview/Mechanical/PLASTIC-SPACER.stl) [[pdf]](Preview/Mechanical/PLASTIC-SPACER_Drawing.pdf) |
-| Lightpipe                 | PLASTIC-LIGHTPIPE    | Purchased  | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE.stl)  |
+| Lightpipe                 | PLASTIC-LIGHTPIPE    | Purchased  | <img src="Preview/Mechanical/LIGHTPIPE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/LIGHTPIPE.step) [[stl]](Preview/Mechanical/LIGHTPIPE.stl)  |
 | Encoder Knob Injection    | PLASTIC-KNOB-ENC     | Fabricated |         | External     |
 | Potmeter Knob Injection   | PLASTIC-KNOB-POT     | Fabricated |         | External     |
 | Encoder                   | PCBA-ENC             | Purchased  |         | Reference    |
