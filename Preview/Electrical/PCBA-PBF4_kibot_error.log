@@ -573,21 +573,13 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     @(25.4000 mm, 139.7000 mm): Symbol C759 [CAP] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
     @(66.0400 mm, 71.1200 mm): Symbol #FLG0702 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
-    @(190.5000 mm, 71.1200 mm): Symbol #PWR0874 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0872 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0872 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(96.5200 mm, 40.6400 mm): Symbol U706 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(83.8200 mm, 35.5600 mm): Symbol #PWR0867 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 40.6400 mm): Symbol #PWR0871 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
     @(76.2000 mm, 71.1200 mm): Symbol #PWR0865 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(106.6800 mm, 48.2600 mm): Symbol #PWR0870 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
+    @(190.5000 mm, 71.1200 mm): Symbol #PWR0874 Hidden pin 1 [+5V, Power input, Line]
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0867 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0867 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
     @(213.3600 mm, 68.5800 mm): Symbol #FLG0704 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
@@ -596,6 +588,14 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'p
     @(185.4200 mm, 71.1200 mm): Symbol #PWR0873 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(200.6600 mm, 73.6600 mm): Symbol L703 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0872 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(96.5200 mm, 40.6400 mm): Symbol U706 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    @(106.6800 mm, 48.2600 mm): Symbol #PWR0870 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    @(139.7000 mm, 40.6400 mm): Symbol #PWR0871 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     @(104.1400 mm, 63.5000 mm): Symbol #PWR0832 Hidden pin 1 [+3V3, Power input, Line]
     @(78.7400 mm, 76.2000 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
@@ -632,6 +632,41 @@ WARNING:(W049) Layer "Inner layer 4" isn't used (kibot - out_any_layer.py:187)
 WARNING:(W049) Layer "Inner layer 5" isn't used (kibot - out_any_layer.py:187)
 WARNING:(W049) Layer "Inner layer 6" isn't used (kibot - out_any_layer.py:187)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
+WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
+WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:356)
+WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:431)
+ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - config.py:113)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - config.py:113)
+WARNING:(W047) Missing 3D model for D901: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D905: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1003: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1005: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1007: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1010: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1012: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1004: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1008: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1002: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for J711: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:503)
+WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:168)
+WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:503)
+WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:503)
+WARNING:(W098)  11 3D models downloaded or cached (kibot - out_base_3d.py:516)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:356)
 WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:431)
