@@ -14,8 +14,8 @@ Licence: GPL3
 | Brass threaded insert 3mm | INSERT-M1.6x2.5x3    | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x3.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x3.stl) |
 | Brass threaded insert 4mm | INSERT-M1.6x2.5x4    | Purchased  | <img src="Preview/Mechanical/INSERT-M1.6x2.5x4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-M1.6x2.5x4.step) [[stl]](Preview/Mechanical/INSERT-M1.6x2.5x4.stl) |
 | Lower housing             | PLASTIC-HOUSING      | Fabricated | <img src="Preview/Mechanical/Canvas/PLASTIC-HOUSING.png?raw=true" width="100"> | [[Model tree]]("Preview/Mechanical/Canvas/README.md) |
-| Mapmode button            | PLASTIC-MAPMODE      | Fabricated |         | Source       |
-| Mapmode button            | PLASTIC-MAGNET-COVER | Fabricated |         | Source       |
+| Mapmode button            | PLASTIC-MAPMODE      | Fabricated | <img src="Preview/Mechanical/PLASTIC-MAPMODE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-MAPMODE.step) [[stl]](Preview/Mechanical/PLASTIC-MAPMODE.stl) |       
+| Mapmode button            | PLASTIC-MAGNET-COVER | Fabricated | <img src="Preview/Mechanical/PLASTIC-MAGNET-COVER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-MAPMODE.step) [[stl]](Preview/Mechanical/PLASTIC-MAGNET-COVER.stl) |       
 | Frontpanel BU16*          | FRONTPANEL-SHEET-BU16           | Fabricated | <img src="Preview/Mechanical/FRONTPANEL-SHEET-BU16.png?raw=true" width="100"> | [[step]](Preview/Mechanical/FRONTPANEL-SHEET-BU16.step) [[stl]](Preview/Mechanical/FRONTPANEL-SHEET-BU16.stl) [[pdf]](Preview/Mechanical/BU16_Drawing.pdf) |
 | Frontpanel PBF4           | FRONTPANEL-SHEET-PBF4           | Fabricated | <img src="Preview/Mechanical/FRONTPANEL-SHEET-PBF4.png?raw=true" width="100"> | [[step]](Preview/Mechanical/FRONTPANEL-SHEET-PBF4.step) [[stl]](Preview/Mechanical/FRONTPANEL-SHEET-PBF4.stl) [[pdf]](Preview/Mechanical/PBF4_Drawing.pdf) |
 | Frontpanel EF44           | FRONTPANEL-SHEET-EF44           | Fabricated | <img src="Preview/Mechanical/FRONTPANEL-SHEET-EF44.png?raw=true" width="100"> | [[step]](Preview/Mechanical/FRONTPANEL-SHEET-EF44.step) [[stl]](Preview/Mechanical/FRONTPANEL-SHEET-EF44.stl) [[pdf]](Preview/Mechanical/EF44_Drawing.pdf) |
@@ -24,7 +24,7 @@ Licence: GPL3
 | 3x3x3mm N52 neodymium     | MAGNET-SQ3           | Fabricated | <img src="Preview/Mechanical/MAGNET-SQ3.png?raw=true" width="100"> | [[step]](Preview/Mechanical/MAGNET-SQ3.step) [[stl]](Preview/Mechanical/MAGNET-SQ3.stl) [[pdf]](Preview/Mechanical/MAGNET-SQ3_Drawing.pdf) |
 | Potmeter Bushing          | PLASTIC-BUSHING-POT  | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT_Drawing.pdf) |
 | Crown                     | PLASTIC-SPACER       | Fabricated | <img src="Preview/Mechanical/PLASTIC-SPACER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-SPACER.step) [[stl]](Preview/Mechanical/PLASTIC-SPACER.stl) [[pdf]](Preview/Mechanical/PLASTIC-SPACER_Drawing.pdf) |
-| Lightpipe                 | PLASTIC-LIGHTPIPE    | Purchased  |         | Reference    |
+| Lightpipe                 | PLASTIC-LIGHTPIPE    | Purchased  | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE.stl)  |
 | Encoder Knob Injection    | PLASTIC-KNOB-ENC     | Fabricated |         | External     |
 | Potmeter Knob Injection   | PLASTIC-KNOB-POT     | Fabricated |         | External     |
 | Encoder                   | PCBA-ENC             | Purchased  |         | Reference    |
