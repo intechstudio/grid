@@ -33,7 +33,7 @@ Licence: GPL3
 | Long Fader                | PCBA-LONGFADER       | Purchased  | <img src="Preview/Mechanical/PCBA-LONGFADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-LONGFADER.step) [[stl]](Preview/Mechanical/PCBA-LONGFADER.stl) |
 | Fader Cap                 | PLASTIC-CAP-FADER    | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-FADER.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-FADER.stl) |
 | Button                    | PCBA-BUTTON          | Purchased  | <img src="Preview/Mechanical/PCBA-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-BUTTON.step) [[stl]](Preview/Mechanical/PCBA-BUTTON.stl) |
-| Button Cap                | PLASTIC-CAP-BUTTON   | Purchased  |         |              |
+| Button Cap                | PLASTIC-CAP-BUTTON   | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-BUTTON.stl) |
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  | <img src="Preview/Mechanical/PCBA-ENDLESSPOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENDLESSPOT.step) [[stl]](Preview/Mechanical/PCBA-ENDLESSPOT.stl) |
 
 ## Electrical components
