@@ -35,7 +35,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     @(40.6400 mm, 66.0400 mm): Symbol #PWR0957 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (multiple_net_names) Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
-    @(55.8800 mm, 114.3000 mm): Symbol #PWR0704 Hidden pin 1 [GND, Power input, Line]
+    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
     @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     @(55.8800 mm, 114.3000 mm): Symbol #PWR0704 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)

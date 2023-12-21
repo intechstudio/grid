@@ -1,4 +1,4 @@
-ERC report (Thu Dec 21 08:15:09 2023, Encoding UTF8)
+ERC report (Thu Dec 21 09:12:01 2023, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -54,7 +54,7 @@ ERC report (Thu Dec 21 08:15:09 2023, Encoding UTF8)
     @(40.6400 mm, 66.0400 mm): Symbol #PWR0957 [GND]
 [multiple_net_names]: Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
     ; Severity: warning
-    @(55.8800 mm, 114.3000 mm): Symbol #PWR0704 Hidden pin 1 [GND, Power input, Line]
+    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
     @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning

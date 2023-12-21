@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-PO16_BU16/PCBA-PO16_BU16.kicad_pcb **
-** Created on 2023-12-21 08:15:11 **
+** Created on 2023-12-21 09:12:06 **
 
 ** Found 339 DRC violations **
 [silk_over_copper]: Silkscreen clipped by solder mask
