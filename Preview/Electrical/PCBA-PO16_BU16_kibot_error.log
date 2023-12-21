@@ -1,6 +1,6 @@
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
 WARNING:(W058) Missing KiCad main config file /github/home/.config/kicad/7.0/kicad_common.json (eeschema_do - misc.py:201) (kibot - kiplot.py:132)
-WARNING:(W058) 443 ERC warnings detected (eeschema_do - eeschema_do:1001) (kibot - kiplot.py:132)
+WARNING:(W058) 447 ERC warnings detected (eeschema_do - eeschema_do:1001) (kibot - kiplot.py:132)
 WARNING:(W058) (multiple_net_names) Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     @(215.9000 mm, 185.4200 mm): Global Label 'ESP_GPIO_1'
     @(215.9000 mm, 187.9600 mm): Global Label 'ESP_GPIO_18' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
@@ -806,31 +806,39 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'p
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(200.6600 mm, 73.6600 mm): Symbol L703 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(55.8800 mm, 53.3400 mm): Symbol #PWR0879 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+    @(33.0200 mm, 83.8200 mm): Symbol #PWR0701 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(55.8800 mm, 58.4200 mm): Symbol R33 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+    @(33.0200 mm, 88.9000 mm): Symbol JP1 [JP_SolderJumper_2_Open] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     @(55.8800 mm, 73.6600 mm): Symbol #PWR0152 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(55.8800 mm, 68.5800 mm): Symbol JP1 [JP_SolderJumper_2_Open] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+    @(55.8800 mm, 53.3400 mm): Symbol #PWR0879 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    @(33.0200 mm, 104.1400 mm): Symbol #PWR0152 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(33.0200 mm, 99.0600 mm): Symbol R33 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(55.8800 mm, 58.4200 mm): Symbol R33 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
-    @(55.8800 mm, 53.3400 mm): Symbol #PWR0879 Hidden pin 1 [+3V3, Power input, Line]
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
     @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(121.9200 mm, 93.9800 mm): Symbol C801 [CAP] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 [GND] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:132)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:356)
@@ -839,7 +847,7 @@ WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L703) (kibot - units.py:224)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:356)
 WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:431)
-ERROR:Found 0 DRC errors and 243 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1282) (kibot - kiplot.py:129)
+ERROR:Found 0 DRC errors and 245 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1282) (kibot - kiplot.py:129)
 WARNING:(W015) Unknown option `exclude_filter` (kibot - optionable.py:149)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1057)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:356)

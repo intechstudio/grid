@@ -1,7 +1,7 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-PO16_BU16/PCBA-PO16_BU16.kicad_pcb **
-** Created on 2023-12-18 16:22:05 **
+** Created on 2023-12-21 08:15:11 **
 
-** Found 337 DRC violations **
+** Found 339 DRC violations **
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(61.4450 mm, 132.9350 mm): Line on F.Silkscreen
@@ -205,7 +205,7 @@
     @(94.8692 mm, 110.6680 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
-    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid PO16_BU16 RevD ...' on F.Silkscreen
+    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid PBXX 2023/12 EE...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
     @(100.0000 mm, 122.7500 mm): PCB Text 'GND' on F.Silkscreen
@@ -649,7 +649,7 @@
     @(101.5000 mm, 58.2500 mm): Footprint R738
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(96.5710 mm, 73.5840 mm): Footprint R801
+    @(96.5000 mm, 72.7500 mm): Footprint R801
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(100.0000 mm, 100.0000 mm): Footprint M701
@@ -665,6 +665,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(113.3350 mm, 86.6650 mm): Footprint UI1010
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(96.5000 mm, 74.0000 mm): Footprint R702
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(86.6650 mm, 86.6650 mm): Footprint UI1022
@@ -1057,6 +1060,9 @@
 [via_dangling]: Via is not connected or connected on only one layer
     Local override; Severity: warning
     @(105.7500 mm, 108.5000 mm): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; Severity: warning
+    @(100.4840 mm, 74.9050 mm): Via [Net-(JP701-B)] on F.Cu - B.Cu
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
