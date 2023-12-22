@@ -25,8 +25,8 @@ Licence: GPL3
 | Potmeter Bushing          | PLASTIC-BUSHING-POT  | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT_Drawing.pdf) |
 | Crown                     | PLASTIC-SPACER       | Fabricated | <img src="Preview/Mechanical/PLASTIC-SPACER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-SPACER.step) [[stl]](Preview/Mechanical/PLASTIC-SPACER.stl) |
 | Lightpipe                 | PLASTIC-LIGHTPIPE    | Purchased  | <img src="Preview/Mechanical/LIGHTPIPE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/LIGHTPIPE.step) [[stl]](Preview/Mechanical/LIGHTPIPE.stl)  |
-| Encoder Knob Injection    | PLASTIC-KNOB-ENC     | Fabricated |         | External     |
-| Potmeter Knob Injection   | PLASTIC-KNOB-POT     | Fabricated |         | External     |
+| Encoder Knob Injection    | PLASTIC-KNOB-ENC     | Fabricated | <img src="Preview/Mechanical/PLASTIC-KNOB-ENC.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-KNOB-ENC.step) [[stl]](Preview/Mechanical/PLASTIC-KNOB-ENC.stl) |
+| Potmeter Knob Injection   | PLASTIC-KNOB-POT     | Fabricated | <img src="Preview/Mechanical/PLASTIC-KNOB-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-KNOB-POT.step) [[stl]](Preview/Mechanical/PLASTIC-KNOB-POT.stl) |
 | Encoder                   | PCBA-ENC             | Purchased  | <img src="Preview/Mechanical/PCBA-ENC.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENC.step) [[stl]](Preview/Mechanical/PCBA-ENC.stl) |
 | Potmeter                  | PCBA-POT             | Purchased  | <img src="Preview/Mechanical/PCBA-POT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-POT.step) [[stl]](Preview/Mechanical/PCBA-POT.stl) |
 | Fader                     | PCBA-FADER           | Purchased  | <img src="Preview/Mechanical/PCBA-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-FADER.step) [[stl]](Preview/Mechanical/PCBA-FADER.stl) |
