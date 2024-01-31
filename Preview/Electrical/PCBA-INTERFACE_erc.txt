@@ -1,4 +1,4 @@
-ERC report (Sun Jan  7 15:36:36 2024, Encoding UTF8)
+ERC report (Wed Jan 31 14:25:56 2024, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'

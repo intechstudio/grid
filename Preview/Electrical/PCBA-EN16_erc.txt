@@ -1,4 +1,4 @@
-ERC report (Sun Jan  7 15:36:39 2024, Encoding UTF8)
+ERC report (Wed Jan 31 14:25:53 2024, Encoding UTF8)
 
 ***** Sheet /
 
@@ -1145,10 +1145,10 @@ Failed to read simulation model from fields.
 [simulation_model_issue]: Error reading simulation model from symbol 'U704':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3FN8]
+    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3FN8]
+    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3]
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; Severity: warning
     @(228.6000 mm, 137.1600 mm): Global Label 'ESP_GPIO_46'
@@ -1202,215 +1202,215 @@ Failed to read simulation model from fields.
     @(233.6800 mm, 35.5600 mm): Symbol #PWR0830 [+3V3]
 
 ***** Sheet /MCU/sheet5D85C9EA/
-[simulation_model_issue]: Error reading simulation model from symbol 'J705':
+[simulation_model_issue]: Error reading simulation model from symbol 'J501':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(63.5000 mm, 48.2600 mm): Symbol J705 [Conn_01x04]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(55.8800 mm, 38.1000 mm): Symbol #PWR0851 [+5V]
-[simulation_model_issue]: Error reading simulation model from symbol 'J707':
+    @(63.5000 mm, 48.2600 mm): Symbol J501 [Conn_01x04]
+[simulation_model_issue]: Error reading simulation model from symbol 'J502':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(86.3600 mm, 48.2600 mm): Symbol J707 [Conn_01x04]
+    @(86.3600 mm, 48.2600 mm): Symbol J502 [Conn_01x04]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(78.7400 mm, 38.1000 mm): Symbol #PWR0855 [GND]
-[simulation_model_issue]: Error reading simulation model from symbol 'J703':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(48.2600 mm, 66.0400 mm): Symbol J703 [Conn_01x04]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(38.1000 mm, 55.8800 mm): Symbol #PWR0847 [+5V]
+    @(38.1000 mm, 73.6600 mm): Symbol #PWR0507 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(73.6600 mm, 38.1000 mm): Symbol #PWR0853 [GND]
+    @(78.7400 mm, 38.1000 mm): Symbol #PWR0503 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(38.1000 mm, 73.6600 mm): Symbol #PWR0848 [GND]
-[simulation_model_issue]: Error reading simulation model from symbol 'M701':
+    @(73.6600 mm, 38.1000 mm): Symbol #PWR0502 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(55.8800 mm, 38.1000 mm): Symbol #PWR0501 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'J504':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(177.8000 mm, 63.5000 mm): Symbol M701 [Conn_01x08]
-[simulation_model_issue]: Error reading simulation model from symbol 'J704':
+    @(48.2600 mm, 66.0400 mm): Symbol J504 [Conn_01x04]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(38.1000 mm, 55.8800 mm): Symbol #PWR0505 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'M501':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(48.2600 mm, 88.9000 mm): Symbol J704 [Conn_01x04]
+    @(177.8000 mm, 63.5000 mm): Symbol M501 [Conn_01x08]
+[simulation_model_issue]: Error reading simulation model from symbol 'J506':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(48.2600 mm, 88.9000 mm): Symbol J506 [Conn_01x04]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(38.1000 mm, 78.7400 mm): Symbol #PWR0849 [GND]
+    @(38.1000 mm, 78.7400 mm): Symbol #PWR0509 [GND]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; Severity: warning
-    @(55.8800 mm, 114.3000 mm): Symbol #PWR0852 [+5V]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(78.7400 mm, 114.3000 mm): Symbol #PWR0856 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(73.6600 mm, 114.3000 mm): Symbol #PWR0854 [GND]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(38.1000 mm, 96.5200 mm): Symbol #PWR0850 [+5V]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(96.5200 mm, 114.3000 mm): Symbol #PWR0858 [+5V]
-[simulation_model_issue]: Error reading simulation model from symbol 'J706':
+    @(55.8800 mm, 114.3000 mm): Symbol #PWR0513 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'J508':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(66.0400 mm, 104.1400 mm): Symbol J706 [Conn_01x04]
-[simulation_model_issue]: Error reading simulation model from symbol 'J708':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(88.9000 mm, 104.1400 mm): Symbol J708 [Conn_01x04]
-[simulation_model_issue]: Error reading simulation model from symbol 'J710':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(104.1400 mm, 86.3600 mm): Symbol J710 [Conn_01x04]
+    @(88.9000 mm, 104.1400 mm): Symbol J508 [Conn_01x04]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; Severity: warning
-    @(114.3000 mm, 55.8800 mm): Symbol #PWR0859 [+5V]
+    @(38.1000 mm, 96.5200 mm): Symbol #PWR0511 [+5V]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(96.5200 mm, 114.3000 mm): Symbol #PWR0516 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'J507':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(66.0400 mm, 104.1400 mm): Symbol J507 [Conn_01x04]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(114.3000 mm, 73.6600 mm): Symbol #PWR0860 [GND]
+    @(73.6600 mm, 114.3000 mm): Symbol #PWR0514 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(114.3000 mm, 78.7400 mm): Symbol #PWR0861 [GND]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(114.3000 mm, 96.5200 mm): Symbol #PWR0862 [+5V]
-[simulation_model_issue]: Error reading simulation model from symbol 'J709':
+    @(78.7400 mm, 114.3000 mm): Symbol #PWR0515 [GND]
+[simulation_model_issue]: Error reading simulation model from symbol 'J505':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(104.1400 mm, 63.5000 mm): Symbol J709 [Conn_01x04]
+    @(104.1400 mm, 86.3600 mm): Symbol J505 [Conn_01x04]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; Severity: warning
-    @(96.5200 mm, 38.1000 mm): Symbol #PWR0857 [+5V]
+    @(114.3000 mm, 96.5200 mm): Symbol #PWR0512 [+5V]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(114.3000 mm, 55.8800 mm): Symbol #PWR0506 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(114.3000 mm, 78.7400 mm): Symbol #PWR0510 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(114.3000 mm, 73.6600 mm): Symbol #PWR0508 [GND]
+[simulation_model_issue]: Error reading simulation model from symbol 'J503':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(104.1400 mm, 63.5000 mm): Symbol J503 [Conn_01x04]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(96.5200 mm, 38.1000 mm): Symbol #PWR0504 [+5V]
 
 ***** Sheet /MCU/Sheet60F06FE1/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(248.9200 mm, 78.7400 mm): Symbol C761 [CAP]
+    @(248.9200 mm, 78.7400 mm): Symbol C602 [CAP]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
-    @(213.3600 mm, 68.5800 mm): Symbol #FLG0704 [PWR_FLAG]
-[simulation_model_issue]: Error reading simulation model from symbol 'TP715':
+    @(213.3600 mm, 68.5800 mm): Symbol #FLG0601 [PWR_FLAG]
+[simulation_model_issue]: Error reading simulation model from symbol 'TP605':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(259.0800 mm, 76.2000 mm): Symbol TP715 [TestPoint_Alt]
-[simulation_model_issue]: Error reading simulation model from symbol 'U707':
+    @(259.0800 mm, 76.2000 mm): Symbol TP605 [TestPoint_Alt]
+[simulation_model_issue]: Error reading simulation model from symbol 'U602':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(236.2200 mm, 76.2000 mm): Symbol U707 [U_REGULATOR_SOT23-5]
+    @(236.2200 mm, 76.2000 mm): Symbol U602 [U_REGULATOR_SOT23-5]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(248.9200 mm, 83.8200 mm): Symbol #PWR0877 [GND]
+    @(248.9200 mm, 83.8200 mm): Symbol #PWR0610 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(236.2200 mm, 86.3600 mm): Symbol #PWR0876 [GND]
+    @(236.2200 mm, 86.3600 mm): Symbol #PWR0611 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(236.2200 mm, 76.2000 mm): Symbol U707 [U_REGULATOR_SOT23-5]
+    @(236.2200 mm, 76.2000 mm): Symbol U602 [U_REGULATOR_SOT23-5]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(218.4400 mm, 78.7400 mm): Symbol C760 [CAP]
+    @(218.4400 mm, 78.7400 mm): Symbol C601 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(218.4400 mm, 83.8200 mm): Symbol #PWR0875 [GND]
+    @(218.4400 mm, 83.8200 mm): Symbol #PWR0609 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; Severity: warning
-    @(261.6200 mm, 71.1200 mm): Symbol #PWR0878 [+3V3]
+    @(261.6200 mm, 71.1200 mm): Symbol #PWR0608 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(76.2000 mm, 119.3800 mm): Symbol #PWR0866 [GND]
+    @(101.6000 mm, 101.6000 mm): Symbol #PWR0613 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(93.9800 mm, 96.5200 mm): Symbol R601 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(101.6000 mm, 96.5200 mm): Symbol R602 [RES]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(93.9800 mm, 101.6000 mm): Symbol #PWR0612 [GND]
+[simulation_model_issue]: Error reading simulation model from symbol 'J601':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG0703 [PWR_FLAG]
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG0603 [PWR_FLAG]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(38.1000 mm, 139.7000 mm): Symbol R603 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(101.6000 mm, 101.6000 mm): Symbol #PWR0869 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(93.9800 mm, 96.5200 mm): Symbol R738 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(101.6000 mm, 96.5200 mm): Symbol R739 [RES]
+    @(76.2000 mm, 119.3800 mm): Symbol #PWR0614 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(93.9800 mm, 101.6000 mm): Symbol #PWR0868 [GND]
-[simulation_model_issue]: Error reading simulation model from symbol 'J711':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(40.6400 mm, 96.5200 mm): Symbol J711 [USB_C_TYPE-C-32-M-12]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(40.6400 mm, 96.5200 mm): Symbol J711 [USB_C_TYPE-C-32-M-12]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(38.1000 mm, 139.7000 mm): Symbol R737 [RES]
+    @(25.4000 mm, 144.7800 mm): Symbol #PWR0615 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(25.4000 mm, 144.7800 mm): Symbol #PWR0863 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(38.1000 mm, 144.7800 mm): Symbol #PWR0864 [GND]
+    @(38.1000 mm, 144.7800 mm): Symbol #PWR0616 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(25.4000 mm, 139.7000 mm): Symbol C759 [CAP]
+    @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; Severity: warning
+    @(76.2000 mm, 71.1200 mm): Symbol #PWR0605 [VBUS]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
-    @(66.0400 mm, 71.1200 mm): Symbol #FLG0702 [PWR_FLAG]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; Severity: warning
-    @(76.2000 mm, 71.1200 mm): Symbol #PWR0865 [VBUS]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; Severity: warning
-    @(83.8200 mm, 35.5600 mm): Symbol #PWR0867 [VBUS]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(190.5000 mm, 71.1200 mm): Symbol #PWR0874 [+5V]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; Severity: warning
-    @(185.4200 mm, 71.1200 mm): Symbol #PWR0873 [VBUS]
-[simulation_model_issue]: Error reading simulation model from symbol 'TP714':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(170.1800 mm, 30.4800 mm): Symbol TP714 [TestPoint_Alt]
-[simulation_model_issue]: Error reading simulation model from symbol 'TP713':
-Failed to read simulation model from fields.
-    ; Severity: warning
-    @(160.0200 mm, 30.4800 mm): Symbol TP713 [TestPoint_Alt]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(200.6600 mm, 73.6600 mm): Symbol L703 [FERRIT]
+    @(66.0400 mm, 71.1200 mm): Symbol #FLG0602 [PWR_FLAG]
 [multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
     ; Severity: warning
-    @(190.5000 mm, 71.1200 mm): Symbol #PWR0874 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0872 Hidden pin 1 [VBUS, Power input, Line]
-[simulation_model_issue]: Error reading simulation model from symbol 'TP712':
+    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
+[simulation_model_issue]: Error reading simulation model from symbol 'TP602':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(149.8600 mm, 30.4800 mm): Symbol TP712 [TestPoint_Alt]
+    @(149.8600 mm, 30.4800 mm): Symbol TP602 [TestPoint_Alt]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; Severity: warning
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0872 [VBUS]
-[simulation_model_issue]: Error reading simulation model from symbol 'U706':
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 [VBUS]
+[simulation_model_issue]: Error reading simulation model from symbol 'U601':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(96.5200 mm, 40.6400 mm): Symbol U706 [U_ESD_4ch]
+    @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(96.5200 mm, 40.6400 mm): Symbol U706 [U_ESD_4ch]
-[simulation_model_issue]: Error reading simulation model from symbol 'TP711':
+    @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch]
+[simulation_model_issue]: Error reading simulation model from symbol 'TP601':
 Failed to read simulation model from fields.
     ; Severity: warning
-    @(139.7000 mm, 30.4800 mm): Symbol TP711 [TestPoint_Alt]
+    @(139.7000 mm, 30.4800 mm): Symbol TP601 [TestPoint_Alt]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(139.7000 mm, 40.6400 mm): Symbol #PWR0871 [GND]
+    @(139.7000 mm, 40.6400 mm): Symbol #PWR0602 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(106.6800 mm, 48.2600 mm): Symbol #PWR0870 [GND]
+    @(106.6800 mm, 48.2600 mm): Symbol #PWR0604 [GND]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; Severity: warning
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 [VBUS]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 [+5V]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; Severity: warning
+    @(185.4200 mm, 71.1200 mm): Symbol #PWR0606 [VBUS]
+[simulation_model_issue]: Error reading simulation model from symbol 'TP604':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(170.1800 mm, 30.4800 mm): Symbol TP604 [TestPoint_Alt]
+[simulation_model_issue]: Error reading simulation model from symbol 'TP603':
+Failed to read simulation model from fields.
+    ; Severity: warning
+    @(160.0200 mm, 30.4800 mm): Symbol TP603 [TestPoint_Alt]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT]
 
 ***** Sheet /HWCFG/
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
