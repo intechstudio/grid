@@ -1,4 +1,4 @@
-ERC report (Wed Jan 31 14:25:53 2024, Encoding UTF8)
+ERC report (Mon Mar 18 15:37:23 2024, Encoding UTF8)
 
 ***** Sheet /
 
@@ -809,6 +809,9 @@ Failed to read simulation model from fields.
     @(160.0200 mm, 116.8400 mm): Symbol C748 [CAP]
 [simulation_model_issue]: Error reading simulation model from symbol 'J701':
 Failed to read simulation model from fields.
+    ; Severity: warning
+    @(104.1400 mm, 66.0400 mm): Symbol J701 [Conn_Coaxial]
+[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
     ; Severity: warning
     @(104.1400 mm, 66.0400 mm): Symbol J701 [Conn_Coaxial]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
@@ -3114,4 +3117,4 @@ Failed to read simulation model from fields.
     ; Severity: warning
     @(73.6600 mm, 55.8800 mm): Symbol UI1013 [UI_Rotary_Encoder_Switch]
 
- ** ERC messages: 914  Errors 0  Warnings 914
+ ** ERC messages: 915  Errors 0  Warnings 915

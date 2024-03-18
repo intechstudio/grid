@@ -1,4 +1,4 @@
-ERC report (Wed Jan 31 14:25:52 2024, Encoding UTF8)
+ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -144,6 +144,9 @@ ERC report (Wed Jan 31 14:25:52 2024, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(160.0200 mm, 116.8400 mm): Symbol C748 [CAP]
+[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
+    ; Severity: warning
+    @(104.1400 mm, 66.0400 mm): Symbol J701 [Conn_Coaxial]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(124.4600 mm, 66.0400 mm): Symbol L701 [INDUCTOR]
@@ -1031,4 +1034,4 @@ ERC report (Wed Jan 31 14:25:52 2024, Encoding UTF8)
     ; Severity: warning
     @(111.7600 mm, 63.5000 mm): Symbol C1028 [CAP]
 
- ** ERC messages: 334  Errors 0  Warnings 334
+ ** ERC messages: 335  Errors 0  Warnings 335
