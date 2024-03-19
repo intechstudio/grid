@@ -42,6 +42,7 @@ Licence: GPL3
 | Knob interface TEK2 | PLASTIC-TEK2-KNOB-INTERFACE | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.step) [[stl]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.stl) |
 | Potmeter Bushing TEK2 | PLASTIC-BUSHING-POT-TEK2 | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2_Drawing.pdf) |
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  | <img src="Preview/Mechanical/PCBA-ENDLESSPOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENDLESSPOT.step) [[stl]](Preview/Mechanical/PCBA-ENDLESSPOT.stl) [[pdf]](Preview/Mechanical/PCBA-ENDLESSPOT.pdf) |
+| TEK2 Lightpipce isolator | PLASTIC-LIGHTPIPE-ISOLATOR | Fabricated | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.stl) |
 
 ## Electrical components
 
@@ -53,6 +54,7 @@ Licence: GPL3
 | EN16 Motherboard     | PCBA-EN16       | <img src="Preview/Electrical/PCBA-EN16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EN16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EN16_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-EN16-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-EN16-blender_export.pcb3d?raw=true)   |
 | EF44 Motherboard     | PCBA-EF44       | <img src="Preview/Electrical/PCBA-EF44-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EF44-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EF44_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-EF44-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-EF44-blender_export.pcb3d?raw=true)   |
 | TEK2 Motherboard     | PCBA-TEK2       | <img src="Preview/Electrical/PCBA-TEK2-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-TEK2-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-TEK2_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-TEK2-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-TEK2-blender_export.pcb3d?raw=true) |
+
 # Desktop Tools Used
 - FreeCAD
 - KiCAD
