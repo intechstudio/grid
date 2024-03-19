@@ -34,6 +34,13 @@ Licence: GPL3
 | Fader Cap                 | PLASTIC-CAP-FADER    | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-FADER.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-FADER.stl) |
 | Button                    | PCBA-BUTTON          | Purchased  | <img src="Preview/Mechanical/PCBA-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-BUTTON.step) [[stl]](Preview/Mechanical/PCBA-BUTTON.stl) |
 | Button Cap                | PLASTIC-CAP-BUTTON   | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-BUTTON.stl) |
+
+# TEK2 specific components
+| Component                 | Part number          | Type       | Preview | Links        |
+|---------------------------|----------------------|------------|---------|--------------|
+| Knob TEK2 | KNOB-TEK2 | Fabricated | <img src="Preview/Mechanical/KNOB-TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/KNOB-TEK2.step) [[stl]](Preview/Mechanical/KNOB-TEK2.stl) [[pdf]](Preview/Mechanical/KNOB-TEK2_Drawing.pdf) |
+| Knob interface TEK2 | PLASTIC-TEK2-KNOB-INTERFACE | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.step) [[stl]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.stl) |
+| Potmeter Bushing TEK2 | PLASTIC-BUSHING-POT-TEK2 | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2_Drawing.pdf) |
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  | <img src="Preview/Mechanical/PCBA-ENDLESSPOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENDLESSPOT.step) [[stl]](Preview/Mechanical/PCBA-ENDLESSPOT.stl) [[pdf]](Preview/Mechanical/PCBA-ENDLESSPOT.pdf) |
 
 ## Electrical components
