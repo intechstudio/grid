@@ -32,6 +32,7 @@ Licence: GPL3
 | Fader                     | PCBA-FADER           | Purchased  | <img src="Preview/Mechanical/PCBA-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-FADER.step) [[stl]](Preview/Mechanical/PCBA-FADER.stl) [[pdf]](Preview/Mechanical/PCBA-FADER.pdf) |
 | Long Fader                | PCBA-LONGFADER       | Purchased  | <img src="Preview/Mechanical/PCBA-LONGFADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-LONGFADER.step) [[stl]](Preview/Mechanical/PCBA-LONGFADER.stl) [[pdf]](Preview/Mechanical/PCBA-LONGFADER.pdf) |
 | Fader Cap                 | PLASTIC-CAP-FADER    | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-FADER.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-FADER.stl) |
+| Fader Insert              | INSERT-FADER    | Fabricated  | <img src="Preview/Mechanical/INSERT-FADER.png?raw=true" width="100"> | [[step]](Preview/Mechanical/INSERT-FADER.step) [[stl]](Preview/Mechanical/INSERT-FADER.stl) |
 | Button                    | PCBA-BUTTON          | Purchased  | <img src="Preview/Mechanical/PCBA-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-BUTTON.step) [[stl]](Preview/Mechanical/PCBA-BUTTON.stl) |
 | Button Cap                | PLASTIC-CAP-BUTTON   | Purchased  | <img src="Preview/Mechanical/PLASTIC-CAP-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-CAP-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-CAP-BUTTON.stl) |
 
