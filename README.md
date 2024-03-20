@@ -46,6 +46,11 @@ Licence: GPL3
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  | <img src="Preview/Mechanical/PCBA-ENDLESSPOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENDLESSPOT.step) [[stl]](Preview/Mechanical/PCBA-ENDLESSPOT.stl) [[pdf]](Preview/Mechanical/PCBA-ENDLESSPOT.pdf) |
 | TEK2 Lightpipce isolator | PLASTIC-LIGHTPIPE-ISOLATOR | Fabricated | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.stl) |
 
+# TEK1 specific components
+| Component                 | Part number          | Type       | Preview | Links        |
+|---------------------------|----------------------|------------|---------|--------------|
+| TEK1 Display | PCBA-TEK1-DISPLAY | Purchased | <img src="Preview/Mechanical/PCBA-TEK1-DISPLAY.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-TEK1-DISPLAY.step) [[stl]](Preview/Mechanical/PCBA-TEK1-DISPLAY.stl) |
+
 ## Electrical components
 
 | Component                 | Part number          | Preview | Links        |
@@ -56,6 +61,7 @@ Licence: GPL3
 | EN16 Motherboard     | PCBA-EN16       | <img src="Preview/Electrical/PCBA-EN16-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EN16-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EN16_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-EN16-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-EN16-blender_export.pcb3d?raw=true)   |
 | EF44 Motherboard     | PCBA-EF44       | <img src="Preview/Electrical/PCBA-EF44-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-EF44-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-EF44_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-EF44-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-EF44-blender_export.pcb3d?raw=true)   |
 | TEK2 Motherboard     | PCBA-TEK2       | <img src="Preview/Electrical/PCBA-TEK2-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-TEK2-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-TEK2_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-TEK2-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-TEK2-blender_export.pcb3d?raw=true) |
+| TEK1 Motherboard     | PCBA-TEK1       | <img src="Preview/Electrical/PCBA-TEK1-3D_top.png?raw=true" width="150">  <img src="Preview/Electrical/PCBA-TEK1-3D_bottom.png?raw=true" width="150"> | [[schematic]](Preview/Electrical/PCBA-TEK1_Schematic.pdf) [[STEP]](Preview/Electrical/PCBA-TEK1-3D.step?raw=true) [[PCB3D]](Preview/Electrical/PCBA-TEK1-blender_export.pcb3d?raw=true) |
 
 # Desktop Tools Used
 - FreeCAD
