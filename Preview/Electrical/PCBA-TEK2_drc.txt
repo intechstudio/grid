@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK2/PCBA-TEK2.kicad_pcb **
-** Created on 2024-03-20 07:27:04 **
+** Created on 2024-03-20 09:08:57 **
 
 ** Found 274 DRC violations **
 [track_dangling]: Track has unconnected end
