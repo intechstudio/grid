@@ -1,4 +1,4 @@
-ERC report (Wed Mar 20 07:15:44 2024, Encoding UTF8)
+ERC report (Wed Mar 20 07:27:00 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -16,19 +16,10 @@ ERC report (Wed Mar 20 07:15:44 2024, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(106.6800 mm, 58.4200 mm): Symbol R1033 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+[multiple_net_names]: Both GND and OUT_4 are attached to the same items; GND will be used in the netlist
     ; Severity: warning
-    @(53.3400 mm, 81.2800 mm): Symbol UI1001 [UI_Endless_Potentiometer_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(43.1800 mm, 86.3600 mm): Symbol R1017 [RES]
-[multiple_net_names]: Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
-    ; Severity: warning
-    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
-    @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5'
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(55.8800 mm, 58.4200 mm): Symbol R1033 [RES]
+    @(109.2200 mm, 93.9800 mm): Symbol #PWR01045 Hidden pin 1 [GND, Power input, Line]
+    @(63.5000 mm, 109.2200 mm): Hierarchical Label 'OUT_4'
 
 ***** Sheet /UI_BUTTON/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -484,7 +475,7 @@ ERC report (Wed Mar 20 07:15:44 2024, Encoding UTF8)
 [multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
     ; Severity: warning
     @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 Hidden pin 1 [VBUS, Power input, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch]
@@ -493,14 +484,14 @@ ERC report (Wed Mar 20 07:15:44 2024, Encoding UTF8)
     @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT]
 
 ***** Sheet /HWCFG/
-[multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
-    ; Severity: warning
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
-    @(78.7400 mm, 81.2800 mm): Label 'HWCFG_HIGH'
 [multiple_net_names]: Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     ; Severity: warning
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
-    @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW'
+    @(78.7400 mm, 83.8200 mm): Label 'HWCFG_LOW'
+[multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
+    ; Severity: warning
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
+    @(78.7400 mm, 73.6600 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165]
@@ -508,4 +499,4 @@ ERC report (Wed Mar 20 07:15:44 2024, Encoding UTF8)
     ; Severity: warning
     @(121.9200 mm, 93.9800 mm): Symbol C801 [CAP]
 
- ** ERC messages: 161  Errors 0  Warnings 161
+ ** ERC messages: 158  Errors 0  Warnings 158

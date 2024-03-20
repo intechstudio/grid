@@ -1,5 +1,5 @@
 WARNING:(W058) Missing KiCad main config file /github/home/.config/kicad/7.0/kicad_common.json (eeschema_do - misc.py:201) (kibot - kiplot.py:127)
-WARNING:(W058) 161 ERC warnings detected (eeschema_do - eeschema_do:1001) (kibot - kiplot.py:127)
+WARNING:(W058) 158 ERC warnings detected (eeschema_do - eeschema_do:1001) (kibot - kiplot.py:127)
 WARNING:(W058) (multiple_net_names) Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     @(215.9000 mm, 185.4200 mm): Global Label 'ESP_GPIO_1'
     @(215.9000 mm, 187.9600 mm): Global Label 'ESP_GPIO_18' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
@@ -9,15 +9,9 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     @(93.9800 mm, 86.3600 mm): Symbol R1025 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(106.6800 mm, 58.4200 mm): Symbol R1033 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(53.3400 mm, 81.2800 mm): Symbol UI1001 [UI_Endless_Potentiometer_Switch] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(43.1800 mm, 86.3600 mm): Symbol R1017 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
-WARNING:(W058) (multiple_net_names) Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
-    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
-    @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(55.8800 mm, 58.4200 mm): Symbol R1033 [RES] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
+WARNING:(W058) (multiple_net_names) Both GND and OUT_4 are attached to the same items; GND will be used in the netlist
+    @(109.2200 mm, 93.9800 mm): Symbol #PWR01045 Hidden pin 1 [GND, Power input, Line]
+    @(63.5000 mm, 109.2200 mm): Hierarchical Label 'OUT_4' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(48.2600 mm, 114.3000 mm): Symbol UI1019 [UI_Pushbutton_Omron] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
@@ -276,17 +270,17 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
     @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
-WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
-    @(78.7400 mm, 81.2800 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
-    @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
+    @(78.7400 mm, 83.8200 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
+WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
+    @(78.7400 mm, 73.6600 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:153) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
@@ -300,7 +294,7 @@ WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L601) (kibot - units
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units.py:237)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
 WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
-ERROR:Found 0 DRC errors and 201 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1282) (kibot - kiplot.py:124)
+ERROR:Found 0 DRC errors and 197 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1282) (kibot - kiplot.py:124)
 WARNING:(W015) Unknown option `exclude_filter` (kibot - optionable.py:149)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
 WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
@@ -324,7 +318,6 @@ WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
@@ -363,7 +356,6 @@ WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
@@ -402,7 +394,6 @@ WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
@@ -441,7 +432,6 @@ WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)

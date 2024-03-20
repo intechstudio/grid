@@ -1,10 +1,7 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-03-20 07:15:54 **
+** Created on 2024-03-20 07:27:09 **
 
-** Found 274 DRC violations **
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(74.5000 mm, 72.1600 mm): Track [unconnected-(M501-Pin_5-Pad5)] on F.Cu, length 0.9100 mm
+** Found 265 DRC violations **
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
@@ -395,9 +392,6 @@
     @(73.3300 mm, 100.0000 mm): Footprint U1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(73.3300 mm, 73.3300 mm): Footprint UI1001
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    Local override; Severity: warning
     @(68.8850 mm, 107.4930 mm): Footprint R1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
@@ -650,9 +644,6 @@
     @(86.6650 mm, 105.7150 mm): Footprint D912
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(73.3300 mm, 86.5000 mm): Footprint R1017
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    Local override; Severity: warning
     @(111.0490 mm, 105.7150 mm): Footprint C913
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
@@ -675,9 +666,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(118.0063 mm, 54.7507 mm): Footprint C910
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    Local override; Severity: warning
-    @(73.3300 mm, 66.0000 mm): Footprint R702
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(103.2500 mm, 107.2000 mm): Footprint L702
@@ -737,7 +725,7 @@
     @(94.8692 mm, 110.6680 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
-    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid TEK2 RevD 2023/...' on F.Silkscreen
+    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid TEK1 RevD 2024/...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
     @(100.0000 mm, 122.7500 mm): PCB Text 'GND' on F.Silkscreen
@@ -798,21 +786,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(53.9950 mm, 144.5050 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(66.3300 mm, 67.8300 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(67.3300 mm, 66.8300 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(72.8300 mm, 72.8300 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(72.8300 mm, 73.8300 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(80.3300 mm, 82.3300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(104.7500 mm, 56.5700 mm): Line on F.Silkscreen
