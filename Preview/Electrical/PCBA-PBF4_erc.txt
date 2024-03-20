@@ -1,4 +1,4 @@
-ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
+ERC report (Wed Mar 20 07:15:53 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -949,9 +949,6 @@ ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
     @(218.4400 mm, 83.8200 mm): Symbol #PWR0609 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
     @(101.6000 mm, 101.6000 mm): Symbol #PWR0613 [GND]
@@ -964,6 +961,9 @@ ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
     @(93.9800 mm, 101.6000 mm): Symbol #PWR0612 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
     @(66.0400 mm, 111.7600 mm): Symbol #FLG0603 [PWR_FLAG]
@@ -982,16 +982,16 @@ ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP]
+[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
+    ; Severity: warning
+    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
+    @(76.2000 mm, 71.1200 mm): Symbol #PWR0605 Hidden pin 1 [VBUS, Power input, Line]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; Severity: warning
     @(76.2000 mm, 71.1200 mm): Symbol #PWR0605 [VBUS]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
     @(66.0400 mm, 71.1200 mm): Symbol #FLG0602 [PWR_FLAG]
-[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
-    ; Severity: warning
-    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; Severity: warning
     @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 [VBUS]
@@ -1003,10 +1003,10 @@ ERC report (Mon Mar 18 15:37:22 2024, Encoding UTF8)
     @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 [VBUS]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(139.7000 mm, 40.6400 mm): Symbol #PWR0602 [GND]
+    @(106.6800 mm, 48.2600 mm): Symbol #PWR0604 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
-    @(106.6800 mm, 48.2600 mm): Symbol #PWR0604 [GND]
+    @(139.7000 mm, 40.6400 mm): Symbol #PWR0602 [GND]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; Severity: warning
     @(213.3600 mm, 68.5800 mm): Symbol #FLG0601 [PWR_FLAG]

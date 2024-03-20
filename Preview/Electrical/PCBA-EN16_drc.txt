@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-EN16/PCBA-EN16.kicad_pcb **
-** Created on 2024-03-18 15:37:36 **
+** Created on 2024-03-20 07:15:58 **
 
 ** Found 417 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
