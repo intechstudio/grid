@@ -1,25 +1,10 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-03-20 09:09:01 **
+** Created on 2024-03-25 08:34:47 **
 
-** Found 274 DRC violations **
-[track_dangling]: Track has unconnected end
+** Found 269 DRC violations **
+[isolated_copper]: Isolated copper fill
     Local override; Severity: warning
-    @(65.6868 mm, 51.4368 mm): Track [/MCU/LED_DATA_OUT] on F.Cu, length 7.1604 mm
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(64.5000 mm, 58.0000 mm): Track [/MCU/LED_DATA_OUT] on F.Cu, length 12.0208 mm
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(72.6950 mm, 95.5270 mm): Track [Net-(U1001-X0)] on F.Cu, length 1.9980 mm
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(70.1550 mm, 95.5270 mm): Track [Net-(U1001-X2)] on F.Cu, length 1.9980 mm
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(71.4250 mm, 95.5270 mm): Track [Net-(U1001-X1)] on F.Cu, length 1.9980 mm
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(73.9650 mm, 97.5250 mm): Track [Net-(U1001-X3)] on F.Cu, length 1.9980 mm
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
@@ -86,28 +71,32 @@
     @(105.0000 mm, 107.2500 mm): Footprint J701
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
-    @(93.7500 mm, 96.2500 mm): Footprint TP706
-    @(92.2500 mm, 96.2500 mm): Footprint TP708
+    @(91.5000 mm, 96.2500 mm): Footprint TP706
+    @(88.3300 mm, 93.3300 mm): Footprint SW1004
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
-    @(93.7500 mm, 96.2500 mm): Footprint TP706
-    @(93.7500 mm, 97.7500 mm): Footprint TP707
+    @(91.5000 mm, 96.2500 mm): Footprint TP706
+    @(90.0000 mm, 96.2500 mm): Footprint TP708
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(91.5000 mm, 96.2500 mm): Footprint TP706
+    @(91.5000 mm, 97.7500 mm): Footprint TP707
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
     @(95.6250 mm, 105.2500 mm): Footprint J702
     @(96.2500 mm, 111.7500 mm): Footprint R733
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
-    @(92.2500 mm, 96.2500 mm): Footprint TP708
-    @(92.2500 mm, 97.7500 mm): Footprint TP709
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; Severity: warning
-    @(92.2500 mm, 96.2500 mm): Footprint TP708
     @(88.3300 mm, 93.3300 mm): Footprint SW1004
+    @(90.0000 mm, 96.2500 mm): Footprint TP708
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
-    @(92.2500 mm, 97.7500 mm): Footprint TP709
-    @(93.7500 mm, 97.7500 mm): Footprint TP707
+    @(90.0000 mm, 96.2500 mm): Footprint TP708
+    @(90.0000 mm, 97.7500 mm): Footprint TP709
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(90.0000 mm, 97.7500 mm): Footprint TP709
+    @(91.5000 mm, 97.7500 mm): Footprint TP707
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
     @(105.0000 mm, 107.2500 mm): Footprint J701
@@ -190,7 +179,7 @@
     @(77.3300 mm, 148.5000 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(77.3300 mm, 148.0000 mm): Line on Edge.Cuts
+    @(68.8300 mm, 148.5000 mm): Line on Edge.Cuts
     @(69.3300 mm, 148.5000 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
@@ -206,7 +195,7 @@
     @(69.3300 mm, 51.5000 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(77.3300 mm, 51.5000 mm): Arc on Edge.Cuts
+    @(69.3300 mm, 52.0000 mm): Line on Edge.Cuts
     @(77.3300 mm, 51.5000 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
@@ -234,7 +223,7 @@
     @(131.1700 mm, 50.0000 mm): Line on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(122.1700 mm, 50.0000 mm): Line on Edge.Cuts
+    @(122.6700 mm, 52.0000 mm): Line on Edge.Cuts
     @(122.6700 mm, 51.5000 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
@@ -246,7 +235,7 @@
     @(150.0000 mm, 68.8300 mm): Line on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(148.5000 mm, 77.8300 mm): Line on Edge.Cuts
+    @(150.0000 mm, 77.8300 mm): Line on Edge.Cuts
     @(150.0000 mm, 77.8300 mm): Line on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
@@ -254,7 +243,7 @@
     @(148.5000 mm, 69.3300 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(148.5000 mm, 77.8300 mm): Line on Edge.Cuts
+    @(148.5000 mm, 77.3300 mm): Arc on Edge.Cuts
     @(148.5000 mm, 77.3300 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
@@ -282,7 +271,7 @@
     @(95.2500 mm, 56.5700 mm): Line on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
-    @(50.0000 mm, 77.8300 mm): Line on Edge.Cuts
+    @(94.0000 mm, 90.5000 mm): Arc on Edge.Cuts
     @(50.9300 mm, 56.0300 mm): Rect on F.Silkscreen
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
@@ -304,16 +293,16 @@
     @(111.0490 mm, 132.3850 mm): Footprint C917
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(73.9800 mm, 89.7700 mm): Footprint C1001
+    @(60.7500 mm, 96.5000 mm): Footprint C1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(71.4400 mm, 89.7700 mm): Footprint C1002
+    @(80.7500 mm, 96.5000 mm): Footprint C1002
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(72.7100 mm, 89.7700 mm): Footprint C1005
+    @(65.7500 mm, 96.5000 mm): Footprint C1005
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(75.2500 mm, 89.7700 mm): Footprint C1006
+    @(85.7500 mm, 96.5000 mm): Footprint C1006
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(50.0000 mm, 73.3300 mm): Footprint J504
@@ -349,16 +338,16 @@
     @(146.8630 mm, 140.0050 mm): Footprint R1048
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(72.7100 mm, 87.2300 mm): Footprint R1001
+    @(61.7500 mm, 96.5000 mm): Footprint R1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(71.4400 mm, 87.2300 mm): Footprint R1002
+    @(81.7500 mm, 96.5000 mm): Footprint R1002
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(73.9800 mm, 87.2300 mm): Footprint R1005
+    @(64.7500 mm, 96.5000 mm): Footprint R1005
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(75.2500 mm, 87.2300 mm): Footprint R1006
+    @(84.7500 mm, 96.5000 mm): Footprint R1006
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(101.0000 mm, 142.5000 mm): Footprint R736
@@ -505,16 +494,25 @@
     @(102.0000 mm, 105.2500 mm): Footprint C753
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
+    @(83.7500 mm, 96.5000 mm): Footprint R1024
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(82.7500 mm, 96.5000 mm): Footprint R1023
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
     @(101.0000 mm, 86.2500 mm): Footprint R734
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(140.0050 mm, 113.3350 mm): Footprint UI1031
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
+    @(63.7500 mm, 96.5000 mm): Footprint R1022
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
     @(101.2500 mm, 113.2500 mm): Footprint R735
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 67.0000 mm): Footprint R1017
+    @(78.2500 mm, 67.5000 mm): Footprint R1017
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(116.9498 mm, 52.4849 mm): Footprint D910
@@ -553,13 +551,10 @@
     @(101.0000 mm, 94.7500 mm): Footprint C751
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(63.7400 mm, 86.2500 mm): Footprint R1024
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    Local override; Severity: warning
     @(105.2500 mm, 57.5000 mm): Footprint C603
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 68.2500 mm): Footprint R1018
+    @(79.5000 mm, 67.5000 mm): Footprint R1018
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(98.7500 mm, 113.2500 mm): Footprint C758
@@ -577,7 +572,7 @@
     @(101.0000 mm, 88.2500 mm): Footprint C755
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(63.7400 mm, 80.2800 mm): Footprint R1021
+    @(62.7500 mm, 96.5000 mm): Footprint R1021
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(110.4065 mm, 57.0665 mm): Footprint D908
@@ -613,7 +608,7 @@
     @(73.3300 mm, 73.3300 mm): Footprint U1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 64.5000 mm): Footprint R1020
+    @(75.7500 mm, 67.5000 mm): Footprint R1020
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(105.8249 mm, 63.6098 mm): Footprint D906
@@ -625,22 +620,19 @@
     @(126.6700 mm, 86.6300 mm): Footprint R1025
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(63.7400 mm, 82.2700 mm): Footprint R1022
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    Local override; Severity: warning
     @(114.9117 mm, 56.5374 mm): Footprint C909
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(101.8300 mm, 62.8300 mm): Footprint U602
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(63.7400 mm, 84.2600 mm): Footprint R1023
+    @(77.0000 mm, 69.5000 mm): Footprint R1026
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 70.7500 mm): Footprint C1020
+    @(78.2500 mm, 69.5000 mm): Footprint C1020
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 65.7500 mm): Footprint R1019
+    @(77.0000 mm, 67.5000 mm): Footprint R1019
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(140.0050 mm, 105.7150 mm): Footprint D914
@@ -694,7 +686,7 @@
     @(118.0063 mm, 54.7507 mm): Footprint C910
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(78.5000 mm, 69.5000 mm): Footprint C1019
+    @(79.5000 mm, 69.5000 mm): Footprint C1019
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(103.2500 mm, 107.2000 mm): Footprint L702
@@ -841,9 +833,6 @@
     @(61.4450 mm, 106.2650 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
-    @(63.7400 mm, 85.0800 mm): Reference 'R1024'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
     @(109.7701 mm, 55.6523 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
@@ -868,10 +857,7 @@
     @(107.3350 mm, 117.8350 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
-    @(63.7400 mm, 81.1000 mm): Reference 'R1022'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(63.7400 mm, 83.0900 mm): Reference 'R1023'
+    @(75.8300 mm, 69.5000 mm): Reference 'R1026'
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(141.4550 mm, 106.2650 mm): Line on F.Silkscreen
@@ -888,91 +874,7 @@
     Local override; Severity: warning
     @(88.1150 mm, 106.2650 mm): Line on F.Silkscreen
 
-** Found 21 unconnected pads **
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(75.2500 mm, 86.7200 mm): Track [GND] on F.Cu, length 0.7120 mm
-    @(73.9800 mm, 86.7200 mm): Pad 2 [GND] of R1005 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(72.7100 mm, 86.7200 mm): Pad 2 [GND] of R1001 on F.Cu
-    @(71.4400 mm, 86.7200 mm): Pad 2 [GND] of R1002 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(72.7100 mm, 86.7200 mm): Pad 2 [GND] of R1001 on F.Cu
-    @(73.9800 mm, 86.7200 mm): Pad 2 [GND] of R1005 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(72.7100 mm, 89.2900 mm): Track [GND] on F.Cu, length 0.7900 mm
-    @(72.2300 mm, 93.3300 mm): Pad 2 [GND] of SW1002 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(87.7500 mm, 97.0000 mm): Via [GND] on F.Cu - B.Cu
-    @(92.2300 mm, 93.3300 mm): Pad 2 [GND] of SW1004 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(62.2300 mm, 93.3300 mm): Pad 2 [GND] of SW1001 on F.Cu
-    @(67.4880 mm, 97.6860 mm): Track [GND] on F.Cu, length 0.9240 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(87.7500 mm, 97.0000 mm): Via [GND] on F.Cu - B.Cu
-    @(82.2300 mm, 93.3300 mm): Pad 2 [GND] of SW1003 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(90.7500 mm, 54.5000 mm): Track [/MCU/LED_DATA_OUT] on F.Cu, length 8.7500 mm
-    @(81.5000 mm, 53.0000 mm): Track [/MCU/LED_DATA_OUT] on F.Cu, length 24.2500 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(64.2500 mm, 84.2600 mm): Pad 2 [+3V3] of R1023 on F.Cu
-    @(64.2500 mm, 86.2500 mm): Pad 2 [+3V3] of R1024 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(64.2500 mm, 80.2800 mm): Pad 2 [+3V3] of R1021 on F.Cu
-    @(64.2500 mm, 82.2700 mm): Pad 2 [+3V3] of R1022 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(64.2500 mm, 82.2700 mm): Pad 2 [+3V3] of R1022 on F.Cu
-    @(64.2500 mm, 84.2600 mm): Pad 2 [+3V3] of R1023 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(67.4880 mm, 95.9360 mm): Via [+3V3] on F.Cu - B.Cu
-    @(64.2500 mm, 86.2500 mm): Pad 2 [+3V3] of R1024 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(78.0200 mm, 70.7500 mm): Track [+3V3] on F.Cu, length 1.2500 mm
-    @(64.2500 mm, 80.2800 mm): Pad 2 [+3V3] of R1021 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(72.6950 mm, 95.5270 mm): Track [Net-(U1001-X0)] on F.Cu, length 1.9980 mm
-    @(73.3450 mm, 89.6150 mm): Track [Net-(U1001-X0)] on F.Cu, length 0.8980 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(70.8050 mm, 89.6150 mm): Track [Net-(U1001-X2)] on F.Cu, length 0.8980 mm
-    @(70.1550 mm, 95.5270 mm): Track [Net-(U1001-X2)] on F.Cu, length 1.9980 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(72.0750 mm, 89.6150 mm): Track [Net-(U1001-X1)] on F.Cu, length 0.8980 mm
-    @(71.4250 mm, 95.5270 mm): Track [Net-(U1001-X1)] on F.Cu, length 1.9980 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(74.6150 mm, 89.6150 mm): Track [Net-(U1001-X3)] on F.Cu, length 0.8980 mm
-    @(73.9650 mm, 97.5250 mm): Track [Net-(U1001-X3)] on F.Cu, length 1.9980 mm
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(54.4300 mm, 93.3300 mm): Pad 1 [/UI_DISPLAY/BTN_0] of SW1001 on F.Cu
-    @(63.2300 mm, 80.2800 mm): Pad 1 [/UI_DISPLAY/BTN_0] of R1021 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(63.2300 mm, 82.2700 mm): Pad 1 [/UI_DISPLAY/BTN_1] of R1022 on F.Cu
-    @(64.4300 mm, 93.3300 mm): Pad 1 [/UI_DISPLAY/BTN_1] of SW1002 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(63.2300 mm, 84.2600 mm): Pad 1 [/UI_DISPLAY/BTN_2] of R1023 on F.Cu
-    @(74.4300 mm, 93.3300 mm): Pad 1 [/UI_DISPLAY/BTN_2] of SW1003 on F.Cu
-[unconnected_items]: Missing connection between items
-    Local override; Severity: error
-    @(63.2300 mm, 86.2500 mm): Pad 1 [/UI_DISPLAY/BTN_3] of R1024 on F.Cu
-    @(84.4300 mm, 93.3300 mm): Pad 1 [/UI_DISPLAY/BTN_3] of SW1004 on F.Cu
+** Found 0 unconnected pads **
 
 ** Found 0 Footprint errors **
 
