@@ -1,4 +1,4 @@
-ERC report (Wed Mar 27 15:48:34 2024, Encoding UTF8)
+ERC report (Wed Mar 27 16:09:36 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -1349,7 +1349,7 @@ ERC report (Wed Mar 27 15:48:34 2024, Encoding UTF8)
     @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 [GND]
 [multiple_net_names]: Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     ; Severity: warning
-    @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 Hidden pin 1 [GND, Power input, Line]
+    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW'
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; Severity: warning
