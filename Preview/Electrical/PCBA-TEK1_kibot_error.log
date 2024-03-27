@@ -12,7 +12,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(193.0400 mm, 114.3000 mm): Symbol R1039 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
 WARNING:(W058) (multiple_net_names) Both GND and OUT_7 are attached to the same items; GND will be used in the netlist
-    @(106.6800 mm, 114.3000 mm): Symbol #PWR0703 Hidden pin 1 [GND, Power input, Line]
+    @(109.2200 mm, 93.9800 mm): Symbol #PWR01045 Hidden pin 1 [GND, Power input, Line]
     @(114.3000 mm, 111.7600 mm): Hierarchical Label 'OUT_7' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(93.9800 mm, 86.3600 mm): Symbol R1025 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
