@@ -1,10 +1,7 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK2/PCBA-TEK2.kicad_pcb **
-** Created on 2024-03-27 16:19:33 **
+** Created on 2024-04-24 10:51:11 **
 
-** Found 274 DRC violations **
-[track_dangling]: Track has unconnected end
-    Local override; Severity: warning
-    @(74.5000 mm, 72.1600 mm): Track [unconnected-(M501-Pin_5-Pad5)] on F.Cu, length 0.9100 mm
+** Found 277 DRC violations **
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
@@ -737,7 +734,7 @@
     @(94.8692 mm, 110.6680 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
-    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid TEK2 RevD 2023/...' on F.Silkscreen
+    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid TEK2 RevD 2024/...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
     @(100.0000 mm, 122.7500 mm): PCB Text 'GND' on F.Silkscreen
@@ -767,6 +764,9 @@
     @(120.6700 mm, 66.8300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
+    @(124.1700 mm, 74.8300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
     @(126.1700 mm, 72.8300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
@@ -774,6 +774,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(133.6700 mm, 82.3300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.6700 mm, 73.3300 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(92.6650 mm, 135.5050 mm): Line on F.Silkscreen
@@ -806,6 +809,9 @@
     @(67.3300 mm, 66.8300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
+    @(70.8300 mm, 74.8300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
     @(72.8300 mm, 72.8300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
@@ -813,6 +819,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(80.3300 mm, 82.3300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(73.3300 mm, 73.3300 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(104.7500 mm, 56.5700 mm): Line on F.Silkscreen

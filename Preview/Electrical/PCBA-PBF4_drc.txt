@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-PBF4/PCBA-PBF4.kicad_pcb **
-** Created on 2024-03-27 16:19:31 **
+** Created on 2024-04-24 10:51:13 **
 
 ** Found 273 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
@@ -696,7 +696,7 @@
     @(94.8184 mm, 110.6680 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
-    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid PBF4 RevD 2023/...' on F.Silkscreen
+    @(113.3350 mm, 126.6700 mm): PCB Text 'Intech Studio Grid PBF4 RevD 2024/...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     Rule: board setup constraints silk text height; Severity: warning
     @(94.0000 mm, 118.0000 mm): PCB Text 'BOOT 0' on F.Silkscreen

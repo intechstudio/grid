@@ -1,763 +1,769 @@
-WARNING:(W058) Missing KiCad main config file /github/home/.config/kicad/7.0/kicad_common.json (eeschema_do - misc.py:202) (kibot - kiplot.py:127)
-WARNING:(W058) 915 ERC warnings detected (eeschema_do - eeschema_do:1080) (kibot - kiplot.py:127)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W058) Missing KiCad main config file /github/home/.config/kicad/7.0/kicad_common.json (eeschema_do - misc.py:203) (kibot - kiplot.py:128)
+WARNING:(W058) 915 ERC warnings detected (eeschema_do - eeschema_do:1084) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(53.3400 mm, 68.5800 mm): Symbol #PWR01137 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(53.3400 mm, 68.5800 mm): Symbol #PWR01137 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 68.5800 mm): Symbol #PWR01139 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 68.5800 mm): Symbol #PWR01139 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(53.3400 mm, 58.4200 mm): Symbol C1045 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(53.3400 mm, 58.4200 mm): Symbol C1045 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(63.5000 mm, 43.1800 mm): Symbol #PWR01021 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 43.1800 mm): Symbol #PWR01021 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(63.5000 mm, 48.2600 mm): Symbol R1074 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1001': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 48.2600 mm): Symbol R1074 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1001': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 53.3400 mm): Symbol R1073 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 53.3400 mm): Symbol R1073 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(119.3800 mm, 63.5000 mm): Symbol C1047 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 63.5000 mm): Symbol C1047 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(106.6800 mm, 53.3400 mm): Symbol R1077 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(106.6800 mm, 53.3400 mm): Symbol R1077 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(106.6800 mm, 58.4200 mm): Symbol R1078 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(106.6800 mm, 58.4200 mm): Symbol R1078 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(111.7600 mm, 68.5800 mm): Symbol #PWR01143 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(111.7600 mm, 68.5800 mm): Symbol #PWR01143 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(119.3800 mm, 68.5800 mm): Symbol #PWR01144 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 68.5800 mm): Symbol #PWR01144 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(111.7600 mm, 63.5000 mm): Symbol C1046 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(111.7600 mm, 63.5000 mm): Symbol C1046 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(83.8200 mm, 68.5800 mm): Symbol #PWR01140 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1006': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1007': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1008': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 68.5800 mm): Symbol #PWR01140 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1006': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1007': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1008': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(96.5200 mm, 48.2600 mm): Symbol R1076 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 48.2600 mm): Symbol R1076 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(88.9000 mm, 43.1800 mm): Symbol #PWR01102 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 43.1800 mm): Symbol #PWR01102 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(96.5200 mm, 43.1800 mm): Symbol #PWR01146 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 43.1800 mm): Symbol #PWR01146 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(88.9000 mm, 48.2600 mm): Symbol R1075 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1002': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1003': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1004': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1005': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1016': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1009': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1010': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1011': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1013': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1012': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1014': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1015': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 48.2600 mm): Symbol R1075 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1002': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1003': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1004': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1005': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1016': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1009': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1010': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1011': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1013': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1012': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1014': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'UI1015': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(73.6600 mm, 55.8800 mm): Symbol UI1013 [UI_Rotary_Encoder_Switch] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(73.6600 mm, 55.8800 mm): Symbol UI1013 [UI_Rotary_Encoder_Switch] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 119.3800 mm): Symbol C911 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D911': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(109.2200 mm, 119.3800 mm): Symbol C911 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D911': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(101.6000 mm, 139.7000 mm): Symbol #PWR0961 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 139.7000 mm): Symbol #PWR0961 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 129.5400 mm): Symbol D911 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 129.5400 mm): Symbol D911 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(88.9000 mm, 121.9200 mm): Symbol #PWR0954 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D915': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 121.9200 mm): Symbol #PWR0954 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D915': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 121.9200 mm): Symbol #PWR0966 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 121.9200 mm): Symbol #PWR0966 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 129.5400 mm): Symbol D915 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 129.5400 mm): Symbol D915 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(127.0000 mm, 139.7000 mm): Symbol #PWR0973 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 139.7000 mm): Symbol #PWR0973 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(127.0000 mm, 76.2000 mm): Symbol #PWR0970 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 76.2000 mm): Symbol #PWR0970 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 81.2800 mm): Symbol #PWR0977 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D910': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(139.7000 mm, 81.2800 mm): Symbol #PWR0977 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D910': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 88.9000 mm): Symbol D910 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 88.9000 mm): Symbol D910 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 78.7400 mm): Symbol C914 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 78.7400 mm): Symbol C914 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 81.2800 mm): Symbol #PWR0965 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 81.2800 mm): Symbol #PWR0965 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(127.0000 mm, 116.8400 mm): Symbol #PWR0972 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 116.8400 mm): Symbol #PWR0972 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(101.6000 mm, 116.8400 mm): Symbol #PWR0960 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D914': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 116.8400 mm): Symbol #PWR0960 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D914': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(127.0000 mm, 99.0600 mm): Symbol #PWR0971 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 99.0600 mm): Symbol #PWR0971 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 88.9000 mm): Symbol D914 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 88.9000 mm): Symbol D914 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 78.7400 mm): Symbol C910 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(109.2200 mm, 78.7400 mm): Symbol C910 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(101.6000 mm, 76.2000 mm): Symbol #PWR0958 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 76.2000 mm): Symbol #PWR0958 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 154.9400 mm): Symbol C916 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 154.9400 mm): Symbol C916 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 157.4800 mm): Symbol #PWR0979 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(139.7000 mm, 157.4800 mm): Symbol #PWR0979 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 121.9200 mm): Symbol #PWR0978 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(139.7000 mm, 121.9200 mm): Symbol #PWR0978 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 154.9400 mm): Symbol C904 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 154.9400 mm): Symbol C904 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 139.7000 mm): Symbol #PWR0935 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 139.7000 mm): Symbol #PWR0935 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(50.8000 mm, 152.4000 mm): Symbol #PWR0936 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D908': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 152.4000 mm): Symbol #PWR0936 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D908': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 157.4800 mm): Symbol #PWR0941 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D904': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 157.4800 mm): Symbol #PWR0941 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D904': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 175.2600 mm): Symbol #PWR0937 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 175.2600 mm): Symbol #PWR0937 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 165.1000 mm): Symbol D904 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D912': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 165.1000 mm): Symbol D904 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D912': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 165.1000 mm): Symbol D912 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 165.1000 mm): Symbol D912 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 154.9400 mm): Symbol C908 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 154.9400 mm): Symbol C908 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(101.6000 mm, 152.4000 mm): Symbol #PWR0962 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 152.4000 mm): Symbol #PWR0962 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(88.9000 mm, 157.4800 mm): Symbol #PWR0955 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 157.4800 mm): Symbol #PWR0955 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(76.2000 mm, 152.4000 mm): Symbol #PWR0950 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 152.4000 mm): Symbol #PWR0950 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(101.6000 mm, 175.2600 mm): Symbol #PWR0963 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 175.2600 mm): Symbol #PWR0963 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 157.4800 mm): Symbol #PWR0967 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 157.4800 mm): Symbol #PWR0967 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 154.9400 mm): Symbol C912 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(109.2200 mm, 154.9400 mm): Symbol C912 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(127.0000 mm, 152.4000 mm): Symbol #PWR0974 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D916': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 152.4000 mm): Symbol #PWR0974 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D916': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(127.0000 mm, 175.2600 mm): Symbol #PWR0975 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 175.2600 mm): Symbol #PWR0975 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 165.1000 mm): Symbol D916 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 165.1000 mm): Symbol D916 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(76.2000 mm, 175.2600 mm): Symbol #PWR0951 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 175.2600 mm): Symbol #PWR0951 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 165.1000 mm): Symbol D908 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 165.1000 mm): Symbol D908 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 88.9000 mm): Symbol D902 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 88.9000 mm): Symbol D902 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 81.2800 mm): Symbol #PWR0939 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 81.2800 mm): Symbol #PWR0939 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 88.9000 mm): Symbol D906 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 88.9000 mm): Symbol D906 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(50.8000 mm, 76.2000 mm): Symbol #PWR0932 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 76.2000 mm): Symbol #PWR0932 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 78.7400 mm): Symbol C902 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 78.7400 mm): Symbol C902 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(101.6000 mm, 99.0600 mm): Symbol #PWR0959 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 99.0600 mm): Symbol #PWR0959 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(76.2000 mm, 99.0600 mm): Symbol #PWR0947 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 99.0600 mm): Symbol #PWR0947 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 99.0600 mm): Symbol #PWR0933 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 99.0600 mm): Symbol #PWR0933 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 119.3800 mm): Symbol C915 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 119.3800 mm): Symbol C915 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(88.9000 mm, 81.2800 mm): Symbol #PWR0953 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 81.2800 mm): Symbol #PWR0953 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(76.2000 mm, 76.2000 mm): Symbol #PWR0946 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 76.2000 mm): Symbol #PWR0946 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 78.7400 mm): Symbol C906 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 78.7400 mm): Symbol C906 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(50.8000 mm, 116.8400 mm): Symbol #PWR0934 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 116.8400 mm): Symbol #PWR0934 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(76.2000 mm, 116.8400 mm): Symbol #PWR0948 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 116.8400 mm): Symbol #PWR0948 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 119.3800 mm): Symbol C907 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D903': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 119.3800 mm): Symbol C907 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D903': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 119.3800 mm): Symbol C903 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 119.3800 mm): Symbol C903 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 129.5400 mm): Symbol D903 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D907': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 129.5400 mm): Symbol D903 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D907': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 121.9200 mm): Symbol #PWR0940 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 121.9200 mm): Symbol #PWR0940 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 129.5400 mm): Symbol D907 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 129.5400 mm): Symbol D907 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(76.2000 mm, 139.7000 mm): Symbol #PWR0949 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 139.7000 mm): Symbol #PWR0949 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(76.2000 mm, 60.9600 mm): Symbol #PWR0945 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D905': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 60.9600 mm): Symbol #PWR0945 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D905': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 50.8000 mm): Symbol D905 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D902': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D906': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 50.8000 mm): Symbol D905 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D902': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D906': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(76.2000 mm, 38.1000 mm): Symbol #PWR0944 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 38.1000 mm): Symbol #PWR0944 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 40.6400 mm): Symbol C909 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(109.2200 mm, 40.6400 mm): Symbol C909 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(101.6000 mm, 38.1000 mm): Symbol #PWR0956 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 38.1000 mm): Symbol #PWR0956 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(127.0000 mm, 38.1000 mm): Symbol #PWR0968 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 38.1000 mm): Symbol #PWR0968 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 40.6400 mm): Symbol C913 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 40.6400 mm): Symbol C913 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 43.1800 mm): Symbol #PWR0976 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(139.7000 mm, 43.1800 mm): Symbol #PWR0976 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(101.6000 mm, 60.9600 mm): Symbol #PWR0957 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 60.9600 mm): Symbol #PWR0957 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 50.8000 mm): Symbol D909 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D913': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 50.8000 mm): Symbol D909 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D913': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 50.8000 mm): Symbol D913 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 50.8000 mm): Symbol D913 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(127.0000 mm, 60.9600 mm): Symbol #PWR0969 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 60.9600 mm): Symbol #PWR0969 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 40.6400 mm): Symbol C905 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 40.6400 mm): Symbol C905 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(88.9000 mm, 43.1800 mm): Symbol #PWR0952 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D909': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 43.1800 mm): Symbol #PWR0952 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D909': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 43.1800 mm): Symbol #PWR0964 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 43.1800 mm): Symbol #PWR0964 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 40.6400 mm): Symbol C901 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 40.6400 mm): Symbol C901 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(50.8000 mm, 38.1000 mm): Symbol #PWR0930 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 38.1000 mm): Symbol #PWR0930 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 43.1800 mm): Symbol #PWR0938 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D901': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 43.1800 mm): Symbol #PWR0938 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'D901': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 50.8000 mm): Symbol D901 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 50.8000 mm): Symbol D901 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 60.9600 mm): Symbol #PWR0931 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 60.9600 mm): Symbol #PWR0931 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(152.4000 mm, 106.6800 mm): Symbol Y701 [ESP32_XTAL] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(152.4000 mm, 106.6800 mm): Symbol Y701 [ESP32_XTAL] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(147.3200 mm, 116.8400 mm): Symbol #PWR0817 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(147.3200 mm, 116.8400 mm): Symbol #PWR0817 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(167.6400 mm, 116.8400 mm): Symbol C750 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(167.6400 mm, 116.8400 mm): Symbol C750 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(167.6400 mm, 121.9200 mm): Symbol #PWR0821 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(167.6400 mm, 121.9200 mm): Symbol #PWR0821 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(160.0200 mm, 121.9200 mm): Symbol #PWR0819 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(160.0200 mm, 121.9200 mm): Symbol #PWR0819 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(160.0200 mm, 116.8400 mm): Symbol C748 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(160.0200 mm, 116.8400 mm): Symbol C748 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'Conn_Coaxial' has been modified in library 'Connector'
-    @(104.1400 mm, 66.0400 mm): Symbol J701 [Conn_Coaxial] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 66.0400 mm): Symbol J701 [Conn_Coaxial] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(104.1400 mm, 73.6600 mm): Symbol #PWR0804 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 73.6600 mm): Symbol #PWR0804 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(119.3800 mm, 76.2000 mm): Symbol #PWR0808 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 76.2000 mm): Symbol #PWR0808 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(147.3200 mm, 43.1800 mm): Symbol C746 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(147.3200 mm, 43.1800 mm): Symbol C746 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(147.3200 mm, 48.2600 mm): Symbol #PWR0816 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(147.3200 mm, 48.2600 mm): Symbol #PWR0816 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(165.1000 mm, 48.2600 mm): Symbol #PWR0820 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(165.1000 mm, 48.2600 mm): Symbol #PWR0820 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(165.1000 mm, 43.1800 mm): Symbol C749 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(165.1000 mm, 43.1800 mm): Symbol C749 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(160.0200 mm, 38.1000 mm): Symbol L702 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(160.0200 mm, 38.1000 mm): Symbol L702 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(154.9400 mm, 48.2600 mm): Symbol #PWR0818 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(154.9400 mm, 48.2600 mm): Symbol #PWR0818 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(154.9400 mm, 43.1800 mm): Symbol C747 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(154.9400 mm, 43.1800 mm): Symbol C747 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    @(172.7200 mm, 35.5600 mm): Symbol #FLG0701 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(172.7200 mm, 35.5600 mm): Symbol #FLG0701 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(134.6200 mm, 35.5600 mm): Symbol #PWR0812 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 35.5600 mm): Symbol #PWR0812 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(129.5400 mm, 76.2000 mm): Symbol #PWR0811 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(129.5400 mm, 76.2000 mm): Symbol #PWR0811 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(119.3800 mm, 71.1200 mm): Symbol C739 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 71.1200 mm): Symbol C739 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(129.5400 mm, 71.1200 mm): Symbol C742 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(129.5400 mm, 71.1200 mm): Symbol C742 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(124.4600 mm, 66.0400 mm): Symbol L701 [INDUCTOR] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(124.4600 mm, 66.0400 mm): Symbol L701 [INDUCTOR] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 43.1800 mm): Symbol C743 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 43.1800 mm): Symbol C743 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(134.6200 mm, 48.2600 mm): Symbol #PWR0813 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'LOGO701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 48.2600 mm): Symbol #PWR0813 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'LOGO701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(392.4300 mm, 237.4900 mm): Symbol LOGO701 [OSHWA] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J799': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(392.4300 mm, 237.4900 mm): Symbol LOGO701 [OSHWA] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J799': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(340.3600 mm, 231.1400 mm): Symbol #PWR0833 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(340.3600 mm, 231.1400 mm): Symbol #PWR0833 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(281.9400 mm, 231.1400 mm): Symbol #PWR01058 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(281.9400 mm, 231.1400 mm): Symbol #PWR01058 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(350.5200 mm, 236.2200 mm): Symbol C756 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(350.5200 mm, 236.2200 mm): Symbol C756 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(350.5200 mm, 231.1400 mm): Symbol #PWR0837 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U705': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(350.5200 mm, 231.1400 mm): Symbol #PWR0837 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U705': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(365.7600 mm, 228.6000 mm): Symbol #PWR0843 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(365.7600 mm, 228.6000 mm): Symbol #PWR0843 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(340.3600 mm, 241.3000 mm): Symbol #PWR0834 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(340.3600 mm, 241.3000 mm): Symbol #PWR0834 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(340.3600 mm, 236.2200 mm): Symbol C755 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(340.3600 mm, 236.2200 mm): Symbol C755 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(350.5200 mm, 241.3000 mm): Symbol #PWR0838 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP710': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP709': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(350.5200 mm, 241.3000 mm): Symbol #PWR0838 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP710': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP709': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(266.7000 mm, 139.7000 mm): Symbol #PWR0831 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP706': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP708': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP707': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(266.7000 mm, 139.7000 mm): Symbol #PWR0831 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP706': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP708': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP707': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(355.6000 mm, 86.3600 mm): Symbol #PWR0840 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(355.6000 mm, 86.3600 mm): Symbol #PWR0840 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(345.4400 mm, 86.3600 mm): Symbol #PWR01105 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(345.4400 mm, 86.3600 mm): Symbol #PWR01105 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(347.9800 mm, 53.3400 mm): Symbol R733 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(347.9800 mm, 53.3400 mm): Symbol R733 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(353.0600 mm, 63.5000 mm): Symbol #PWR0839 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(353.0600 mm, 63.5000 mm): Symbol #PWR0839 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(360.6800 mm, 137.1600 mm): Symbol C758 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(360.6800 mm, 137.1600 mm): Symbol C758 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(360.6800 mm, 142.2400 mm): Symbol #PWR0841 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(360.6800 mm, 142.2400 mm): Symbol #PWR0841 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(378.4600 mm, 167.6400 mm): Symbol #PWR0846 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(378.4600 mm, 167.6400 mm): Symbol #PWR0846 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(350.5200 mm, 208.2800 mm): Symbol R734 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(350.5200 mm, 208.2800 mm): Symbol R734 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(350.5200 mm, 203.2000 mm): Symbol #PWR0836 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(350.5200 mm, 203.2000 mm): Symbol #PWR0836 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(365.7600 mm, 203.2000 mm): Symbol #PWR0842 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(365.7600 mm, 203.2000 mm): Symbol #PWR0842 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(365.7600 mm, 215.9000 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(365.7600 mm, 215.9000 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(345.4400 mm, 91.4400 mm): Symbol R701 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(345.4400 mm, 91.4400 mm): Symbol R701 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(355.6000 mm, 121.9200 mm): Symbol #PWR0835 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(355.6000 mm, 121.9200 mm): Symbol #PWR0835 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'SW701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(360.6800 mm, 96.5200 mm): Symbol R736 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(360.6800 mm, 96.5200 mm): Symbol R736 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(355.6000 mm, 91.4400 mm): Symbol C757 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(355.6000 mm, 91.4400 mm): Symbol C757 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(378.4600 mm, 101.6000 mm): Symbol #PWR0844 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(378.4600 mm, 101.6000 mm): Symbol #PWR0844 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(355.6000 mm, 127.0000 mm): Symbol R735 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(355.6000 mm, 127.0000 mm): Symbol R735 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(378.4600 mm, 137.1600 mm): Symbol #PWR0845 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP704': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(378.4600 mm, 137.1600 mm): Symbol #PWR0845 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP702': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP704': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(111.7600 mm, 231.1400 mm): Symbol #PWR0807 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(111.7600 mm, 231.1400 mm): Symbol #PWR0807 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(73.6600 mm, 165.1000 mm): Symbol #PWR0800 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(73.6600 mm, 165.1000 mm): Symbol #PWR0800 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(78.7400 mm, 172.7200 mm): Symbol C734 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(78.7400 mm, 172.7200 mm): Symbol C734 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(88.9000 mm, 172.7200 mm): Symbol C735 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 172.7200 mm): Symbol C735 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(88.9000 mm, 177.8000 mm): Symbol #PWR0802 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(88.9000 mm, 177.8000 mm): Symbol #PWR0802 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(78.7400 mm, 177.8000 mm): Symbol #PWR0801 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(78.7400 mm, 177.8000 mm): Symbol #PWR0801 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(63.5000 mm, 274.3200 mm): Symbol #PWR0799 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 274.3200 mm): Symbol #PWR0799 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 266.7000 mm): Symbol #PWR0795 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 266.7000 mm): Symbol #PWR0795 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U703': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(63.5000 mm, 226.0600 mm): Symbol U703 [RP2040] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP705': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(63.5000 mm, 226.0600 mm): Symbol U703 [RP2040] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP705': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+1V1' has been modified in library 'power'
-    @(58.4200 mm, 165.1000 mm): Symbol #PWR0798 [+1V1] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(58.4200 mm, 165.1000 mm): Symbol #PWR0798 [+1V1] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 172.7200 mm): Symbol C733 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 172.7200 mm): Symbol C733 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(27.9400 mm, 182.8800 mm): Symbol R729 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(27.9400 mm, 182.8800 mm): Symbol R729 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 177.8000 mm): Symbol #PWR0794 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 177.8000 mm): Symbol #PWR0794 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(27.9400 mm, 177.8000 mm): Symbol #PWR0793 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(27.9400 mm, 177.8000 mm): Symbol #PWR0793 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(43.1800 mm, 177.8000 mm): Symbol #PWR0796 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(43.1800 mm, 177.8000 mm): Symbol #PWR0796 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 177.8000 mm): Symbol #PWR0797 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 177.8000 mm): Symbol #PWR0797 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(35.5600 mm, 172.7200 mm): Symbol C731 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 172.7200 mm): Symbol C731 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(43.1800 mm, 172.7200 mm): Symbol C732 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(43.1800 mm, 172.7200 mm): Symbol C732 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(104.1400 mm, 172.7200 mm): Symbol C737 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 172.7200 mm): Symbol C737 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(96.5200 mm, 172.7200 mm): Symbol C736 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 172.7200 mm): Symbol C736 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(104.1400 mm, 177.8000 mm): Symbol #PWR0805 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 177.8000 mm): Symbol #PWR0805 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(96.5200 mm, 177.8000 mm): Symbol #PWR0803 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 177.8000 mm): Symbol #PWR0803 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(111.7600 mm, 177.8000 mm): Symbol #PWR0806 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(111.7600 mm, 177.8000 mm): Symbol #PWR0806 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(119.3800 mm, 177.8000 mm): Symbol #PWR0809 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 177.8000 mm): Symbol #PWR0809 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(127.0000 mm, 177.8000 mm): Symbol #PWR0810 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 177.8000 mm): Symbol #PWR0810 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(119.3800 mm, 172.7200 mm): Symbol C740 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(119.3800 mm, 172.7200 mm): Symbol C740 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 172.7200 mm): Symbol C741 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(127.0000 mm, 172.7200 mm): Symbol C741 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(111.7600 mm, 172.7200 mm): Symbol C738 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(111.7600 mm, 172.7200 mm): Symbol C738 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(134.6200 mm, 177.8000 mm): Symbol #PWR0814 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 177.8000 mm): Symbol #PWR0814 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(142.2400 mm, 177.8000 mm): Symbol #PWR0815 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(142.2400 mm, 177.8000 mm): Symbol #PWR0815 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 172.7200 mm): Symbol C744 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(134.6200 mm, 172.7200 mm): Symbol C744 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(142.2400 mm, 172.7200 mm): Symbol C745 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(142.2400 mm, 172.7200 mm): Symbol C745 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(193.0400 mm, 33.0200 mm): Symbol #PWR0824 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(193.0400 mm, 33.0200 mm): Symbol #PWR0824 [VDD_SPI] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(185.4200 mm, 33.0200 mm): Symbol #PWR0822 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(185.4200 mm, 33.0200 mm): Symbol #PWR0822 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(200.6600 mm, 33.0200 mm): Symbol #PWR0826 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'Y701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(200.6600 mm, 33.0200 mm): Symbol #PWR0826 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'Y701': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(195.5800 mm, 154.9400 mm): Symbol #PWR0825 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(195.5800 mm, 154.9400 mm): Symbol #PWR0825 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(185.4200 mm, 40.6400 mm): Symbol C751 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(185.4200 mm, 40.6400 mm): Symbol C751 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(185.4200 mm, 45.7200 mm): Symbol #PWR0823 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(185.4200 mm, 45.7200 mm): Symbol #PWR0823 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(200.6600 mm, 40.6400 mm): Symbol C752 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(200.6600 mm, 40.6400 mm): Symbol C752 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(200.6600 mm, 45.7200 mm): Symbol #PWR0827 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U704': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(200.6600 mm, 45.7200 mm): Symbol #PWR0827 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U704': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 137.1600 mm): Global Label 'ESP_GPIO_46' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 137.1600 mm): Global Label 'ESP_GPIO_46' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 127.0000 mm): Global Label 'ESP_GPIO_37' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 127.0000 mm): Global Label 'ESP_GPIO_37' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 134.6200 mm): Global Label 'ESP_GPIO_45' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 134.6200 mm): Global Label 'ESP_GPIO_45' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 124.4600 mm): Global Label 'ESP_GPIO_36' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 124.4600 mm): Global Label 'ESP_GPIO_36' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 121.9200 mm): Global Label 'ESP_GPIO_35' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 121.9200 mm): Global Label 'ESP_GPIO_35' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(220.9800 mm, 43.1800 mm): Symbol C753 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(220.9800 mm, 43.1800 mm): Symbol C753 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 73.6600 mm): Global Label 'ESP_GPIO_5' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 73.6600 mm): Global Label 'ESP_GPIO_5' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 106.6800 mm): Global Label 'ESP_GPIO_18' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 106.6800 mm): Global Label 'ESP_GPIO_18' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 101.6000 mm): Global Label 'ESP_GPIO_16' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 101.6000 mm): Global Label 'ESP_GPIO_16' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 71.1200 mm): Global Label 'ESP_GPIO_4' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 71.1200 mm): Global Label 'ESP_GPIO_4' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 63.5000 mm): Global Label 'ESP_GPIO_1' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 63.5000 mm): Global Label 'ESP_GPIO_1' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 66.0400 mm): Global Label 'ESP_GPIO_2' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 66.0400 mm): Global Label 'ESP_GPIO_2' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
-    @(228.6000 mm, 68.5800 mm): Global Label 'ESP_GPIO_3' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 68.5800 mm): Global Label 'ESP_GPIO_3' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(228.6000 mm, 43.1800 mm): Symbol C754 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 43.1800 mm): Symbol C754 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(228.6000 mm, 48.2600 mm): Symbol #PWR0829 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(228.6000 mm, 48.2600 mm): Symbol #PWR0829 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(220.9800 mm, 48.2600 mm): Symbol #PWR0828 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(220.9800 mm, 48.2600 mm): Symbol #PWR0828 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(233.6800 mm, 35.5600 mm): Symbol #PWR0830 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J501': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J502': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(233.6800 mm, 35.5600 mm): Symbol #PWR0830 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J501': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J502': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(38.1000 mm, 73.6600 mm): Symbol #PWR0507 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 73.6600 mm): Symbol #PWR0507 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(78.7400 mm, 38.1000 mm): Symbol #PWR0503 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(78.7400 mm, 38.1000 mm): Symbol #PWR0503 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(73.6600 mm, 38.1000 mm): Symbol #PWR0502 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(73.6600 mm, 38.1000 mm): Symbol #PWR0502 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(55.8800 mm, 38.1000 mm): Symbol #PWR0501 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J504': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(55.8800 mm, 38.1000 mm): Symbol #PWR0501 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J504': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(38.1000 mm, 55.8800 mm): Symbol #PWR0505 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'M501': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J506': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 55.8800 mm): Symbol #PWR0505 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'M501': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J506': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(38.1000 mm, 78.7400 mm): Symbol #PWR0509 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 78.7400 mm): Symbol #PWR0509 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(55.8800 mm, 114.3000 mm): Symbol #PWR0513 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J508': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(55.8800 mm, 114.3000 mm): Symbol #PWR0513 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J508': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(38.1000 mm, 96.5200 mm): Symbol #PWR0511 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 96.5200 mm): Symbol #PWR0511 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(96.5200 mm, 114.3000 mm): Symbol #PWR0516 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J507': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 114.3000 mm): Symbol #PWR0516 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J507': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(73.6600 mm, 114.3000 mm): Symbol #PWR0514 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(73.6600 mm, 114.3000 mm): Symbol #PWR0514 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(78.7400 mm, 114.3000 mm): Symbol #PWR0515 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J505': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(78.7400 mm, 114.3000 mm): Symbol #PWR0515 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J505': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(114.3000 mm, 96.5200 mm): Symbol #PWR0512 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 96.5200 mm): Symbol #PWR0512 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(114.3000 mm, 55.8800 mm): Symbol #PWR0506 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 55.8800 mm): Symbol #PWR0506 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 78.7400 mm): Symbol #PWR0510 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 78.7400 mm): Symbol #PWR0510 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(114.3000 mm, 73.6600 mm): Symbol #PWR0508 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J503': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 73.6600 mm): Symbol #PWR0508 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J503': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(96.5200 mm, 38.1000 mm): Symbol #PWR0504 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 38.1000 mm): Symbol #PWR0504 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(248.9200 mm, 78.7400 mm): Symbol C602 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(248.9200 mm, 78.7400 mm): Symbol C602 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    @(213.3600 mm, 68.5800 mm): Symbol #FLG0601 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP605': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U602': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(213.3600 mm, 68.5800 mm): Symbol #FLG0601 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP605': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U602': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(248.9200 mm, 83.8200 mm): Symbol #PWR0610 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(248.9200 mm, 83.8200 mm): Symbol #PWR0610 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(236.2200 mm, 86.3600 mm): Symbol #PWR0611 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(236.2200 mm, 86.3600 mm): Symbol #PWR0611 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(236.2200 mm, 76.2000 mm): Symbol U602 [U_REGULATOR_SOT23-5] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(236.2200 mm, 76.2000 mm): Symbol U602 [U_REGULATOR_SOT23-5] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(218.4400 mm, 78.7400 mm): Symbol C601 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(218.4400 mm, 78.7400 mm): Symbol C601 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(218.4400 mm, 83.8200 mm): Symbol #PWR0609 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(218.4400 mm, 83.8200 mm): Symbol #PWR0609 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(261.6200 mm, 71.1200 mm): Symbol #PWR0608 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(261.6200 mm, 71.1200 mm): Symbol #PWR0608 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(101.6000 mm, 101.6000 mm): Symbol #PWR0613 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 101.6000 mm): Symbol #PWR0613 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(93.9800 mm, 96.5200 mm): Symbol R601 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(93.9800 mm, 96.5200 mm): Symbol R601 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 96.5200 mm): Symbol R602 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(101.6000 mm, 96.5200 mm): Symbol R602 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(93.9800 mm, 101.6000 mm): Symbol #PWR0612 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(93.9800 mm, 101.6000 mm): Symbol #PWR0612 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'J601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(40.6400 mm, 96.5200 mm): Symbol J601 [USB_C_TYPE-C-32-M-12] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG0603 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG0603 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(38.1000 mm, 139.7000 mm): Symbol R603 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 139.7000 mm): Symbol R603 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(76.2000 mm, 119.3800 mm): Symbol #PWR0614 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 119.3800 mm): Symbol #PWR0614 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(25.4000 mm, 144.7800 mm): Symbol #PWR0615 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(25.4000 mm, 144.7800 mm): Symbol #PWR0615 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(38.1000 mm, 144.7800 mm): Symbol #PWR0616 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(38.1000 mm, 144.7800 mm): Symbol #PWR0616 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(76.2000 mm, 71.1200 mm): Symbol #PWR0605 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(76.2000 mm, 71.1200 mm): Symbol #PWR0605 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    @(66.0400 mm, 71.1200 mm): Symbol #FLG0602 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(66.0400 mm, 71.1200 mm): Symbol #FLG0602 [PWR_FLAG] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
     @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP602': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP602': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP601': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(139.7000 mm, 40.6400 mm): Symbol #PWR0602 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(139.7000 mm, 40.6400 mm): Symbol #PWR0602 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(106.6800 mm, 48.2600 mm): Symbol #PWR0604 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(106.6800 mm, 48.2600 mm): Symbol #PWR0604 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 [+5V] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
-    @(185.4200 mm, 71.1200 mm): Symbol #PWR0606 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP604': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP603': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(185.4200 mm, 71.1200 mm): Symbol #PWR0606 [VBUS] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP604': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'TP603': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(45.7200 mm, 73.6600 mm): Symbol #PWR0879 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(45.7200 mm, 73.6600 mm): Symbol #PWR0879 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'JP801': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'JP801': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(45.7200 mm, 93.9800 mm): Symbol #PWR0152 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(45.7200 mm, 93.9800 mm): Symbol #PWR0152 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(45.7200 mm, 88.9000 mm): Symbol R33 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(45.7200 mm, 88.9000 mm): Symbol R33 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(45.7200 mm, 78.7400 mm): Symbol JP1 [JP_SolderJumper_2_Open] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U801': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(45.7200 mm, 78.7400 mm): Symbol JP1 [JP_SolderJumper_2_Open] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U801': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
-    @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
-    @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(121.9200 mm, 93.9800 mm): Symbol C801 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(121.9200 mm, 93.9800 mm): Symbol C801 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-50.8000 mm, 76.2000 mm): Symbol #PWR01075 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 76.2000 mm): Symbol #PWR01075 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-50.8000 mm, 48.2600 mm): Symbol #PWR01054 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 48.2600 mm): Symbol #PWR01054 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-33.0200 mm, 48.2600 mm): Symbol #PWR01062 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1001': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 48.2600 mm): Symbol #PWR01062 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1001': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-33.0200 mm, 38.1000 mm): Symbol #PWR01053 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 38.1000 mm): Symbol #PWR01053 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-66.0400 mm, 43.1800 mm): Symbol #PWR01049 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-66.0400 mm, 43.1800 mm): Symbol #PWR01049 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-50.8000 mm, 22.8600 mm): Symbol U1001 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 22.8600 mm): Symbol U1001 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-33.0200 mm, 43.1800 mm): Symbol C1019 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 43.1800 mm): Symbol C1019 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 45.7200 mm): Symbol #PWR01069 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1005': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 45.7200 mm): Symbol #PWR01069 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1005': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(68.5800 mm, 43.1800 mm): Symbol C1023 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 43.1800 mm): Symbol C1023 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(68.5800 mm, 38.1000 mm): Symbol #PWR01063 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 38.1000 mm): Symbol #PWR01063 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both SHIFT and ENCODER_CS are attached to the same items; SHIFT will be used in the netlist
     @(106.6800 mm, 35.5600 mm): Label 'SHIFT'
-    @(114.3000 mm, 35.5600 mm): Hierarchical Label 'ENCODER_CS' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 35.5600 mm): Hierarchical Label 'ENCODER_CS' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both CLOCK and ENCODER_SCK are attached to the same items; CLOCK will be used in the netlist
     @(-68.5800 mm, 111.7600 mm): Label 'CLOCK'
-    @(114.3000 mm, 33.0200 mm): Hierarchical Label 'ENCODER_SCK' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 33.0200 mm): Hierarchical Label 'ENCODER_SCK' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both DATA and ENCODER_MISO are attached to the same items; DATA will be used in the netlist
     @(68.5800 mm, 236.2200 mm): Label 'DATA'
-    @(114.3000 mm, 27.9400 mm): Hierarchical Label 'ENCODER_MISO' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(114.3000 mm, 27.9400 mm): Hierarchical Label 'ENCODER_MISO' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 48.2600 mm): Symbol #PWR01074 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 48.2600 mm): Symbol #PWR01074 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(50.8000 mm, 0.0000 mm): Symbol #PWR01061 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 0.0000 mm): Symbol #PWR01061 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 22.8600 mm): Symbol U1005 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 22.8600 mm): Symbol U1005 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(68.5800 mm, 48.2600 mm): Symbol #PWR01082 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1006': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 48.2600 mm): Symbol #PWR01082 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1006': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 99.0600 mm): Symbol U1006 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 99.0600 mm): Symbol U1006 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(50.8000 mm, 76.2000 mm): Symbol #PWR01073 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 76.2000 mm): Symbol #PWR01073 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 121.9200 mm): Symbol #PWR01070 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 121.9200 mm): Symbol #PWR01070 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(68.5800 mm, 119.3800 mm): Symbol C1024 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 119.3800 mm): Symbol C1024 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(68.5800 mm, 124.4600 mm): Symbol #PWR01084 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 124.4600 mm): Symbol #PWR01084 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 124.4600 mm): Symbol #PWR01076 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 124.4600 mm): Symbol #PWR01076 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(68.5800 mm, 114.3000 mm): Symbol #PWR01083 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 114.3000 mm): Symbol #PWR01083 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-66.0400 mm, 121.9200 mm): Symbol #PWR01050 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1002': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-66.0400 mm, 121.9200 mm): Symbol #PWR01050 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1002': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-50.8000 mm, 99.0600 mm): Symbol U1002 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1003': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 99.0600 mm): Symbol U1002 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1003': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-50.8000 mm, 0.0000 mm): Symbol #PWR01055 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 0.0000 mm): Symbol #PWR01055 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-50.8000 mm, 124.4600 mm): Symbol #PWR01056 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 124.4600 mm): Symbol #PWR01056 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-33.0200 mm, 124.4600 mm): Symbol #PWR01064 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 124.4600 mm): Symbol #PWR01064 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-33.0200 mm, 114.3000 mm): Symbol #PWR01081 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 114.3000 mm): Symbol #PWR01081 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-33.0200 mm, 119.3800 mm): Symbol C1020 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 119.3800 mm): Symbol C1020 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-50.8000 mm, 200.6600 mm): Symbol #PWR0101 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 200.6600 mm): Symbol #PWR0101 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-33.0200 mm, 200.6600 mm): Symbol #PWR01066 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 200.6600 mm): Symbol #PWR01066 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-50.8000 mm, 152.4000 mm): Symbol #PWR01057 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 152.4000 mm): Symbol #PWR01057 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-50.8000 mm, 175.2600 mm): Symbol U1003 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 175.2600 mm): Symbol U1003 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-66.0400 mm, 198.1200 mm): Symbol #PWR01051 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-66.0400 mm, 198.1200 mm): Symbol #PWR01051 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-33.0200 mm, 195.5800 mm): Symbol C1021 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 195.5800 mm): Symbol C1021 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-33.0200 mm, 190.5000 mm): Symbol #PWR01065 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1004': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 190.5000 mm): Symbol #PWR01065 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1004': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-50.8000 mm, 251.4600 mm): Symbol U1004 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 251.4600 mm): Symbol U1004 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(68.5800 mm, 271.7800 mm): Symbol C1026 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 271.7800 mm): Symbol C1026 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(68.5800 mm, 276.8600 mm): Symbol #PWR01088 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 276.8600 mm): Symbol #PWR01088 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(68.5800 mm, 266.7000 mm): Symbol #PWR01087 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 266.7000 mm): Symbol #PWR01087 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 276.8600 mm): Symbol #PWR01080 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 276.8600 mm): Symbol #PWR01080 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 274.3200 mm): Symbol #PWR01072 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1008': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 274.3200 mm): Symbol #PWR01072 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1008': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(50.8000 mm, 228.6000 mm): Symbol #PWR01079 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 228.6000 mm): Symbol #PWR01079 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 251.4600 mm): Symbol U1008 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 251.4600 mm): Symbol U1008 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(35.5600 mm, 198.1200 mm): Symbol #PWR01071 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
-WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1007': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(35.5600 mm, 198.1200 mm): Symbol #PWR01071 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (simulation_model_issue) Error reading simulation model from symbol 'U1007': (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(50.8000 mm, 200.6600 mm): Symbol #PWR01078 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 200.6600 mm): Symbol #PWR01078 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(68.5800 mm, 200.6600 mm): Symbol #PWR01086 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 200.6600 mm): Symbol #PWR01086 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(50.8000 mm, 152.4000 mm): Symbol #PWR01077 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 152.4000 mm): Symbol #PWR01077 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 175.2600 mm): Symbol U1007 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(50.8000 mm, 175.2600 mm): Symbol U1007 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(68.5800 mm, 190.5000 mm): Symbol #PWR01085 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 190.5000 mm): Symbol #PWR01085 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(68.5800 mm, 195.5800 mm): Symbol C1025 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(68.5800 mm, 195.5800 mm): Symbol C1025 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-66.0400 mm, 274.3200 mm): Symbol #PWR01052 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-66.0400 mm, 274.3200 mm): Symbol #PWR01052 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-50.8000 mm, 276.8600 mm): Symbol #PWR01060 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 276.8600 mm): Symbol #PWR01060 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-50.8000 mm, 228.6000 mm): Symbol #PWR01059 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-50.8000 mm, 228.6000 mm): Symbol #PWR01059 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    @(-33.0200 mm, 276.8600 mm): Symbol #PWR01068 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 276.8600 mm): Symbol #PWR01068 [GND] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(-33.0200 mm, 271.7800 mm): Symbol C1022 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 271.7800 mm): Symbol C1022 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    @(-33.0200 mm, 266.7000 mm): Symbol #PWR01067 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:127)
+    @(-33.0200 mm, 266.7000 mm): Symbol #PWR01067 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L601) (kibot - units.py:237)
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units.py:237)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
-ERROR:Found 0 DRC errors and 246 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1387) (kibot - kiplot.py:124)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+ERROR:Found 0 DRC errors and 247 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1416) (kibot - kiplot.py:125)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W015) Unknown option `exclude_filter` (kibot - optionable.py:149)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W049) Layer "Inner layer 3" (In3_Cu) isn't used (kibot - out_any_layer.py:186)
 WARNING:(W049) Layer "Inner layer 4" (In4_Cu) isn't used (kibot - out_any_layer.py:186)
 WARNING:(W049) Layer "Inner layer 5" (In5_Cu) isn't used (kibot - out_any_layer.py:186)
 WARNING:(W049) Layer "Inner layer 6" (In6_Cu) isn't used (kibot - out_any_layer.py:186)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:304)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -798,9 +804,9 @@ WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/en12-hs22af20.stp` (ki
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1016: `${INTECH_3D}/en12-hs22af20.stp` (kibot - out_base_3d.py:514)
 WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:304)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -841,9 +847,8 @@ WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/en12-hs22af20.stp` (ki
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1016: `${INTECH_3D}/en12-hs22af20.stp` (kibot - out_base_3d.py:514)
 WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -884,9 +889,8 @@ WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/en12-hs22af20.stp` (ki
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1016: `${INTECH_3D}/en12-hs22af20.stp` (kibot - out_base_3d.py:514)
 WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-WARNING:(W009) KiCad config without environment.vars section (kibot - config.py:358)
-WARNING:(W010) Unable to find KiCad 3D models (kibot - config.py:433)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
