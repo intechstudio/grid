@@ -1,10 +1,19 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-05-29 15:19:30 **
+** Created on 2024-05-29 16:00:10 **
 
-** Found 261 DRC violations **
+** Found 277 DRC violations **
 [track_dangling]: Track has unconnected end
     Local override; Severity: warning
     @(85.5000 mm, 101.7500 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; Severity: warning
+    @(100.4840 mm, 72.3650 mm): Via [Net-(JP801-B)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; Severity: warning
+    @(100.4840 mm, 73.6350 mm): Via [Net-(JP802-B)] on F.Cu - B.Cu
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
@@ -17,6 +26,14 @@
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on B.Cu
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(101.5000 mm, 73.0000 mm): Footprint U801
+    @(96.7500 mm, 70.0000 mm): Footprint JP801
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(101.5000 mm, 73.0000 mm): Footprint U801
+    @(96.7500 mm, 77.0000 mm): Footprint JP802
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; Severity: warning
     @(100.0000 mm, 53.4000 mm): Footprint J601
@@ -492,6 +509,9 @@
     @(82.7500 mm, 98.5000 mm): Footprint R1023
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
+    @(96.7500 mm, 72.2500 mm): Footprint R801
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
     @(101.0000 mm, 86.2500 mm): Footprint R734
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
@@ -636,6 +656,9 @@
     @(93.3960 mm, 113.3350 mm): Footprint R1039
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
+    @(96.7500 mm, 74.7500 mm): Footprint R802
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
     @(104.7500 mm, 104.2500 mm): Footprint L701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
@@ -658,6 +681,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(103.0000 mm, 105.2500 mm): Footprint C754
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 100.0000 mm): Footprint M501
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(96.2500 mm, 111.7500 mm): Footprint R733
@@ -759,7 +785,19 @@
     @(120.6700 mm, 66.8300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
+    @(124.1700 mm, 74.8300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.1700 mm, 72.8300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.1700 mm, 73.8300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
     @(133.6700 mm, 82.3300 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.6700 mm, 73.3300 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(92.6650 mm, 135.5050 mm): Line on F.Silkscreen
@@ -790,6 +828,12 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(95.2500 mm, 56.5700 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(98.5500 mm, 70.0000 mm): Reference 'JP801'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(96.7500 mm, 73.4200 mm): Reference 'R801'
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(146.0050 mm, 108.8350 mm): Line on F.Silkscreen
@@ -843,10 +887,16 @@
     @(113.0966 mm, 52.9863 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
+    @(96.7500 mm, 75.9200 mm): Reference 'R802'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
     @(106.9572 mm, 58.8555 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(88.1150 mm, 106.2650 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(100.0000 mm, 100.5000 mm): Reference 'M501'
 
 ** Found 0 unconnected pads **
 
