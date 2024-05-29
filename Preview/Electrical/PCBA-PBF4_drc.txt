@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-PBF4/PCBA-PBF4.kicad_pcb **
-** Created on 2024-04-24 10:51:13 **
+** Created on 2024-05-29 14:38:56 **
 
 ** Found 273 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
