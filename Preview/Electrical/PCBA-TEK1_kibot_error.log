@@ -1,6 +1,6 @@
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W058) Missing KiCad main config file /github/home/.config/kicad/7.0/kicad_common.json (eeschema_do - misc.py:203) (kibot - kiplot.py:128)
-WARNING:(W058) 162 ERC warnings detected (eeschema_do - eeschema_do:1084) (kibot - kiplot.py:128)
+WARNING:(W058) 172 ERC warnings detected (eeschema_do - eeschema_do:1084) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     @(215.9000 mm, 185.4200 mm): Global Label 'ESP_GPIO_1'
     @(215.9000 mm, 187.9600 mm): Global Label 'ESP_GPIO_18' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
@@ -13,7 +13,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(193.0400 mm, 114.3000 mm): Symbol R1039 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both GND and OUT_7 are attached to the same items; GND will be used in the netlist
-    @(109.2200 mm, 93.9800 mm): Symbol #PWR01045 Hidden pin 1 [GND, Power input, Line]
+    @(177.8000 mm, 86.3600 mm): Symbol #PWR01011 Hidden pin 1 [GND, Power input, Line]
     @(114.3000 mm, 111.7600 mm): Hierarchical Label 'OUT_7' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(93.9800 mm, 86.3600 mm): Symbol R1025 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
@@ -54,57 +54,77 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(208.2800 mm, 114.3000 mm): Symbol UI1031 [UI_Pushbutton_Omron] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 78.7400 mm): Symbol C909 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(152.4000 mm, 50.8000 mm): Symbol D905 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 88.9000 mm): Symbol D909 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(160.0200 mm, 40.6400 mm): Symbol C905 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(134.6200 mm, 119.3800 mm): Symbol C914 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(134.6200 mm, 40.6400 mm): Symbol C904 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(160.0200 mm, 78.7400 mm): Symbol C910 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(58.4200 mm, 40.6400 mm): Symbol C901 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(152.4000 mm, 88.9000 mm): Symbol D910 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(50.8000 mm, 50.8000 mm): Symbol D901 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 165.1000 mm): Symbol D916 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(50.8000 mm, 88.9000 mm): Symbol D906 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 154.9400 mm): Symbol C916 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(83.8200 mm, 40.6400 mm): Symbol C902 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 129.5400 mm): Symbol D911 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(76.2000 mm, 50.8000 mm): Symbol D902 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 165.1000 mm): Symbol D915 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(101.6000 mm, 50.8000 mm): Symbol D903 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 129.5400 mm): Symbol D912 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(109.2200 mm, 40.6400 mm): Symbol C903 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 154.9400 mm): Symbol C915 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(127.0000 mm, 50.8000 mm): Symbol D904 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(83.8200 mm, 78.7400 mm): Symbol C907 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(76.2000 mm, 88.9000 mm): Symbol D907 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(58.4200 mm, 78.7400 mm): Symbol C906 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(50.8000 mm, 88.9000 mm): Symbol D906 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(83.8200 mm, 119.3800 mm): Symbol C912 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(50.8000 mm, 129.5400 mm): Symbol D911 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(58.4200 mm, 119.3800 mm): Symbol C911 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(76.2000 mm, 129.5400 mm): Symbol D912 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(101.6000 mm, 165.1000 mm): Symbol D917 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(109.2200 mm, 154.9400 mm): Symbol C917 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(101.6000 mm, 129.5400 mm): Symbol D913 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(109.2200 mm, 119.3800 mm): Symbol C913 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 78.7400 mm): Symbol C908 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 88.9000 mm): Symbol D908 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(58.4200 mm, 119.3800 mm): Symbol C911 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 119.3800 mm): Symbol C912 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(76.2000 mm, 88.9000 mm): Symbol D907 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(83.8200 mm, 78.7400 mm): Symbol C907 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(109.2200 mm, 154.9400 mm): Symbol C917 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(127.0000 mm, 129.5400 mm): Symbol D914 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    @(101.6000 mm, 165.1000 mm): Symbol D917 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(134.6200 mm, 154.9400 mm): Symbol C918 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(127.0000 mm, 165.1000 mm): Symbol D918 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(134.6200 mm, 119.3800 mm): Symbol C914 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(127.0000 mm, 129.5400 mm): Symbol D914 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(134.6200 mm, 78.7400 mm): Symbol C909 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(152.4000 mm, 88.9000 mm): Symbol D910 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(127.0000 mm, 88.9000 mm): Symbol D909 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(101.6000 mm, 88.9000 mm): Symbol D908 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(109.2200 mm, 78.7400 mm): Symbol C908 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(160.0200 mm, 78.7400 mm): Symbol C910 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(58.4200 mm, 154.9400 mm): Symbol C915 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(50.8000 mm, 165.1000 mm): Symbol D915 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(76.2000 mm, 165.1000 mm): Symbol D916 [UI_WS2812C-2020] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    @(83.8200 mm, 154.9400 mm): Symbol C916 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(127.0000 mm, 45.7200 mm): Symbol C1005 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
@@ -259,7 +279,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     @(25.4000 mm, 139.7000 mm): Symbol C603 [CAP] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
     @(190.5000 mm, 71.1200 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(83.8200 mm, 35.5600 mm): Symbol #PWR0601 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+    @(154.9400 mm, 40.6400 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(96.5200 mm, 40.6400 mm): Symbol U601 [U_ESD_4ch] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
@@ -302,11 +322,13 @@ WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contain
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L601) (kibot - units.py:237)
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units.py:237)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
-ERROR:Found 0 DRC errors and 204 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1416) (kibot - kiplot.py:125)
+ERROR:Found 0 DRC errors and 216 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1416) (kibot - kiplot.py:125)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
+WARNING:(W058) Old file format detected, please convert it to KiCad 6 if experimenting problems (pcbnew_do - interposer.py:732) (kibot - kiplot.py:128)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
+WARNING:(W058) Old file format detected, please convert it to KiCad 6 if experimenting problems (pcbnew_do - interposer.py:732) (kibot - kiplot.py:128)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W015) Unknown option `exclude_filter` (kibot - optionable.py:149)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
@@ -335,22 +357,28 @@ WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1031: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1019: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D901: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1023: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D905: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1027: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D914: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D913: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W058) Old file format detected, please convert it to KiCad 6 if experimenting problems (pcbnew_do - interposer.py:732) (kibot - kiplot.py:128)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:304)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
@@ -368,17 +396,60 @@ WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1031: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1019: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D901: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1023: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D905: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1027: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D914: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D913: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
+WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W058) Old file format detected, please convert it to KiCad 6 if experimenting problems (pcbnew_do - interposer.py:732) (kibot - kiplot.py:128)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
+WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
+ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
+WARNING:(W047) Missing 3D model for D915: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D917: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D916: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D918: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - log.py:155)
+WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1031: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1019: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D901: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1023: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D905: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for UI1027: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D914: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D913: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -400,51 +471,25 @@ WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot 
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1031: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1019: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D901: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1023: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D905: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1027: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D914: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D913: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
-WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
-WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1059)
-ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - log.py:155)
-WARNING:(W047) Missing 3D model for D915: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D917: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D916: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D918: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - log.py:155)
-WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/RV142FPF-40B1-15F-0B10K.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1024: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1028: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1032: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1020: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1031: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1019: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1023: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1027: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D914: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D913: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
-WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W058) Old file format detected, please convert it to KiCad 6 if experimenting problems (pcbnew_do - interposer.py:732) (kibot - kiplot.py:128)
