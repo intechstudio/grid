@@ -283,7 +283,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(200.6600 mm, 73.6600 mm): Symbol L601 [FERRIT] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
+    @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 Hidden pin 1 [+3V3, Power input, Line]
     @(78.7400 mm, 81.2800 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
