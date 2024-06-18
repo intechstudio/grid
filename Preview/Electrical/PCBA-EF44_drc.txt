@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-EF44/PCBA-EF44.kicad_pcb **
-** Created on 2024-05-29 16:17:36 **
+** Created on 2024-06-18 08:21:11 **
 
 ** Found 286 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
