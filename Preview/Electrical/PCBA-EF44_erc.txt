@@ -1,4 +1,4 @@
-ERC report (Tue Jun 18 09:31:55 2024, Encoding UTF8)
+ERC report (Mon Jun 24 08:45:33 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -619,7 +619,7 @@ ERC report (Tue Jun 18 09:31:55 2024, Encoding UTF8)
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW'
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; Severity: warning
-    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
+    @(45.7200 mm, 73.6600 mm): Symbol #PWR0879 Hidden pin 1 [+3V3, Power input, Line]
     @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; Severity: warning
@@ -814,7 +814,7 @@ ERC report (Tue Jun 18 09:31:55 2024, Encoding UTF8)
     @(236.2200 mm, 60.9600 mm): Hierarchical Label 'ENCODER_SCK'
 [multiple_net_names]: Both SHIFT and ENCODER_CS are attached to the same items; SHIFT will be used in the netlist
     ; Severity: warning
-    @(228.6000 mm, 63.5000 mm): Label 'SHIFT'
+    @(154.9400 mm, 68.5800 mm): Label 'SHIFT'
     @(236.2200 mm, 63.5000 mm): Hierarchical Label 'ENCODER_CS'
 [multiple_net_names]: Both DATA and ENCODER_MISO are attached to the same items; DATA will be used in the netlist
     ; Severity: warning
