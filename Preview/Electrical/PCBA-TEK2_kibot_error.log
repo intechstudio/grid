@@ -15,7 +15,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(43.1800 mm, 86.3600 mm): Symbol R1017 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
-    @(106.6800 mm, 114.3000 mm): Symbol #PWR0703 Hidden pin 1 [GND, Power input, Line]
+    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
     @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(55.8800 mm, 58.4200 mm): Symbol R1033 [RES] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
@@ -286,7 +286,7 @@ WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the
     @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
     @(78.7400 mm, 81.2800 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
-    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
+    @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 Hidden pin 1 [GND, Power input, Line]
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     @(104.1400 mm, 86.3600 mm): Symbol U801 [74HC165] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)

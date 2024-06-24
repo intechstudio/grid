@@ -1,4 +1,4 @@
-ERC report (Mon Jun 24 12:07:54 2024, Encoding UTF8)
+ERC report (Mon Jun 24 14:25:18 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -373,88 +373,28 @@ ERC report (Mon Jun 24 12:07:54 2024, Encoding UTF8)
     @(78.7400 mm, 172.7200 mm): Symbol C734 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(392.4300 mm, 237.4900 mm): Symbol LOGO701 [OSHWA]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(365.7600 mm, 203.2000 mm): Symbol #PWR0842 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(365.7600 mm, 215.9000 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(345.4400 mm, 91.4400 mm): Symbol R701 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(360.6800 mm, 137.1600 mm): Symbol C758 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(355.6000 mm, 127.0000 mm): Symbol R735 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(360.6800 mm, 96.5200 mm): Symbol R736 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(355.6000 mm, 91.4400 mm): Symbol C757 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
     @(200.6600 mm, 40.6400 mm): Symbol C752 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(220.9800 mm, 43.1800 mm): Symbol C753 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(228.6000 mm, 43.1800 mm): Symbol C754 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(165.1000 mm, 43.1800 mm): Symbol C749 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(185.4200 mm, 40.6400 mm): Symbol C751 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(193.0400 mm, 33.0200 mm): Symbol #PWR0824 [VDD_SPI]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(154.9400 mm, 43.1800 mm): Symbol C747 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(160.0200 mm, 38.1000 mm): Symbol L702 [FERRIT]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(347.9800 mm, 53.3400 mm): Symbol R733 [RES]
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; Severity: warning
-    @(228.6000 mm, 134.6200 mm): Global Label 'ESP_GPIO_45'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; Severity: warning
-    @(228.6000 mm, 137.1600 mm): Global Label 'ESP_GPIO_46'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; Severity: warning
-    @(228.6000 mm, 101.6000 mm): Global Label 'ESP_GPIO_16'
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(350.5200 mm, 203.2000 mm): Symbol #PWR0836 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(350.5200 mm, 208.2800 mm): Symbol R734 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(340.3600 mm, 231.1400 mm): Symbol #PWR0833 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(350.5200 mm, 231.1400 mm): Symbol #PWR0837 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(340.3600 mm, 236.2200 mm): Symbol C755 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(350.5200 mm, 236.2200 mm): Symbol C756 [CAP]
+    @(185.4200 mm, 40.6400 mm): Symbol C751 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(167.6400 mm, 116.8400 mm): Symbol C750 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(195.5800 mm, 99.0600 mm): Symbol U704 [ESP32-S3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(165.1000 mm, 43.1800 mm): Symbol C749 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(160.0200 mm, 38.1000 mm): Symbol L702 [FERRIT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(154.9400 mm, 43.1800 mm): Symbol C747 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(147.3200 mm, 43.1800 mm): Symbol C746 [CAP]
@@ -479,6 +419,66 @@ ERC report (Mon Jun 24 12:07:54 2024, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(152.4000 mm, 106.6800 mm): Symbol Y701 [ESP32_XTAL]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(350.5200 mm, 231.1400 mm): Symbol #PWR0837 [VDD_SPI]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(350.5200 mm, 236.2200 mm): Symbol C756 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(355.6000 mm, 127.0000 mm): Symbol R735 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(345.4400 mm, 91.4400 mm): Symbol R701 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(355.6000 mm, 91.4400 mm): Symbol C757 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(360.6800 mm, 96.5200 mm): Symbol R736 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(340.3600 mm, 231.1400 mm): Symbol #PWR0833 [VDD_SPI]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(340.3600 mm, 236.2200 mm): Symbol C755 [CAP]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(228.6000 mm, 101.6000 mm): Global Label 'ESP_GPIO_16'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(228.6000 mm, 137.1600 mm): Global Label 'ESP_GPIO_46'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; Severity: warning
+    @(228.6000 mm, 134.6200 mm): Global Label 'ESP_GPIO_45'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(347.9800 mm, 53.3400 mm): Symbol R733 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(220.9800 mm, 43.1800 mm): Symbol C753 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(228.6000 mm, 43.1800 mm): Symbol C754 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(360.6800 mm, 137.1600 mm): Symbol C758 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(392.4300 mm, 237.4900 mm): Symbol LOGO701 [OSHWA]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(365.7600 mm, 215.9000 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(350.5200 mm, 203.2000 mm): Symbol #PWR0836 [VDD_SPI]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(350.5200 mm, 208.2800 mm): Symbol R734 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(365.7600 mm, 203.2000 mm): Symbol #PWR0842 [VDD_SPI]
 
 ***** Sheet /MCU/sheet5D85C9EA/
 
@@ -547,23 +547,38 @@ ERC report (Mon Jun 24 12:07:54 2024, Encoding UTF8)
     @(121.9200 mm, 93.9800 mm): Symbol C801 [CAP]
 
 ***** Sheet /UI_DISPLAY/
+[lib_symbol_issues]: Symbol 'SN74LVC1G14DBV' has been modified in library '74xGxx'
+    ; Severity: warning
+    @(55.8800 mm, 139.7000 mm): Symbol U902 [SN74LVC1G14DBV]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(106.6800 mm, 50.8000 mm): Symbol R1025 [RES]
+    @(147.3200 mm, 111.7600 mm): Symbol R1025 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(76.2000 mm, 73.6600 mm): Symbol U1003 [DISPLAY_TEK1]
+    @(220.9800 mm, 73.6600 mm): Symbol C1009 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(132.0800 mm, 121.9200 mm): Symbol C1009 [CAP]
+    @(177.8000 mm, 134.6200 mm): Symbol U901 [DISPLAY_TEK1]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(144.7800 mm, 121.9200 mm): Symbol C1009 [CAP]
+    @(208.2800 mm, 134.6200 mm): Symbol C1009 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(142.2400 mm, 58.4200 mm): Symbol R1025 [RES]
+    @(220.9800 mm, 134.6200 mm): Symbol C1009 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(129.5400 mm, 58.4200 mm): Symbol R1025 [RES]
+    @(177.8000 mm, 73.6600 mm): Symbol U1003 [DISPLAY_TEK1]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(208.2800 mm, 73.6600 mm): Symbol C1009 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(147.3200 mm, 50.8000 mm): Symbol R1025 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(111.7600 mm, 58.4200 mm): Symbol R1025 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(124.4600 mm, 58.4200 mm): Symbol R1025 [RES]
 
- ** ERC messages: 180  Errors 0  Warnings 180
+ ** ERC messages: 185  Errors 0  Warnings 185

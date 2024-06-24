@@ -1,5 +1,5 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-INTERFACE/PCBA-INTERFACE.kicad_pcb **
-** Created on 2024-06-24 12:07:59 **
+** Created on 2024-06-24 14:25:21 **
 
 ** Found 39 DRC violations **
 [track_dangling]: Track has unconnected end
