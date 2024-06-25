@@ -1,7 +1,7 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-06-25 14:30:28 **
+** Created on 2024-06-25 14:33:15 **
 
-** Found 322 DRC violations **
+** Found 320 DRC violations **
 [track_dangling]: Track has unconnected end
     Local override; Severity: warning
     @(85.5000 mm, 101.7500 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
@@ -1021,12 +1021,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(93.9520 mm, 79.9200 mm): Circle on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(106.4000 mm, 85.0000 mm): Reference 'U903'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(105.0800 mm, 84.2500 mm): Reference 'R904'
 
 ** Found 0 unconnected pads **
 

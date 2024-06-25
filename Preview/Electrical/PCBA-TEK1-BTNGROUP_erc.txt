@@ -1,34 +1,9 @@
-ERC report (Tue Jun 25 14:30:18 2024, Encoding UTF8)
+ERC report (Tue Jun 25 14:33:04 2024, Encoding UTF8)
 
 ***** Sheet /
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(243.8400 mm, 139.7000 mm): Symbol SW1008 [CPG135001D02]
 [pin_to_pin]: Pins of type Unspecified and Power output are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
@@ -36,163 +11,546 @@ ERC report (Tue Jun 25 14:30:18 2024, Encoding UTF8)
 [pin_to_pin]: Pins of type Unspecified and Passive are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(251.4600 mm, 142.2400 mm): Symbol SW1008 Pin 2 [2, Unspecified, Line]
+    @(223.5200 mm, 93.9800 mm): Symbol J1002 Pin 4 [Pin_4, Passive, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
     @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
     @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
 [pin_to_pin]: Pins of type Unspecified and Unspecified are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
     @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
     @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
     ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
     ; Severity: warning
-    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
 [pin_to_pin]: Pins of type Unspecified and Passive are connected
     ; Severity: warning
     @(99.0600 mm, 116.8400 mm): Symbol SW1001 Pin 2 [2, Unspecified, Line]
     @(114.3000 mm, 93.9800 mm): Symbol J1001 Pin 1 [Pin_1, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
 [pin_to_pin]: Pins of type Passive and Unspecified are connected
     ; Severity: warning
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(121.9200 mm, 93.9800 mm): Symbol J1001 Pin 4 [Pin_4, Passive, Line]
+    @(149.8600 mm, 142.2400 mm): Symbol SW1006 Pin 2 [2, Unspecified, Line]
 [pin_to_pin]: Pins of type Passive and Unspecified are connected
     ; Severity: warning
     @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
     @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
     ; Severity: warning
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
     ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
     @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
     @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
     @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
     @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
     @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
     @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
     @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
     @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(193.0400 mm, 139.7000 mm): Symbol SW1007 [CPG135001D02]
 [pin_to_pin]: Pins of type Unspecified and Power input are connected
     ; Severity: warning
     @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
     @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
 [pin_to_pin]: Pins of type Unspecified and Unspecified are connected
     ; Severity: warning
     @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
     @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
-    ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
-    ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
-    ; Severity: warning
-    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
     @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Passive and Unspecified are connected
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; Severity: warning
-    @(226.0600 mm, 93.9800 mm): Symbol J1002 Pin 5 [Pin_5, Passive, Line]
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(91.4400 mm, 139.7000 mm): Symbol SW1005 [CPG135001D02]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(99.0600 mm, 142.2400 mm): Symbol SW1005 Pin 2 [2, Unspecified, Line]
+    @(116.8400 mm, 93.9800 mm): Symbol J1001 Pin 2 [Pin_2, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power output are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(91.4400 mm, 114.3000 mm): Symbol SW1001 [CPG135001D02]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; Severity: warning
+    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
     @(251.4600 mm, 116.8400 mm): Symbol SW1004 Pin 2 [2, Unspecified, Line]
+    @(226.0600 mm, 93.9800 mm): Symbol J1002 Pin 5 [Pin_5, Passive, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(243.8400 mm, 114.3000 mm): Symbol SW1004 [CPG135001D02]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; Severity: warning
+    @(193.0400 mm, 114.3000 mm): Symbol SW1003 [CPG135001D02]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(233.6800 mm, 144.7800 mm): Symbol #PWR01016 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
 [pin_to_pin]: Pins of type Passive and Unspecified are connected
     ; Severity: warning
     @(218.4400 mm, 93.9800 mm): Symbol J1002 Pin 2 [Pin_2, Passive, Line]
@@ -201,9 +559,57 @@ ERC report (Tue Jun 25 14:30:18 2024, Encoding UTF8)
     ; Severity: warning
     @(215.9000 mm, 93.9800 mm): Symbol J1002 Pin 1 [Pin_1, Passive, Line]
     @(200.6600 mm, 116.8400 mm): Symbol SW1003 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; Severity: warning
+    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
-    @(193.0400 mm, 114.3000 mm): Symbol SW1003 [CPG135001D02]
+    @(142.2400 mm, 139.7000 mm): Symbol SW1006 [CPG135001D02]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; Severity: warning
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; Severity: warning
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; Severity: warning
+    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+    @(220.9800 mm, 93.9800 mm): Symbol J1002 Pin 3 [Pin_3, Passive, Line]
 [pin_to_pin]: Pins of type Unspecified and Passive are connected
     ; Severity: warning
     @(149.8600 mm, 116.8400 mm): Symbol SW1002 Pin 2 [2, Unspecified, Line]
@@ -211,411 +617,5 @@ ERC report (Tue Jun 25 14:30:18 2024, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
     @(142.2400 mm, 114.3000 mm): Symbol SW1002 [CPG135001D02]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(142.2400 mm, 139.7000 mm): Symbol SW1006 [CPG135001D02]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(149.8600 mm, 142.2400 mm): Symbol SW1006 Pin 2 [2, Unspecified, Line]
-    @(121.9200 mm, 93.9800 mm): Symbol J1001 Pin 4 [Pin_4, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 114.3000 mm): Symbol SW1001 [CPG135001D02]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power output and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 111.7600 mm): Symbol #FLG01001 Pin 1 [pwr, Power output, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(193.0400 mm, 139.7000 mm): Symbol SW1007 [CPG135001D02]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(220.9800 mm, 144.7800 mm): Symbol #PWR01018 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(182.8800 mm, 144.7800 mm): Symbol #PWR01015 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR01017 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(119.3800 mm, 93.9800 mm): Symbol J1001 Pin 3 [Pin_3, Passive, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 139.7000 mm): Symbol SW1005 [CPG135001D02]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(99.0600 mm, 142.2400 mm): Symbol SW1005 Pin 2 [2, Unspecified, Line]
-    @(116.8400 mm, 93.9800 mm): Symbol J1001 Pin 2 [Pin_2, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 116.8400 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 144.7800 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(66.0400 mm, 119.3800 mm): Symbol #PWR01001 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(83.8200 mm, 142.2400 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(243.8400 mm, 139.7000 mm): Symbol SW1008 [CPG135001D02]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(83.8200 mm, 116.8400 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 142.2400 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(81.2800 mm, 119.3800 mm): Symbol #PWR01005 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Passive are connected
-    ; Severity: warning
-    @(251.4600 mm, 142.2400 mm): Symbol SW1008 Pin 2 [2, Unspecified, Line]
-    @(223.5200 mm, 93.9800 mm): Symbol J1002 Pin 4 [Pin_4, Passive, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(182.8800 mm, 119.3800 mm): Symbol #PWR01007 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 144.7800 mm): Symbol #PWR01014 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
-    ; Severity: warning
-    @(236.2200 mm, 142.2400 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(243.8400 mm, 114.3000 mm): Symbol SW1004 [CPG135001D02]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-    @(134.6200 mm, 142.2400 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-    @(185.4200 mm, 116.8400 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
-[pin_to_pin]: Pins of type Unspecified and Power input are connected
-    ; Severity: warning
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
-    @(132.0800 mm, 119.3800 mm): Symbol #PWR01006 Hidden pin 1 [GND, Power input, Line]
-[pin_to_pin]: Pins of type Power input and Unspecified are connected
-    ; Severity: warning
-    @(233.6800 mm, 119.3800 mm): Symbol #PWR01008 Hidden pin 1 [GND, Power input, Line]
-    @(236.2200 mm, 116.8400 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
 
  ** ERC messages: 156  Errors 0  Warnings 156
