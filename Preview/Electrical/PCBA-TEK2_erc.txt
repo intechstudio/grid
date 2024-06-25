@@ -1,4 +1,4 @@
-ERC report (Mon Jun 24 14:25:14 2024, Encoding UTF8)
+ERC report (Tue Jun 25 14:20:05 2024, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -24,7 +24,7 @@ ERC report (Mon Jun 24 14:25:14 2024, Encoding UTF8)
     @(43.1800 mm, 86.3600 mm): Symbol R1017 [RES]
 [multiple_net_names]: Both GND and OUT_5 are attached to the same items; GND will be used in the netlist
     ; Severity: warning
-    @(58.4200 mm, 93.9800 mm): Symbol #PWR01029 Hidden pin 1 [GND, Power input, Line]
+    @(106.6800 mm, 114.3000 mm): Symbol #PWR0703 Hidden pin 1 [GND, Power input, Line]
     @(63.5000 mm, 111.7600 mm): Hierarchical Label 'OUT_5'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
@@ -499,7 +499,7 @@ ERC report (Mon Jun 24 14:25:14 2024, Encoding UTF8)
     @(78.7400 mm, 81.2800 mm): Label 'HWCFG_HIGH'
 [multiple_net_names]: Both GND and HWCFG_LOW are attached to the same items; GND will be used in the netlist
     ; Severity: warning
-    @(121.9200 mm, 101.6000 mm): Symbol #PWR0943 Hidden pin 1 [GND, Power input, Line]
+    @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; Severity: warning
