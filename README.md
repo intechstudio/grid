@@ -51,7 +51,7 @@ Licence: GPL3
 |---------------------------|----------------------|------------|---------|--------------|
 | TEK1 Display | PCBA-TEK1-DISPLAY | Purchased | <img src="Preview/Mechanical/PCBA-TEK1-DISPLAY.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-TEK1-DISPLAY.step) [[stl]](Preview/Mechanical/PCBA-TEK1-DISPLAY.stl) |
 | TEK1 Display interface | PLASTIC-TEK1-DISPLAY-INTERFACE | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.step) [[stl]](Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.stl) |
-| TEK1 Button | PLASTIC-TEK1-BUTTON | Purchased | <img src="Preview/Mechanical/PLASTIC-TEK1-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.stl) |
+| TEK1 Button | PLASTIC-TEK1-BUTTON | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK1-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.stl) |
 
 ## Electrical components
 
