@@ -1,7 +1,7 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-06-25 14:33:15 **
+** Created on 2024-06-26 06:37:25 **
 
-** Found 320 DRC violations **
+** Found 319 DRC violations **
 [track_dangling]: Track has unconnected end
     Local override; Severity: warning
     @(85.5000 mm, 101.7500 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
@@ -522,7 +522,7 @@
     @(101.2500 mm, 113.2500 mm): Footprint R735
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(81.0000 mm, 65.7500 mm): Footprint R1017
+    @(81.9900 mm, 64.5000 mm): Footprint R1017
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(116.9498 mm, 52.4849 mm): Footprint D910
@@ -561,7 +561,7 @@
     @(105.2500 mm, 102.7500 mm): Footprint C742
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(84.7500 mm, 78.0200 mm): Footprint C920
+    @(84.4800 mm, 78.5400 mm): Footprint C920
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(146.8630 mm, 113.3350 mm): Footprint R1047
@@ -585,7 +585,7 @@
     @(134.0000 mm, 98.5000 mm): Footprint C1010
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(85.2500 mm, 79.5000 mm): Footprint R903
+    @(84.9800 mm, 80.0200 mm): Footprint R903
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(98.7500 mm, 113.2500 mm): Footprint C758
@@ -660,7 +660,7 @@
     @(114.9117 mm, 56.5374 mm): Footprint C909
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(85.7500 mm, 78.0000 mm): Footprint C919
+    @(85.4800 mm, 78.5200 mm): Footprint C919
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(73.3300 mm, 73.3300 mm): Footprint UI901
@@ -675,7 +675,7 @@
     @(82.7500 mm, 78.5000 mm): Footprint R1026
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(79.0000 mm, 64.5000 mm): Footprint C1020
+    @(79.9900 mm, 64.5000 mm): Footprint C1020
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(140.0050 mm, 105.7150 mm): Footprint D914
@@ -750,7 +750,7 @@
     @(118.0063 mm, 54.7507 mm): Footprint C910
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
-    @(79.0000 mm, 65.7500 mm): Footprint C1019
+    @(79.9900 mm, 65.7500 mm): Footprint C1019
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(97.0000 mm, 85.0000 mm): Footprint U705
@@ -952,9 +952,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(63.4955 mm, 50.9383 mm): Line on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    Local override; Severity: warning
-    @(81.3300 mm, 65.4300 mm): Line on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     Local override; Severity: warning
     @(81.3300 mm, 77.4300 mm): Line on F.Silkscreen
