@@ -831,7 +831,7 @@ WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the s
     @(104.1400 mm, 114.3000 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
     @(129.5400 mm, 99.0600 mm): Label 'HWCFG_LOW' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
-    @(33.0200 mm, 83.8200 mm): Symbol #PWR0701 Hidden pin 1 [+3V3, Power input, Line]
+    @(104.1400 mm, 63.5000 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
     @(129.5400 mm, 88.9000 mm): Label 'HWCFG_HIGH' (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     @(121.9200 mm, 86.3600 mm): Symbol #PWR0942 [+3V3] (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)

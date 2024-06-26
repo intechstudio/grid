@@ -1,13 +1,16 @@
 ** Drc report for /__w/grid-hardware/grid-hardware/Electrical/Design/PCBA-TEK1/PCBA-TEK1.kicad_pcb **
-** Created on 2024-06-26 06:37:25 **
+** Created on 2024-06-26 06:46:14 **
 
-** Found 319 DRC violations **
+** Found 332 DRC violations **
 [track_dangling]: Track has unconnected end
     Local override; Severity: warning
     @(85.5000 mm, 101.7500 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
 [track_dangling]: Track has unconnected end
     Local override; Severity: warning
     @(80.2500 mm, 98.4870 mm): Track [Net-(U1001-X3)] on F.Cu, length 0.0184 mm
+[isolated_copper]: Isolated copper fill
+    Local override; Severity: warning
+    @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
 [isolated_copper]: Isolated copper fill
     Local override; Severity: warning
     @(50.0000 mm, 50.0000 mm): Zone [+5V] on F.Cu
@@ -145,6 +148,30 @@
     Rule: board setup constraints courtyard; Severity: warning
     @(98.0000 mm, 93.5000 mm): Footprint TP704
     @(96.5000 mm, 93.5000 mm): Footprint TP702
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.2500 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(50.0000 mm, 122.1700 mm): Line on Edge.Cuts
+    @(50.5000 mm, 100.0000 mm): Via [/MCU/GRID_SYNC_1] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.2930 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(51.5000 mm, 77.3300 mm): Arc on Edge.Cuts
+    @(50.5000 mm, 79.2500 mm): Track [/MCU/GRID_SYNC_1] on B.Cu, length 1.4142 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.2930 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(51.5000 mm, 77.3300 mm): Arc on Edge.Cuts
+    @(51.5000 mm, 78.2500 mm): Track [/MCU/GRID_SYNC_1] on B.Cu, length 1.7500 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1230 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(50.0000 mm, 68.8300 mm): Line on Edge.Cuts
+    @(50.2500 mm, 61.0000 mm): Track [Net-(D910-DOUT)] on F.Cu, length 4.2500 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1230 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(50.0000 mm, 68.8300 mm): Line on Edge.Cuts
+    @(60.7500 mm, 50.5000 mm): Track [Net-(D910-DOUT)] on F.Cu, length 14.8492 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1230 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(50.0000 mm, 68.8300 mm): Line on Edge.Cuts
+    @(50.2500 mm, 65.2500 mm): Track [Net-(D910-DOUT)] on F.Cu, length 6.7175 mm
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
     @(51.5000 mm, 77.3300 mm): Arc on Edge.Cuts
@@ -273,6 +300,14 @@
     Rule: board setup constraints silk; Severity: warning
     @(148.0000 mm, 122.6700 mm): Line on Edge.Cuts
     @(148.5000 mm, 130.6700 mm): Arc on F.Silkscreen
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1000 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(104.0000 mm, 147.5000 mm): Line on Edge.Cuts
+    @(102.1500 mm, 146.5000 mm): PTH pad [<no net>] of SW701
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1000 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(104.0000 mm, 147.5000 mm): Line on Edge.Cuts
+    @(97.8500 mm, 146.5000 mm): PTH pad [<no net>] of SW701
 [silk_edge_clearance]: Silkscreen clipped by board edge
     Rule: board setup constraints silk; Severity: warning
     @(77.8300 mm, 50.0000 mm): Line on Edge.Cuts
@@ -289,6 +324,22 @@
     Rule: board setup constraints silk; Severity: warning
     @(50.0000 mm, 77.8300 mm): Line on Edge.Cuts
     @(50.9300 mm, 56.0300 mm): Rect on F.Silkscreen
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1642 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(51.5000 mm, 52.5000 mm): Line on Edge.Cuts
+    @(53.0000 mm, 53.0000 mm): PTH pad 1 [unconnected-(M501-Pin_1-Pad1)] of M501
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.2500 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(148.5000 mm, 52.5000 mm): Line on Edge.Cuts
+    @(147.0000 mm, 53.0000 mm): PTH pad 2 [unconnected-(M501-Pin_2-Pad2)] of M501
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1642 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(148.5000 mm, 147.5000 mm): Line on Edge.Cuts
+    @(147.0000 mm, 147.0000 mm): PTH pad 3 [unconnected-(M501-Pin_3-Pad3)] of M501
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.3000 mm; actual 0.1642 mm)
+    Rule: board setup constraints edge; Severity: warning
+    @(52.5000 mm, 148.5000 mm): Line on Edge.Cuts
+    @(53.0000 mm, 147.0000 mm): PTH pad 4 [unconnected-(M501-Pin_4-Pad4)] of M501
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     Local override; Severity: warning
     @(59.9950 mm, 132.3850 mm): Footprint D915
