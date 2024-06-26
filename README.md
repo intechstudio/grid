@@ -44,12 +44,14 @@ Licence: GPL3
 | Knob interface TEK2 | PLASTIC-TEK2-KNOB-INTERFACE | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.step) [[stl]](Preview/Mechanical/PLASTIC-TEK2-KNOB-INTERFACE.stl) |
 | Potmeter Bushing TEK2 | PLASTIC-BUSHING-POT-TEK2 | Fabricated | <img src="Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.step) [[stl]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2.stl) [[pdf]](Preview/Mechanical/PLASTIC-BUSHING-POT-TEK2_Drawing.pdf) |
 | Endless potentiometer     | PCBA-ENDLESSPOT      | Purchased  | <img src="Preview/Mechanical/PCBA-ENDLESSPOT.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-ENDLESSPOT.step) [[stl]](Preview/Mechanical/PCBA-ENDLESSPOT.stl) [[pdf]](Preview/Mechanical/PCBA-ENDLESSPOT.pdf) |
-| TEK2 Lightpipce isolator | PLASTIC-LIGHTPIPE-ISOLATOR | Fabricated | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.stl) |
+| TEK2 Lightpipe isolator | PLASTIC-LIGHTPIPE-ISOLATOR | Fabricated | <img src="Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.step) [[stl]](Preview/Mechanical/PLASTIC-LIGHTPIPE-ISOLATOR.stl) |
 
 # TEK1 specific components
 | Component                 | Part number          | Type       | Preview | Links        |
 |---------------------------|----------------------|------------|---------|--------------|
 | TEK1 Display | PCBA-TEK1-DISPLAY | Purchased | <img src="Preview/Mechanical/PCBA-TEK1-DISPLAY.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PCBA-TEK1-DISPLAY.step) [[stl]](Preview/Mechanical/PCBA-TEK1-DISPLAY.stl) |
+| TEK1 Display interface | PLASTIC-TEK1-DISPLAY-INTERFACE | Fabricated | <img src="Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.step) [[stl]](Preview/Mechanical/PLASTIC-TEK1-DISPLAY-INTERFACE.stl) |
+| TEK1 Button | PLASTIC-TEK1-BUTTON | Purchased | <img src="Preview/Mechanical/PLASTIC-TEK1-BUTTON.png?raw=true" width="100"> | [[step]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.step) [[stl]](Preview/Mechanical/PLASTIC-TEK1-BUTTON.stl) |
 
 ## Electrical components
 
