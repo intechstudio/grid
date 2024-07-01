@@ -1,7 +1,7 @@
 ** Drc report for PCBA-TEK1-BTNGROUP.kicad_pcb **
-** Created on 2024-07-01T13:51:11+0000 **
+** Created on 2024-07-01T13:54:31+0000 **
 
-** Found 103 DRC violations **
+** Found 101 DRC violations **
 [copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.0000 mm)
     ; warning
     @(95.555 mm, 106.985 mm): Rectangle on Edge.Cuts
@@ -9,35 +9,35 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(109.525 mm, 106.985 mm): Rectangle on Edge.Cuts
-    @(115.835 mm, 110.21 mm): Rectangle on F.Silkscreen
+    @(110.835 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(136.195 mm, 106.985 mm): Rectangle on Edge.Cuts
-    @(142.505 mm, 110.21 mm): Rectangle on F.Silkscreen
+    @(137.505 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(56.185 mm, 106.985 mm): Rectangle on Edge.Cuts
-    @(62.495 mm, 110.21 mm): Rectangle on F.Silkscreen
+    @(57.495 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(82.855 mm, 106.985 mm): Rectangle on Edge.Cuts
-    @(89.165 mm, 110.21 mm): Rectangle on F.Silkscreen
+    @(84.165 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(56.185 mm, 133.655 mm): Rectangle on Edge.Cuts
-    @(62.495 mm, 136.88 mm): Rectangle on F.Silkscreen
+    @(57.495 mm, 133.73 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(82.855 mm, 133.655 mm): Rectangle on Edge.Cuts
-    @(89.165 mm, 136.88 mm): Rectangle on F.Silkscreen
+    @(84.165 mm, 133.73 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(136.195 mm, 133.655 mm): Rectangle on Edge.Cuts
-    @(142.505 mm, 136.88 mm): Rectangle on F.Silkscreen
+    @(137.505 mm, 133.73 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(109.525 mm, 133.655 mm): Rectangle on Edge.Cuts
-    @(115.835 mm, 136.88 mm): Rectangle on F.Silkscreen
+    @(110.835 mm, 133.73 mm): Rectangle on F.Silkscreen
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(86.665 mm, 126.67 mm): Footprint LOGO701
@@ -62,12 +62,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(140.005 mm, 140.005 mm): Footprint SW1008
-[lib_footprint_mismatch]: Footprint 'PinHeader_1x05_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
-    ; warning
-    @(68.25 mm, 121.67 mm): Footprint J1001
-[lib_footprint_mismatch]: Footprint 'PinHeader_1x05_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
-    ; warning
-    @(121.59 mm, 121.67 mm): Footprint J1002
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(113.335 mm, 140.005 mm): Footprint SW1007
@@ -76,25 +70,25 @@
     @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio BTNGROUP RevA 2024/6...' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(106.035 mm, 115.835 mm): Segment on B.Silkscreen
+    @(106.035 mm, 115.635 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(106.035 mm, 118.785 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.035 mm, 118.785 mm): Segment on B.Silkscreen
+    @(106.035 mm, 118.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(106.685 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(109.585 mm, 119.435 mm): Segment on B.Silkscreen
+    @(106.685 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(115.635 mm, 117.685 mm): Segment on B.Silkscreen
+    @(106.685 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(115.635 mm, 120.635 mm): Segment on B.Silkscreen
+    @(111.635 mm, 121.685 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.635 mm, 118.035 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(115.635 mm, 121.685 mm): Segment on B.Silkscreen
@@ -103,31 +97,31 @@
     @(109.585 mm, 120.685 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(120.835 mm, 105.835 mm): Segment on F.Silkscreen
+    @(105.835 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(120.835 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(132.705 mm, 115.835 mm): Segment on B.Silkscreen
+    @(132.705 mm, 115.635 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(132.705 mm, 118.785 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(132.705 mm, 118.785 mm): Segment on B.Silkscreen
+    @(132.705 mm, 118.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(133.355 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(136.255 mm, 119.435 mm): Segment on B.Silkscreen
+    @(133.355 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(142.305 mm, 117.685 mm): Segment on B.Silkscreen
+    @(133.355 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(142.305 mm, 120.635 mm): Segment on B.Silkscreen
+    @(138.305 mm, 121.685 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(142.305 mm, 118.035 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(142.305 mm, 121.685 mm): Segment on B.Silkscreen
@@ -136,28 +130,28 @@
     @(136.255 mm, 120.685 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(147.505 mm, 120.835 mm): Segment on F.Silkscreen
+    @(132.505 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(52.695 mm, 115.835 mm): Segment on B.Silkscreen
+    @(52.695 mm, 115.635 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(52.695 mm, 118.785 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(52.695 mm, 118.785 mm): Segment on B.Silkscreen
+    @(52.695 mm, 118.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(53.345 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(56.245 mm, 119.435 mm): Segment on B.Silkscreen
+    @(53.345 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(62.295 mm, 117.685 mm): Segment on B.Silkscreen
+    @(53.345 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(62.295 mm, 120.635 mm): Segment on B.Silkscreen
+    @(58.295 mm, 121.685 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(62.295 mm, 118.035 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(62.295 mm, 121.685 mm): Segment on B.Silkscreen
@@ -166,31 +160,31 @@
     @(56.245 mm, 120.685 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(67.495 mm, 105.835 mm): Segment on F.Silkscreen
+    @(52.495 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(67.495 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(79.365 mm, 115.835 mm): Segment on B.Silkscreen
+    @(79.365 mm, 115.635 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(79.365 mm, 118.785 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(79.365 mm, 118.785 mm): Segment on B.Silkscreen
+    @(79.365 mm, 118.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(80.015 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(82.915 mm, 119.435 mm): Segment on B.Silkscreen
+    @(80.015 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(88.965 mm, 117.685 mm): Segment on B.Silkscreen
+    @(80.015 mm, 119.435 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(88.965 mm, 120.635 mm): Segment on B.Silkscreen
+    @(84.965 mm, 121.685 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(88.965 mm, 118.035 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.965 mm, 121.685 mm): Segment on B.Silkscreen
@@ -199,28 +193,28 @@
     @(82.915 mm, 120.685 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(94.165 mm, 120.835 mm): Segment on F.Silkscreen
+    @(79.165 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(52.695 mm, 142.505 mm): Segment on B.Silkscreen
+    @(52.695 mm, 142.305 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(52.695 mm, 145.455 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(52.695 mm, 145.455 mm): Segment on B.Silkscreen
+    @(52.695 mm, 145.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(53.345 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(56.245 mm, 146.105 mm): Segment on B.Silkscreen
+    @(53.345 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(62.295 mm, 144.355 mm): Segment on B.Silkscreen
+    @(53.345 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(62.295 mm, 147.305 mm): Segment on B.Silkscreen
+    @(58.295 mm, 148.355 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(62.295 mm, 144.705 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(62.295 mm, 148.355 mm): Segment on B.Silkscreen
@@ -229,28 +223,28 @@
     @(56.245 mm, 147.355 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(67.495 mm, 147.505 mm): Segment on F.Silkscreen
+    @(52.495 mm, 147.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(79.365 mm, 142.505 mm): Segment on B.Silkscreen
+    @(79.365 mm, 142.305 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(79.365 mm, 145.455 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(79.365 mm, 145.455 mm): Segment on B.Silkscreen
+    @(79.365 mm, 145.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(80.015 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(82.915 mm, 146.105 mm): Segment on B.Silkscreen
+    @(80.015 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(88.965 mm, 144.355 mm): Segment on B.Silkscreen
+    @(80.015 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(88.965 mm, 147.305 mm): Segment on B.Silkscreen
+    @(84.965 mm, 148.355 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(88.965 mm, 144.705 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.965 mm, 148.355 mm): Segment on B.Silkscreen
@@ -259,28 +253,28 @@
     @(82.915 mm, 147.355 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(94.165 mm, 147.505 mm): Segment on F.Silkscreen
+    @(79.165 mm, 147.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(132.705 mm, 142.505 mm): Segment on B.Silkscreen
+    @(132.705 mm, 142.305 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(132.705 mm, 145.455 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(132.705 mm, 145.455 mm): Segment on B.Silkscreen
+    @(132.705 mm, 145.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(133.355 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(136.255 mm, 146.105 mm): Segment on B.Silkscreen
+    @(133.355 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(142.305 mm, 144.355 mm): Segment on B.Silkscreen
+    @(133.355 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(142.305 mm, 147.305 mm): Segment on B.Silkscreen
+    @(138.305 mm, 148.355 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(142.305 mm, 144.705 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(142.305 mm, 148.355 mm): Segment on B.Silkscreen
@@ -289,28 +283,28 @@
     @(136.255 mm, 147.355 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(147.505 mm, 147.505 mm): Segment on F.Silkscreen
+    @(132.505 mm, 147.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(106.035 mm, 142.505 mm): Segment on B.Silkscreen
+    @(106.035 mm, 142.305 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(106.035 mm, 145.455 mm): Segment on B.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.035 mm, 145.455 mm): Segment on B.Silkscreen
+    @(106.035 mm, 145.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(106.685 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(109.585 mm, 146.105 mm): Segment on B.Silkscreen
+    @(106.685 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(115.635 mm, 144.355 mm): Segment on B.Silkscreen
+    @(106.685 mm, 146.105 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(115.635 mm, 147.305 mm): Segment on B.Silkscreen
+    @(111.635 mm, 148.355 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.635 mm, 144.705 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(115.635 mm, 148.355 mm): Segment on B.Silkscreen
@@ -319,7 +313,7 @@
     @(109.585 mm, 147.355 mm): Arc on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(120.835 mm, 147.505 mm): Segment on F.Silkscreen
+    @(105.835 mm, 147.505 mm): Segment on F.Silkscreen
 
 ** Found 0 unconnected pads **
 
