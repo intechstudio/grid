@@ -1,227 +1,227 @@
-ERC report (Mon Jul  1 13:41:32 2024, Encoding UTF8)
+ERC report (2024-07-01T13:43:01+0000, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(208.2800 mm, 137.1600 mm): Symbol #PWR037 [GND]
+    ; warning
+    @(2.0828 mm, 1.3716 mm): Symbol #PWR037 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(223.5200 mm, 99.0600 mm): Symbol R3 [RES]
+    ; warning
+    @(2.2352 mm, 0.9906 mm): Symbol R3 [RES]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(208.2800 mm, 111.7600 mm): Symbol #PWR029 [+5V]
+    ; warning
+    @(2.0828 mm, 1.1176 mm): Symbol #PWR029 [+5V]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; Severity: warning
-    @(210.8200 mm, 73.6600 mm): Symbol #FLG01 [PWR_FLAG]
+    ; warning
+    @(2.1082 mm, 0.7366 mm): Symbol #FLG01 [PWR_FLAG]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(210.8200 mm, 76.2000 mm): Symbol #PWR014 [+5P]
+    ; warning
+    @(2.1082 mm, 0.762 mm): Symbol #PWR014 [+5P]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; Severity: warning
-    @(236.2200 mm, 73.6600 mm): Symbol #FLG03 [PWR_FLAG]
+    ; warning
+    @(2.3622 mm, 0.7366 mm): Symbol #FLG03 [PWR_FLAG]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(236.2200 mm, 76.2000 mm): Symbol #PWR016 [+5F]
+    ; warning
+    @(2.3622 mm, 0.762 mm): Symbol #PWR016 [+5F]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(223.5200 mm, 76.2000 mm): Symbol #PWR015 [GND]
+    ; warning
+    @(2.2352 mm, 0.762 mm): Symbol #PWR015 [GND]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; Severity: warning
-    @(223.5200 mm, 73.6600 mm): Symbol #FLG02 [PWR_FLAG]
+    ; warning
+    @(2.2352 mm, 0.7366 mm): Symbol #FLG02 [PWR_FLAG]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; Severity: warning
-    @(248.9200 mm, 73.6600 mm): Symbol #FLG04 [PWR_FLAG]
+    ; warning
+    @(2.4892 mm, 0.7366 mm): Symbol #FLG04 [PWR_FLAG]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(248.9200 mm, 76.2000 mm): Symbol #PWR017 [+5V]
+    ; warning
+    @(2.4892 mm, 0.762 mm): Symbol #PWR017 [+5V]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(218.4400 mm, 96.5200 mm): Symbol #PWR023 [+5V]
+    ; warning
+    @(2.1844 mm, 0.9652 mm): Symbol #PWR023 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(228.6000 mm, 104.1400 mm): Symbol R4 [RES]
+    ; warning
+    @(2.286 mm, 1.0414 mm): Symbol R4 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(228.6000 mm, 109.2200 mm): Symbol #PWR026 [GND]
+    ; warning
+    @(2.286 mm, 1.0922 mm): Symbol #PWR026 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(223.5200 mm, 124.4600 mm): Symbol R7 [RES]
+    ; warning
+    @(2.2352 mm, 1.2446 mm): Symbol R7 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(236.2200 mm, 104.1400 mm): Symbol C2 [CAP]
+    ; warning
+    @(2.3622 mm, 1.0414 mm): Symbol C2 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(236.2200 mm, 109.2200 mm): Symbol #PWR027 [GND]
+    ; warning
+    @(2.3622 mm, 1.0922 mm): Symbol #PWR027 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(261.6200 mm, 121.9200 mm): Symbol #PWR033 [GND]
+    ; warning
+    @(2.6162 mm, 1.2192 mm): Symbol #PWR033 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(269.2400 mm, 78.7400 mm): Symbol #PWR020 [GND]
+    ; warning
+    @(2.6924 mm, 0.7874 mm): Symbol #PWR020 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(261.6200 mm, 78.7400 mm): Symbol #PWR019 [+5F]
+    ; warning
+    @(2.6162 mm, 0.7874 mm): Symbol #PWR019 [+5F]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(276.8600 mm, 66.0400 mm): Symbol #PWR011 [+5V]
+    ; warning
+    @(2.7686 mm, 0.6604 mm): Symbol #PWR011 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(269.2400 mm, 73.6600 mm): Symbol C1 [CAP]
+    ; warning
+    @(2.6924 mm, 0.7366 mm): Symbol C1 [CAP]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(261.6200 mm, 58.4200 mm): Symbol #PWR09 [+5P]
+    ; warning
+    @(2.6162 mm, 0.5842 mm): Symbol #PWR09 [+5P]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(261.6200 mm, 101.6000 mm): Symbol #PWR024 [+5V]
+    ; warning
+    @(2.6162 mm, 1.016 mm): Symbol #PWR024 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(236.2200 mm, 129.5400 mm): Symbol C3 [CAP]
+    ; warning
+    @(2.3622 mm, 1.2954 mm): Symbol C3 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(228.6000 mm, 134.6200 mm): Symbol #PWR035 [GND]
+    ; warning
+    @(2.286 mm, 1.3462 mm): Symbol #PWR035 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(228.6000 mm, 129.5400 mm): Symbol R8 [RES]
+    ; warning
+    @(2.286 mm, 1.2954 mm): Symbol R8 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(236.2200 mm, 134.6200 mm): Symbol #PWR036 [GND]
+    ; warning
+    @(2.3622 mm, 1.3462 mm): Symbol #PWR036 [GND]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(88.9000 mm, 20.3200 mm): Symbol #PWR02 [+5P]
+    ; warning
+    @(0.889 mm, 0.2032 mm): Symbol #PWR02 [+5P]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(68.5800 mm, 20.3200 mm): Symbol #PWR01 [+5P]
+    ; warning
+    @(0.6858 mm, 0.2032 mm): Symbol #PWR01 [+5P]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(40.6400 mm, 22.8600 mm): Symbol #PWR03 [+5P]
+    ; warning
+    @(0.4064 mm, 0.2286 mm): Symbol #PWR03 [+5P]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(68.5800 mm, 48.2600 mm): Symbol #PWR07 [+5F]
+    ; warning
+    @(0.6858 mm, 0.4826 mm): Symbol #PWR07 [+5F]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(116.8400 mm, 22.8600 mm): Symbol #PWR04 [+5P]
+    ; warning
+    @(1.1684 mm, 0.2286 mm): Symbol #PWR04 [+5P]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(25.4000 mm, 30.4800 mm): Symbol #PWR05 [GND]
+    ; warning
+    @(0.254 mm, 0.3048 mm): Symbol #PWR05 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(132.0800 mm, 30.4800 mm): Symbol #PWR06 [GND]
+    ; warning
+    @(1.3208 mm, 0.3048 mm): Symbol #PWR06 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(88.9000 mm, 48.2600 mm): Symbol #PWR08 [+5F]
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol #PWR08 [+5F]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(63.5000 mm, 119.3800 mm): Symbol #PWR032 [+5V]
+    ; warning
+    @(0.635 mm, 1.1938 mm): Symbol #PWR032 [+5V]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(83.8200 mm, 129.5400 mm): Symbol #PWR034 [GND]
+    ; warning
+    @(0.8382 mm, 1.2954 mm): Symbol #PWR034 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(73.6600 mm, 124.4600 mm): Symbol U7 [BL1551B]
+    ; warning
+    @(0.7366 mm, 1.2446 mm): Symbol U7 [BL1551B]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(83.8200 mm, 114.3000 mm): Symbol #PWR030 [GND]
+    ; warning
+    @(0.8382 mm, 1.143 mm): Symbol #PWR030 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(58.4200 mm, 144.7800 mm): Symbol #PWR038 [+5F]
+    ; warning
+    @(0.5842 mm, 1.4478 mm): Symbol #PWR038 [+5F]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(63.5000 mm, 104.1400 mm): Symbol #PWR025 [+5V]
+    ; warning
+    @(0.635 mm, 1.0414 mm): Symbol #PWR025 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(73.6600 mm, 109.2200 mm): Symbol U4 [BL1551B]
+    ; warning
+    @(0.7366 mm, 1.0922 mm): Symbol U4 [BL1551B]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 106.6800 mm): Symbol R5 [RES]
+    ; warning
+    @(0.9144 mm, 1.0668 mm): Symbol R5 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 121.9200 mm): Symbol R6 [RES]
+    ; warning
+    @(0.9144 mm, 1.2192 mm): Symbol R6 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(101.6000 mm, 114.3000 mm): Symbol U6 [U_ESD_4ch]
+    ; warning
+    @(1.016 mm, 1.143 mm): Symbol U6 [U_ESD_4ch]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(109.2200 mm, 111.7600 mm): Symbol #PWR028 [+5P]
+    ; warning
+    @(1.0922 mm, 1.1176 mm): Symbol #PWR028 [+5P]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(93.9800 mm, 116.8400 mm): Symbol #PWR031 [GND]
+    ; warning
+    @(0.9398 mm, 1.1684 mm): Symbol #PWR031 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(83.8200 mm, 91.4400 mm): Symbol #PWR022 [GND]
+    ; warning
+    @(0.8382 mm, 0.9144 mm): Symbol #PWR022 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(73.6600 mm, 86.3600 mm): Symbol U3 [BL1551B]
+    ; warning
+    @(0.7366 mm, 0.8636 mm): Symbol U3 [BL1551B]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(63.5000 mm, 81.2800 mm): Symbol #PWR021 [+5V]
+    ; warning
+    @(0.635 mm, 0.8128 mm): Symbol #PWR021 [+5V]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(83.8200 mm, 76.2000 mm): Symbol #PWR013 [GND]
+    ; warning
+    @(0.8382 mm, 0.762 mm): Symbol #PWR013 [GND]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; Severity: warning
-    @(63.5000 mm, 66.0400 mm): Symbol #PWR010 [+5V]
+    ; warning
+    @(0.635 mm, 0.6604 mm): Symbol #PWR010 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(73.6600 mm, 71.1200 mm): Symbol U1 [BL1551B]
+    ; warning
+    @(0.7366 mm, 0.7112 mm): Symbol U1 [BL1551B]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(33.0200 mm, 180.3400 mm): Symbol #PWR044 [GND]
+    ; warning
+    @(0.3302 mm, 1.8034 mm): Symbol #PWR044 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(58.4200 mm, 152.4000 mm): Symbol C4 [CAP]
+    ; warning
+    @(0.5842 mm, 1.524 mm): Symbol C4 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(58.4200 mm, 157.4800 mm): Symbol #PWR041 [GND]
+    ; warning
+    @(0.5842 mm, 1.5748 mm): Symbol #PWR041 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(48.2600 mm, 180.3400 mm): Symbol #PWR045 [+5F]
+    ; warning
+    @(0.4826 mm, 1.8034 mm): Symbol #PWR045 [+5F]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(81.2800 mm, 180.3400 mm): Symbol #PWR047 [+5F]
+    ; warning
+    @(0.8128 mm, 1.8034 mm): Symbol #PWR047 [+5F]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(30.4800 mm, 157.4800 mm): Symbol #PWR040 [GND]
+    ; warning
+    @(0.3048 mm, 1.5748 mm): Symbol #PWR040 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(66.0400 mm, 180.3400 mm): Symbol #PWR046 [GND]
+    ; warning
+    @(0.6604 mm, 1.8034 mm): Symbol #PWR046 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 68.5800 mm): Symbol R1 [RES]
+    ; warning
+    @(0.9144 mm, 0.6858 mm): Symbol R1 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(101.6000 mm, 76.2000 mm): Symbol U2 [U_ESD_4ch]
+    ; warning
+    @(1.016 mm, 0.762 mm): Symbol U2 [U_ESD_4ch]
 [lib_symbol_issues]: Symbol '+5P' has been modified in library 'power'
-    ; Severity: warning
-    @(109.2200 mm, 73.6600 mm): Symbol #PWR012 [+5P]
+    ; warning
+    @(1.0922 mm, 0.7366 mm): Symbol #PWR012 [+5P]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(91.4400 mm, 83.8200 mm): Symbol R2 [RES]
+    ; warning
+    @(0.9144 mm, 0.8382 mm): Symbol R2 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(93.9800 mm, 78.7400 mm): Symbol #PWR018 [GND]
+    ; warning
+    @(0.9398 mm, 0.7874 mm): Symbol #PWR018 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(119.3800 mm, 144.7800 mm): Symbol #PWR039 [+5F]
+    ; warning
+    @(1.1938 mm, 1.4478 mm): Symbol #PWR039 [+5F]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; Severity: warning
-    @(119.3800 mm, 152.4000 mm): Symbol C5 [CAP]
+    ; warning
+    @(1.1938 mm, 1.524 mm): Symbol C5 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(147.3200 mm, 180.3400 mm): Symbol #PWR051 [GND]
+    ; warning
+    @(1.4732 mm, 1.8034 mm): Symbol #PWR051 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(104.1400 mm, 180.3400 mm): Symbol #PWR048 [+5F]
+    ; warning
+    @(1.0414 mm, 1.8034 mm): Symbol #PWR048 [+5F]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(119.3800 mm, 157.4800 mm): Symbol #PWR042 [GND]
+    ; warning
+    @(1.1938 mm, 1.5748 mm): Symbol #PWR042 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(147.3200 mm, 157.4800 mm): Symbol #PWR043 [GND]
+    ; warning
+    @(1.4732 mm, 1.5748 mm): Symbol #PWR043 [GND]
 [lib_symbol_issues]: Symbol '+5F' has been modified in library 'power'
-    ; Severity: warning
-    @(132.0800 mm, 180.3400 mm): Symbol #PWR050 [+5F]
+    ; warning
+    @(1.3208 mm, 1.8034 mm): Symbol #PWR050 [+5F]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; Severity: warning
-    @(119.3800 mm, 180.3400 mm): Symbol #PWR049 [GND]
+    ; warning
+    @(1.1938 mm, 1.8034 mm): Symbol #PWR049 [GND]
 
  ** ERC messages: 74  Errors 0  Warnings 74
