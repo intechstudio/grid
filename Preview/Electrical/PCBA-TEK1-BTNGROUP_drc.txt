@@ -1,11 +1,7 @@
 ** Drc report for PCBA-TEK1-BTNGROUP.kicad_pcb **
-** Created on 2024-07-05T14:26:45+0000 **
+** Created on 2024-07-05T15:05:29+0000 **
 
-** Found 101 DRC violations **
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.0000 mm)
-    ; warning
-    @(95.555 mm, 106.985 mm): Rectangle on Edge.Cuts
-    @(105.065 mm, 117.135 mm): Pad 2 [Net-(J1002-Pin_1)] of SW1003 on B.Cu
+** Found 100 DRC violations **
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(109.525 mm, 106.985 mm): Rectangle on Edge.Cuts

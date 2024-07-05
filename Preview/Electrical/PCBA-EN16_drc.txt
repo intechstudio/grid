@@ -1,7 +1,7 @@
 ** Drc report for PCBA-EN16.kicad_pcb **
-** Created on 2024-07-05T14:26:58+0000 **
+** Created on 2024-07-05T15:05:44+0000 **
 
-** Found 453 DRC violations **
+** Found 429 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -47,24 +47,8 @@
     @(140.005 mm, 130.607 mm): Footprint C916
 [courtyards_overlap]: Courtyards overlap
     ; warning
-    @(86.665 mm, 52.375 mm): Footprint D905
-    @(86.665 mm, 50.597 mm): Footprint C905
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(113.335 mm, 52.375 mm): Footprint D909
-    @(113.335 mm, 50.597 mm): Footprint C909
-[courtyards_overlap]: Courtyards overlap
-    ; warning
     @(140.005 mm, 79.045 mm): Footprint D914
     @(140.005 mm, 77.267 mm): Footprint C914
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(140.005 mm, 50.597 mm): Footprint C913
-    @(140.005 mm, 52.375 mm): Footprint D913
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(59.995 mm, 52.375 mm): Footprint D901
-    @(59.995 mm, 50.597 mm): Footprint C901
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(86.665 mm, 79.045 mm): Footprint D906
@@ -205,46 +189,6 @@
     ; warning
     @(98.0 mm, 95.0 mm): Footprint TP703
     @(98.0 mm, 93.5 mm): Footprint TP704
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(87.808 mm, 50.597 mm): Via [GND] on F.Cu - B.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(85.522 mm, 50.597 mm): Via [+5V] on F.Cu - B.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1950 mm)
-    ; warning
-    @(94.25 mm, 94.75 mm): Segment on Edge.Cuts
-    @(95.595 mm, 93.405 mm): Track [/MCU/SPID] on F.Cu, length 1.5486 mm
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1950 mm)
-    ; warning
-    @(94.25 mm, 94.75 mm): Segment on Edge.Cuts
-    @(94.5 mm, 94.5 mm): Track [/MCU/SPID] on F.Cu, length 3.5611 mm
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(87.145 mm, 50.597 mm): Pad 1 [GND] of C905 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(86.185 mm, 50.597 mm): Pad 2 [+5V] of C905 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(113.815 mm, 50.597 mm): Pad 1 [GND] of C909 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
-    @(112.855 mm, 50.597 mm): Pad 2 [+5V] of C909 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(131.17 mm, 50.0 mm): Segment on Edge.Cuts
-    @(140.485 mm, 50.597 mm): Pad 1 [GND] of C913 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(131.17 mm, 50.0 mm): Segment on Edge.Cuts
-    @(139.525 mm, 50.597 mm): Pad 2 [+5V] of C913 on F.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(51.5 mm, 69.33 mm): Arc on Edge.Cuts
@@ -373,22 +317,6 @@
     ; warning
     @(148.5 mm, 130.67 mm): Arc on Edge.Cuts
     @(148.5 mm, 130.67 mm): Arc on F.Silkscreen
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(56.0 mm, 50.0 mm): Segment on Edge.Cuts
-    @(60.475 mm, 50.597 mm): Pad 1 [GND] of C901 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
-    ; warning
-    @(56.0 mm, 50.0 mm): Segment on Edge.Cuts
-    @(59.515 mm, 50.597 mm): Pad 2 [+5V] of C901 on F.Cu
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1000 mm)
-    ; warning
-    @(104.0 mm, 147.5 mm): Segment on Edge.Cuts
-    @(102.15 mm, 146.5 mm): PTH pad [<no net>] of SW701
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1000 mm)
-    ; warning
-    @(104.0 mm, 147.5 mm): Segment on Edge.Cuts
-    @(97.85 mm, 146.5 mm): PTH pad [<no net>] of SW701
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
@@ -397,22 +325,6 @@
     ; warning
     @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
     @(104.75 mm, 56.57 mm): Segment on F.Silkscreen
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1642 mm)
-    ; warning
-    @(51.5 mm, 52.5 mm): Segment on Edge.Cuts
-    @(53.0 mm, 53.0 mm): PTH pad 1 [unconnected-(M501-Pin_1-Pad1)] of M501
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2500 mm)
-    ; warning
-    @(148.5 mm, 52.5 mm): Segment on Edge.Cuts
-    @(147.0 mm, 53.0 mm): PTH pad 2 [unconnected-(M501-Pin_2-Pad2)] of M501
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1642 mm)
-    ; warning
-    @(148.5 mm, 147.5 mm): Segment on Edge.Cuts
-    @(147.0 mm, 147.0 mm): PTH pad 3 [unconnected-(M501-Pin_3-Pad3)] of M501
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1642 mm)
-    ; warning
-    @(52.5 mm, 148.5 mm): Segment on Edge.Cuts
-    @(53.0 mm, 147.0 mm): PTH pad 4 [unconnected-(M501-Pin_4-Pad4)] of M501
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(59.995 mm, 132.385 mm): Footprint D904
@@ -439,16 +351,16 @@
     @(99.0 mm, 142.5 mm): Footprint C757
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 50.597 mm): Footprint C905
+    @(82.5 mm, 52.5 mm): Footprint C905
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(113.335 mm, 50.597 mm): Footprint C909
+    @(109.25 mm, 52.5 mm): Footprint C909
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(113.335 mm, 130.607 mm): Footprint C912
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(140.005 mm, 50.597 mm): Footprint C913
+    @(136.0 mm, 52.5 mm): Footprint C913
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(140.005 mm, 77.267 mm): Footprint C914
@@ -502,7 +414,7 @@
     @(150.0 mm, 126.67 mm): Footprint J505
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(59.995 mm, 50.597 mm): Footprint C901
+    @(56.0 mm, 52.5 mm): Footprint C901
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(99.0 mm, 78.8875 mm): Footprint C801
@@ -1010,12 +922,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(131.369 mm, 106.35 mm): Footprint R1007
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(104.0 mm, 66.0 mm): Footprint TP601
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(96.5 mm, 87.5 mm): Footprint TP705
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
     ; warning
     @(94.666 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
@@ -1282,18 +1188,6 @@
     @(92.665 mm, 118.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
     @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1304,6 +1198,18 @@
     ; warning
     @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
     @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
@@ -1354,20 +1260,32 @@
     @(108.335 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
     @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
+    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
@@ -1382,28 +1300,28 @@
     @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(58.545 mm, 53.525 mm): Segment on F.Silkscreen
@@ -1418,18 +1336,6 @@
     @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
     @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1442,16 +1348,16 @@
     @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(85.215 mm, 53.525 mm): Segment on F.Silkscreen
