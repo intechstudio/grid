@@ -1,7 +1,7 @@
 ** Drc report for PCBA-EF44.kicad_pcb **
-** Created on 2024-07-01T15:09:00+0000 **
+** Created on 2024-07-05T13:46:39+0000 **
 
-** Found 291 DRC violations **
+** Found 303 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(104.25 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -142,6 +142,54 @@
     ; warning
     @(96.5 mm, 95.0 mm): Footprint TP701
     @(100.0 mm, 100.0 mm): Footprint U703
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(114.478 mm, 50.597 mm): Via [GND] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(87.808 mm, 50.597 mm): Via [GND] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(112.192 mm, 50.597 mm): Via [+5V] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.3470 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(85.522 mm, 50.597 mm): Via [+5V] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1950 mm)
+    ; warning
+    @(94.25 mm, 94.75 mm): Segment on Edge.Cuts
+    @(94.5 mm, 94.5 mm): Track [/MCU/SPID] on F.Cu, length 3.5611 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.1950 mm)
+    ; warning
+    @(94.25 mm, 94.75 mm): Segment on Edge.Cuts
+    @(95.595 mm, 93.405 mm): Track [/MCU/SPID] on F.Cu, length 1.5486 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(87.145 mm, 50.597 mm): Pad 1 [GND] of C905 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(86.185 mm, 50.597 mm): Pad 2 [+5V] of C905 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(113.815 mm, 50.597 mm): Pad 1 [GND] of C909 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(112.855 mm, 50.597 mm): Pad 2 [+5V] of C909 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(131.17 mm, 50.0 mm): Segment on Edge.Cuts
+    @(140.485 mm, 50.597 mm): Pad 1 [GND] of C913 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(131.17 mm, 50.0 mm): Segment on Edge.Cuts
+    @(139.525 mm, 50.597 mm): Pad 2 [+5V] of C913 on F.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(51.5 mm, 69.33 mm): Arc on Edge.Cuts
@@ -270,6 +318,14 @@
     ; warning
     @(148.5 mm, 130.67 mm): Arc on Edge.Cuts
     @(148.5 mm, 130.67 mm): Arc on F.Silkscreen
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(56.0 mm, 50.0 mm): Segment on Edge.Cuts
+    @(60.475 mm, 50.597 mm): Pad 1 [GND] of C901 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.4000 mm; actual 0.2870 mm)
+    ; warning
+    @(56.0 mm, 50.0 mm): Segment on Edge.Cuts
+    @(59.515 mm, 50.597 mm): Pad 2 [+5V] of C901 on F.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
@@ -656,12 +712,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(79.553 mm, 81.204 mm): Footprint R1045
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(104.0 mm, 66.0 mm): Footprint TP601
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(96.5 mm, 87.5 mm): Footprint TP705
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(98.0 mm, 105.25 mm): Footprint C732
