@@ -1,4 +1,4 @@
-ERC report (2024-07-05T13:47:47+0000, Encoding UTF8)
+ERC report (2024-07-05T14:26:41+0000, Encoding UTF8)
 
 ***** Sheet /
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
