@@ -1,5 +1,5 @@
 ** Drc report for PCBA-EN16.kicad_pcb **
-** Created on 2024-07-05T15:05:44+0000 **
+** Created on 2024-07-05T15:12:41+0000 **
 
 ** Found 429 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
@@ -927,7 +927,7 @@
     @(94.666 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid EN16 RevD 2023/...' on F.Silkscreen
+    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid EN16 RevD 2024/...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(100.0 mm, 122.75 mm): PCB Text 'GND' on F.Silkscreen

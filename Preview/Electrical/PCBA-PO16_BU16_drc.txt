@@ -1,7 +1,7 @@
 ** Drc report for PCBA-PO16_BU16.kicad_pcb **
-** Created on 2024-07-05T15:05:42+0000 **
+** Created on 2024-07-05T15:12:37+0000 **
 
-** Found 345 DRC violations **
+** Found 343 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(104.25 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -826,9 +826,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(146.863 mm, 59.995 mm): Footprint R1045
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(104.0 mm, 66.0 mm): Footprint TP601
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(103.25 mm, 107.2 mm): Footprint L702
@@ -844,9 +841,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(94.75 mm, 99.0 mm): Footprint C736
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(96.5 mm, 87.5 mm): Footprint TP705
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(99.0 mm, 105.25 mm): Footprint C744
@@ -891,7 +885,7 @@
     @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid PBXX 2024/4 EE:...' on F.Silkscreen
+    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid PBXX 2024/7 EE:...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(100.0 mm, 122.75 mm): PCB Text 'GND' on F.Silkscreen
