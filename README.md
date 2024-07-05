@@ -1,4 +1,4 @@
-# Open-Source Hardware
+# Open-Source Hardware [USE THE PAGE ON MASTER BRANCH!]
 <img src="Preview/Logo/grid_oshwa.png?raw=true" width="100">
 https://certification.oshwa.org/hu000001.html
 
