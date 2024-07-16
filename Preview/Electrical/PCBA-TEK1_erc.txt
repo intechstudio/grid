@@ -1,16 +1,10 @@
-ERC report (2024-07-15T14:58:29+0000, Encoding UTF8)
+ERC report (2024-07-16T13:26:44+0000, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     ; warning
     @(2.159 mm, 1.8542 mm): Global Label 'ESP_GPIO_1'
     @(2.159 mm, 1.8796 mm): Global Label 'ESP_GPIO_18'
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 2.4384 mm): Symbol #PWR0963 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.3208 mm, 2.4384 mm): Symbol #PWR0978 [GND]
 
 ***** Sheet /UI_POT_BTN/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -131,19 +125,13 @@ ERC report (2024-07-15T14:58:29+0000, Encoding UTF8)
 ***** Sheet /UI_BUTTON/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.397 mm, 1.1938 mm): Symbol #PWR01087 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    @(1.0922 mm, 0.8255 mm): Symbol #PWR0963 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(1.6002 mm, 1.1938 mm): Symbol #PWR01091 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.6002 mm, 1.4478 mm): Symbol #PWR01092 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.397 mm, 1.4478 mm): Symbol #PWR01088 [GND]
+    @(0.2794 mm, 1.0922 mm): Symbol #PWR01059 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.4986 mm, 1.397 mm): Symbol UI1028 [UI_Pushbutton_Omron]
+    @(0.3302 mm, 1.1176 mm): Symbol R1035 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.2794 mm, 1.3462 mm): Symbol #PWR01060 [+3V3]
@@ -152,103 +140,43 @@ ERC report (2024-07-15T14:58:29+0000, Encoding UTF8)
     @(0.3302 mm, 1.3716 mm): Symbol R1036 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.4826 mm, 1.397 mm): Symbol UI1020 [UI_Pushbutton_Omron]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    @(1.9304 mm, 1.3716 mm): Symbol R1048 [RES]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.381 mm, 1.4478 mm): Symbol #PWR01064 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.5842 mm, 1.4478 mm): Symbol #PWR01068 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.381 mm, 1.1938 mm): Symbol #PWR01063 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1684 mm, 1.1938 mm): Symbol #PWR01079 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 1.1938 mm): Symbol #PWR01075 [GND]
+    @(1.8796 mm, 1.3462 mm): Symbol #PWR01096 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.0668 mm, 1.143 mm): Symbol UI1023 [UI_Pushbutton_Omron]
+    @(1.9304 mm, 1.1176 mm): Symbol R1047 [RES]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.3716 mm, 0.8255 mm): Symbol #PWR0978 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 1.0922 mm): Symbol #PWR01095 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.2954 mm, 1.0922 mm): Symbol #PWR01083 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.3462 mm, 1.1176 mm): Symbol R1043 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.8636 mm, 1.0922 mm): Symbol #PWR01071 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9144 mm, 1.1176 mm): Symbol R1039 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.1844 mm, 1.1938 mm): Symbol #PWR01103 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.0828 mm, 1.143 mm): Symbol UI1031 [UI_Pushbutton_Omron]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.1844 mm, 1.4478 mm): Symbol #PWR01104 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9304 mm, 1.3716 mm): Symbol R1048 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.9812 mm, 1.4478 mm): Symbol #PWR01100 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.0828 mm, 1.397 mm): Symbol UI1032 [UI_Pushbutton_Omron]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.8796 mm, 1.3462 mm): Symbol #PWR01096 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.3462 mm, 1.1176 mm): Symbol R1043 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.3462 mm, 1.3716 mm): Symbol R1044 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(1.2954 mm, 1.3462 mm): Symbol #PWR01084 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.4986 mm, 1.143 mm): Symbol UI1027 [UI_Pushbutton_Omron]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.2954 mm, 1.0922 mm): Symbol #PWR01083 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.5842 mm, 1.1938 mm): Symbol #PWR01067 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.4826 mm, 1.143 mm): Symbol UI1019 [UI_Pushbutton_Omron]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.3302 mm, 1.1176 mm): Symbol R1035 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.2794 mm, 1.0922 mm): Symbol #PWR01059 [+3V3]
+    @(1.3462 mm, 1.3716 mm): Symbol R1044 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9144 mm, 1.3716 mm): Symbol R1040 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 1.4478 mm): Symbol #PWR01076 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.0668 mm, 1.397 mm): Symbol UI1024 [UI_Pushbutton_Omron]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.8636 mm, 1.3462 mm): Symbol #PWR01072 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1684 mm, 1.4478 mm): Symbol #PWR01080 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.9812 mm, 1.1938 mm): Symbol #PWR01099 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.8796 mm, 1.0922 mm): Symbol #PWR01095 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9304 mm, 1.1176 mm): Symbol R1047 [RES]
 
 ***** Sheet /UI_LED/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
@@ -1313,4 +1241,4 @@ ERC report (2024-07-15T14:58:29+0000, Encoding UTF8)
     ; warning
     @(1.2446 mm, 0.5842 mm): Symbol R1026 [RES]
 
- ** ERC messages: 429  Errors 0  Warnings 429
+ ** ERC messages: 405  Errors 0  Warnings 405
