@@ -1,7 +1,13 @@
 ** Drc report for PCBA-TEK1-BTNGROUP.kicad_pcb **
-** Created on 2024-07-16T13:26:46+0000 **
+** Created on 2024-07-16T13:27:10+0000 **
 
-** Found 111 DRC violations **
+** Found 113 DRC violations **
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [GND] on F.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(117.145 mm, 110.16 mm): Segment on Edge.Cuts
@@ -20,7 +26,7 @@
     @(110.835 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(143.815 mm, 110.16 mm): Segment on Edge.Cuts
+    @(136.195 mm, 110.16 mm): Segment on Edge.Cuts
     @(132.505 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
