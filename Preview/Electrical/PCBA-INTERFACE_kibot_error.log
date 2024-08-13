@@ -1,197 +1,165 @@
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) For KiCad 8 use the `erc` preflight instead of `run_erc` (kibot.pre_run_erc - pre_run_erc.py:82)
-WARNING:(W058) 74 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+WARNING:(W058) 82 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
     ; warning
-    @(2.0828 mm, 1.3716 mm): Symbol #PWR037 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.2352 mm, 0.9906 mm): Symbol R3 [RES]
+    @(1.6002 mm, 0.8636 mm): Symbol #PWR029 [+5V]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
     ; warning
-    @(2.0828 mm, 1.1176 mm): Symbol #PWR029 [+5V]
+    @(1.7018 mm, 0.7112 mm): Symbol #PWR023 [+5V]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.1082 mm, 0.7366 mm): Symbol #FLG01 [PWR_FLAG]
+    @(1.6002 mm, 1.1176 mm): Symbol #PWR037 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 0.9906 mm): Symbol R7 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.8034 mm, 1.0414 mm): Symbol R8 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8034 mm, 1.0922 mm): Symbol #PWR035 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 1.0922 mm): Symbol #PWR036 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.8796 mm, 1.0414 mm): Symbol C3 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8034 mm, 0.8382 mm): Symbol #PWR026 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.8034 mm, 0.7874 mm): Symbol R4 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 0.7366 mm): Symbol R3 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.1336 mm, 0.9652 mm): Symbol #PWR033 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.3622 mm, 0.9398 mm): Symbol #PWR052 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '2N7002' has been modified in library 'Transistor_FET'
+    ; warning
+    @(2.3368 mm, 0.8636 mm): Symbol Q3 [2N7002]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.3622 mm, 0.7366 mm): Symbol R9 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(2.1336 mm, 0.762 mm): Symbol #PWR024 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.016 mm, 0.762 mm): Symbol U2 [U_ESD_4ch]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
     ; warning
-    @(2.1082 mm, 0.762 mm): Symbol #PWR014 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(2.3622 mm, 0.7366 mm): Symbol #FLG03 [PWR_FLAG]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(2.3622 mm, 0.762 mm): Symbol #PWR016 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.2352 mm, 0.762 mm): Symbol #PWR015 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(2.2352 mm, 0.7366 mm): Symbol #FLG02 [PWR_FLAG]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(2.4892 mm, 0.7366 mm): Symbol #FLG04 [PWR_FLAG]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(2.4892 mm, 0.762 mm): Symbol #PWR017 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(2.1844 mm, 0.9652 mm): Symbol #PWR023 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.286 mm, 1.0414 mm): Symbol R4 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.286 mm, 1.0922 mm): Symbol #PWR026 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.2352 mm, 1.2446 mm): Symbol R7 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.3622 mm, 1.0414 mm): Symbol C2 [CAP]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.3622 mm, 1.0922 mm): Symbol #PWR027 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.6162 mm, 1.2192 mm): Symbol #PWR033 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.6924 mm, 0.7874 mm): Symbol #PWR020 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(2.6162 mm, 0.7874 mm): Symbol #PWR019 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(2.7686 mm, 0.6604 mm): Symbol #PWR011 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.6924 mm, 0.7366 mm): Symbol C1 [CAP]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(2.6162 mm, 0.5842 mm): Symbol #PWR09 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(2.6162 mm, 1.016 mm): Symbol #PWR024 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.3622 mm, 1.2954 mm): Symbol C3 [CAP]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.286 mm, 1.3462 mm): Symbol #PWR035 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.286 mm, 1.2954 mm): Symbol R8 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.3622 mm, 1.3462 mm): Symbol #PWR036 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.2032 mm): Symbol #PWR02 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 0.2032 mm): Symbol #PWR01 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(0.4064 mm, 0.2286 mm): Symbol #PWR03 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(0.6858 mm, 0.4826 mm): Symbol #PWR07 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(1.1684 mm, 0.2286 mm): Symbol #PWR04 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.254 mm, 0.3048 mm): Symbol #PWR05 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.3208 mm, 0.3048 mm): Symbol #PWR06 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol #PWR08 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(0.635 mm, 1.1938 mm): Symbol #PWR032 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 1.2954 mm): Symbol #PWR034 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 1.2446 mm): Symbol U7 [BL1551B]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 1.143 mm): Symbol #PWR030 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(0.5842 mm, 1.4478 mm): Symbol #PWR038 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(0.635 mm, 1.0414 mm): Symbol #PWR025 [+5V]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 1.0922 mm): Symbol U4 [BL1551B]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9144 mm, 1.0668 mm): Symbol R5 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9144 mm, 1.2192 mm): Symbol R6 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.016 mm, 1.143 mm): Symbol U6 [U_ESD_4ch]
+    @(1.0922 mm, 0.7366 mm): Symbol #PWR012 [+5P]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
     ; warning
     @(1.0922 mm, 1.1176 mm): Symbol #PWR028 [+5P]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.016 mm, 1.143 mm): Symbol U6 [U_ESD_4ch]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.9398 mm, 1.1684 mm): Symbol #PWR031 [GND]
+    @(1.3208 mm, 0.3048 mm): Symbol #PWR06 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(1.1684 mm, 0.2286 mm): Symbol #PWR04 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(2.3622 mm, 0.6858 mm): Symbol #PWR053 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(2.1336 mm, 0.2794 mm): Symbol #PWR09 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.2098 mm, 0.4318 mm): Symbol C1 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(2.1336 mm, 0.4826 mm): Symbol #PWR019 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.2098 mm, 0.4826 mm): Symbol #PWR020 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(2.286 mm, 0.3556 mm): Symbol #PWR011 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 0.635 mm): Symbol #PWR054 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 0.4318 mm): Symbol #FLG03 [PWR_FLAG]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 0.4572 mm): Symbol #PWR016 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.7526 mm, 0.4572 mm): Symbol #PWR015 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(1.6256 mm, 0.4572 mm): Symbol #PWR014 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(2.0066 mm, 0.4318 mm): Symbol #FLG04 [PWR_FLAG]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(2.0066 mm, 0.4572 mm): Symbol #PWR017 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(1.7526 mm, 0.4318 mm): Symbol #FLG02 [PWR_FLAG]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(1.6256 mm, 0.4318 mm): Symbol #FLG01 [PWR_FLAG]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.8796 mm, 0.6858 mm): Symbol C2 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9398 mm, 0.7874 mm): Symbol #PWR018 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 0.8382 mm): Symbol R2 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -209,6 +177,10 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
     ; warning
     @(0.8382 mm, 0.762 mm): Symbol #PWR013 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 0.6858 mm): Symbol R1 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.635 mm, 0.6604 mm): Symbol #PWR010 [+5V]
@@ -216,6 +188,58 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'po
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.7112 mm): Symbol U1 [BL1551B]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(0.5842 mm, 1.4478 mm): Symbol #PWR038 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.7366 mm, 1.0922 mm): Symbol U4 [BL1551B]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(0.635 mm, 1.0414 mm): Symbol #PWR025 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.7366 mm, 1.2446 mm): Symbol U7 [BL1551B]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(0.635 mm, 1.1938 mm): Symbol #PWR032 [+5V]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(1.1938 mm, 1.4478 mm): Symbol #PWR039 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.8382 mm, 1.143 mm): Symbol #PWR030 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.8382 mm, 1.2954 mm): Symbol #PWR034 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 1.2192 mm): Symbol R6 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9398 mm, 1.1684 mm): Symbol #PWR031 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 1.0668 mm): Symbol R5 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'IRLML5203' has been modified in library 'Transistor_FET'
+    ; warning
+    @(0.8636 mm, 0.4064 mm): Symbol Q5 [IRLML5203]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol #PWR08 [+5F]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -245,45 +269,9 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
     ; warning
     @(0.6604 mm, 1.8034 mm): Symbol #PWR046 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9144 mm, 0.6858 mm): Symbol R1 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.016 mm, 0.762 mm): Symbol U2 [U_ESD_4ch]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
-    ; warning
-    @(1.0922 mm, 0.7366 mm): Symbol #PWR012 [+5P]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9144 mm, 0.8382 mm): Symbol R2 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.9398 mm, 0.7874 mm): Symbol #PWR018 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(1.1938 mm, 1.4478 mm): Symbol #PWR039 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1938 mm, 1.524 mm): Symbol C5 [CAP]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.4732 mm, 1.8034 mm): Symbol #PWR051 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 1.8034 mm): Symbol #PWR048 [+5F]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1938 mm, 1.5748 mm): Symbol #PWR042 [GND]
+    @(1.1938 mm, 1.8034 mm): Symbol #PWR049 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -291,17 +279,61 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
     ; warning
+    @(1.0414 mm, 1.8034 mm): Symbol #PWR048 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.1938 mm, 1.524 mm): Symbol C5 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.1938 mm, 1.5748 mm): Symbol #PWR042 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
     @(1.3208 mm, 1.8034 mm): Symbol #PWR050 [+5F]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.1938 mm, 1.8034 mm): Symbol #PWR049 [GND]
+    @(1.4732 mm, 1.8034 mm): Symbol #PWR051 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'IRLML5203' has been modified in library 'Transistor_FET'
+    ; warning
+    @(0.8636 mm, 0.2794 mm): Symbol Q4 [IRLML5203]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.2032 mm): Symbol #PWR02 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'IRLML5203' has been modified in library 'Transistor_FET'
+    ; warning
+    @(0.7112 mm, 0.2794 mm): Symbol Q7 [IRLML5203]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(0.6858 mm, 0.2032 mm): Symbol #PWR01 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5P' has been modified in library 'power'
+    ; warning
+    @(0.4064 mm, 0.2286 mm): Symbol #PWR03 [+5P]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'IRLML5203' has been modified in library 'Transistor_FET'
+    ; warning
+    @(0.7112 mm, 0.4064 mm): Symbol Q6 [IRLML5203]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol '+5F' has been modified in library 'power'
+    ; warning
+    @(0.6858 mm, 0.4826 mm): Symbol #PWR07 [+5F]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.254 mm, 0.3048 mm): Symbol #PWR05 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:128)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) For KiCad 8 use the `drc` preflight instead of `run_drc` (kibot.pre_run_drc - pre_run_drc.py:86)
-ERROR:Found 0 DRC errors and 31 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:125)
+ERROR:Found 0 DRC errors and 34 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:125)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
@@ -325,7 +357,7 @@ WARNING:(W047) Missing 3D model for J3: `${INTECH_3D}/battery_conn.step` (kibot 
 WARNING:(W047) Missing 3D model for J4: `${INTECH_3D}/battery_conn.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J2: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J1: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
-WARNING:(W098)  7 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  6 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:304)
 ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - log.py:155)
@@ -334,7 +366,7 @@ WARNING:(W047) Missing 3D model for J3: `${INTECH_3D}/battery_conn.step` (kibot 
 WARNING:(W047) Missing 3D model for J4: `${INTECH_3D}/battery_conn.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J2: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J1: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
-WARNING:(W098)  7 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  6 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - log.py:155)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/battery_conn.step` (kibot - log.py:155)
@@ -342,7 +374,7 @@ WARNING:(W047) Missing 3D model for J3: `${INTECH_3D}/battery_conn.step` (kibot 
 WARNING:(W047) Missing 3D model for J4: `${INTECH_3D}/battery_conn.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J2: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J1: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
-WARNING:(W098)  7 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  6 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:22)
 ERROR:Unable to expand `KICAD6_3DMODEL_DIR` in `${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl` (kibot - log.py:155)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/battery_conn.step` (kibot - log.py:155)
@@ -350,4 +382,4 @@ WARNING:(W047) Missing 3D model for J3: `${INTECH_3D}/battery_conn.step` (kibot 
 WARNING:(W047) Missing 3D model for J4: `${INTECH_3D}/battery_conn.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J2: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J1: `${INTECH_3D}/IS_POGO_Rev2_THT.step` (kibot - out_base_3d.py:514)
-WARNING:(W098)  7 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  6 3D models downloaded or cached (kibot - out_base_3d.py:527)
