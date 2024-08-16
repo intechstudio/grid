@@ -1,7 +1,7 @@
 ** Drc report for PCBA-INTERFACE.kicad_pcb **
-** Created on 2024-08-13T13:42:32+0000 **
+** Created on 2024-08-16T13:00:43+0000 **
 
-** Found 45 DRC violations **
+** Found 47 DRC violations **
 [track_dangling]: Track has unconnected end
     ; warning
     @(81.44 mm, 105.0 mm): Track [+5F] on F.Cu, length 0.3111 mm
@@ -33,6 +33,12 @@
     ; warning
     @(136.834 mm, 111.05 mm): Footprint U7
     @(134.02 mm, 111.05 mm): Footprint U4
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(126.67 mm, 106.0 mm): Footprint J2
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(73.33 mm, 106.0 mm): Footprint J1
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(142.0116 mm, 111.05 mm): Footprint C5
