@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-BTNGROUP.kicad_pcb **
-** Created on 2024-08-27T13:47:50+0000 **
+** Created on 2024-08-30T14:31:49+0000 **
 
 ** Found 119 DRC violations **
 [isolated_copper]: Isolated copper fill
@@ -42,7 +42,7 @@
     @(57.495 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(93.92 mm, 104.84 mm): Segment on Edge.Cuts
+    @(90.475 mm, 110.16 mm): Segment on Edge.Cuts
     @(79.165 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -62,7 +62,7 @@
     @(57.495 mm, 133.73 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(82.855 mm, 136.83 mm): Segment on Edge.Cuts
+    @(90.475 mm, 136.83 mm): Segment on Edge.Cuts
     @(79.165 mm, 132.505 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
