@@ -1,4 +1,4 @@
-ERC report (2024-08-30T15:15:41+0000, Encoding UTF8)
+ERC report (2024-09-02T11:20:47+0000, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
@@ -123,36 +123,24 @@ ERC report (2024-08-30T15:15:41+0000, Encoding UTF8)
     @(0.5588 mm, 1.3462 mm): Symbol #PWR01036 [GND]
 
 ***** Sheet /UI_BUTTON/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0922 mm, 0.8255 mm): Symbol #PWR0963 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.2794 mm, 1.0922 mm): Symbol #PWR01059 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.3302 mm, 1.1176 mm): Symbol R1035 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.2794 mm, 1.3462 mm): Symbol #PWR01060 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.3302 mm, 1.3716 mm): Symbol R1036 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9304 mm, 1.3716 mm): Symbol R1048 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.8796 mm, 1.3462 mm): Symbol #PWR01096 [+3V3]
+    @(0.8382 mm, 0.6096 mm): Symbol #PWR0963 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.9304 mm, 1.1176 mm): Symbol R1047 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.3716 mm, 0.8255 mm): Symbol #PWR0978 [GND]
+    @(1.3462 mm, 1.3716 mm): Symbol R1044 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(1.8796 mm, 1.0922 mm): Symbol #PWR01095 [+3V3]
+    @(1.2954 mm, 1.3462 mm): Symbol #PWR01084 [+3V3]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(1.2954 mm, 1.0922 mm): Symbol #PWR01083 [+3V3]
@@ -161,22 +149,34 @@ ERC report (2024-08-30T15:15:41+0000, Encoding UTF8)
     @(1.3462 mm, 1.1176 mm): Symbol R1043 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
+    @(1.8796 mm, 1.3462 mm): Symbol #PWR01096 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.9304 mm, 1.3716 mm): Symbol R1048 [RES]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
     @(0.8636 mm, 1.0922 mm): Symbol #PWR01071 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9144 mm, 1.1176 mm): Symbol R1039 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.2954 mm, 1.3462 mm): Symbol #PWR01084 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.3462 mm, 1.3716 mm): Symbol R1044 [RES]
+    @(0.3302 mm, 1.3716 mm): Symbol R1036 [RES]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.2794 mm, 1.3462 mm): Symbol #PWR01060 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9144 mm, 1.3716 mm): Symbol R1040 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.8636 mm, 1.3462 mm): Symbol #PWR01072 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 0.6096 mm): Symbol #PWR0978 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.8796 mm, 1.0922 mm): Symbol #PWR01095 [+3V3]
 
 ***** Sheet /UI_LED/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
