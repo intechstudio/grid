@@ -1,4 +1,4 @@
-ERC report (2024-09-02T11:20:44+0000, Encoding UTF8)
+ERC report (2024-09-04T14:07:52+0000, Encoding UTF8)
 
 ***** Sheet /
 [multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
