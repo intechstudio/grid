@@ -1,4 +1,4 @@
-ERC report (2024-09-04T14:07:50+0000, Encoding UTF8)
+ERC report (2024-09-30T11:51:31+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -1247,16 +1247,16 @@ ERC report (2024-09-04T14:07:50+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.254 mm, 1.397 mm): Symbol C603 [CAP]
-[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
-    ; warning
-    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(0.762 mm, 0.7112 mm): Symbol #PWR0605 Hidden pin 1 [VBUS, Power input, Line]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; warning
     @(0.762 mm, 0.7112 mm): Symbol #PWR0605 [VBUS]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning
     @(0.6604 mm, 0.7112 mm): Symbol #FLG0602 [PWR_FLAG]
+[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
+    ; warning
+    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
+    @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
 [simulation_model_issue]: No simulation model definition found for symbol 'TP602'.
     ; warning
     @(1.4986 mm, 0.3048 mm): Symbol TP602 [TestPoint_Alt]
