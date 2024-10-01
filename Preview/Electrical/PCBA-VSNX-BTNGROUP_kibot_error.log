@@ -926,3 +926,4 @@ WARNING:(W143) This output depends on KiCad version, use `blender_export` instea
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:307)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
+WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
