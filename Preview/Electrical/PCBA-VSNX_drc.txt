@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2024-10-01T12:33:03+0000 **
+** Created on 2024-10-02T15:41:06+0000 **
 
-** Found 321 DRC violations **
+** Found 308 DRC violations **
 [track_dangling]: Track has unconnected end
     ; warning
     @(85.5 mm, 101.75 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
@@ -189,10 +189,6 @@
     ; warning
     @(98.0 mm, 93.5 mm): Footprint TP704
     @(96.5 mm, 93.5 mm): Footprint TP702
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    ; warning
-    @(108.89 mm, 121.844 mm): Segment on Edge.Cuts
-    @(106.0 mm, 119.75 mm): PCB Text 'RESET' on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(51.5 mm, 69.33 mm): Arc on Edge.Cuts
@@ -780,7 +776,7 @@
     @(96.25 mm, 111.75 mm): Footprint R733
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 126.67 mm): Footprint LOGO701
+    @(73.33 mm, 136.67 mm): Footprint LOGO701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(118.006326 mm, 54.75069 mm): Footprint C910
@@ -868,9 +864,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(73.33 mm, 73.33 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid TEK1 RevD 2024/...' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(61.445 mm, 135.856 mm): Segment on F.Silkscreen
@@ -994,39 +987,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 109.186 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(90.354316 mm, 127.595456 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(83.138265 mm, 128.758528 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(86.811948 mm, 125.046874 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(90.104193 mm, 129.296293 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(84.103935 mm, 128.7583 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(86.292864 mm, 128.282912 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(87.243332 mm, 128.282912 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(89.144267 mm, 128.282912 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(84.451314 mm, 125.021584 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(85.868237 mm, 125.021659 mm): Polygon on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(89.767426 mm, 123.743975 mm): Polygon on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(93.952 mm, 79.92 mm): Circle on B.Silkscreen
