@@ -1,20 +1,14 @@
 ** Drc report for PCBA-VSNX-BTNGROUP.kicad_pcb **
-** Created on 2024-10-02T15:40:54+0000 **
+** Created on 2024-10-03T11:30:43+0000 **
 
-** Found 125 DRC violations **
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on F.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+** Found 121 DRC violations **
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(106.08 mm, 113.732 mm): Segment on Edge.Cuts
+    @(120.67 mm, 104.84 mm): Segment on Edge.Cuts
     @(105.835 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(105.08 mm, 120.812 mm): Arc on Edge.Cuts
+    @(105.08 mm, 113.732 mm): Arc on Edge.Cuts
     @(105.835 mm, 120.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -30,7 +24,7 @@
     @(110.835 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(143.815 mm, 110.16 mm): Segment on Edge.Cuts
+    @(136.195 mm, 110.16 mm): Segment on Edge.Cuts
     @(132.505 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -42,7 +36,7 @@
     @(137.505 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(56.185 mm, 110.16 mm): Segment on Edge.Cuts
+    @(67.33 mm, 104.84 mm): Segment on Edge.Cuts
     @(52.495 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -54,7 +48,7 @@
     @(57.495 mm, 107.06 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(90.475 mm, 110.16 mm): Segment on Edge.Cuts
+    @(93.92 mm, 104.84 mm): Segment on Edge.Cuts
     @(79.165 mm, 105.835 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -102,11 +96,11 @@
     @(137.505 mm, 133.73 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(109.525 mm, 136.83 mm): Segment on Edge.Cuts
+    @(117.145 mm, 136.83 mm): Segment on Edge.Cuts
     @(105.835 mm, 132.505 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(105.08 mm, 147.482 mm): Arc on Edge.Cuts
+    @(105.08 mm, 140.402 mm): Arc on Edge.Cuts
     @(105.835 mm, 147.505 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -118,52 +112,46 @@
     @(110.835 mm, 133.73 mm): Rectangle on F.Silkscreen
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(140.005 mm, 126.67 mm): Footprint J1002
+    @(140.005 mm, 126.67 mm): Footprint J504
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 126.67 mm): Footprint J1004
+    @(86.665 mm, 126.67 mm): Footprint J502
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(113.335 mm, 126.67 mm): Footprint J1001
+    @(113.335 mm, 126.67 mm): Footprint J503
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.538 mm, 76.67 mm): Footprint LOGO701
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(59.995 mm, 126.67 mm): Footprint J1003
+    @(59.995 mm, 126.67 mm): Footprint J501
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 136.67 mm): Footprint LOGO701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(113.335 mm, 113.335 mm): Footprint SW1003
+    @(113.335 mm, 113.335 mm): Footprint SW505
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(140.005 mm, 113.335 mm): Footprint SW1004
+    @(140.005 mm, 113.335 mm): Footprint SW507
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(59.995 mm, 113.335 mm): Footprint SW1001
+    @(59.995 mm, 113.335 mm): Footprint SW501
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 113.335 mm): Footprint SW1002
+    @(86.665 mm, 113.335 mm): Footprint SW503
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(59.995 mm, 140.005 mm): Footprint SW1005
+    @(59.995 mm, 140.005 mm): Footprint SW502
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 140.005 mm): Footprint SW1006
+    @(86.665 mm, 140.005 mm): Footprint SW504
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(140.005 mm, 140.005 mm): Footprint SW1008
+    @(140.005 mm, 140.005 mm): Footprint SW508
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(113.335 mm, 140.005 mm): Footprint SW1007
+    @(113.335 mm, 140.005 mm): Footprint SW506
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(126.67 mm, 136.67 mm): PCB Text 'Intech Studio BTNGROUP RevA 2024/9...' on F.Silkscreen
-[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
-    ; warning
-    @(113.208 mm, 76.67 mm): PCB Text 'Intech Studio BTNGROUP RevA 2024/7...' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(106.035 mm, 115.635 mm): Segment on B.Silkscreen

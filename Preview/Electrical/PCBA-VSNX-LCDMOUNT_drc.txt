@@ -1,7 +1,373 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-02T15:41:01+0000 **
+** Created on 2024-10-03T11:30:36+0000 **
 
-** Found 36 DRC violations **
+** Found 280 DRC violations **
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 61.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 109.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 119.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(226.5 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 63.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(225.5 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 138.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 107.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 65.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 84.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 105.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 62.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 121.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 88.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 118.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 66.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(226.0 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 83.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 90.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 132.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 112.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(227.0 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 66.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 59.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 135.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 117.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(224.5 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 59.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 108.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 82.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 60.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 108.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 57.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 80.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(228.0 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 120.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 87.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 142.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 67.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 116.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 63.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 107.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(227.0 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 114.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(225.5 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 134.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 56.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 117.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 85.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(227.5 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 118.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 121.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 135.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 134.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 133.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 110.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 138.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 139.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 106.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 140.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 119.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 115.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 115.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 111.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(225.0 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 81.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 142.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(228.0 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 113.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(224.5 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 89.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 132.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 58.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 133.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 110.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 78.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 137.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 61.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 120.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 65.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 60.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 131.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(225.0 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 84.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 82.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 140.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 57.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 87.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(228.5 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 64.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 58.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(228.5 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 85.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 79.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 136.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 106.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 81.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 141.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 89.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 116.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 137.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 139.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(226.0 mm, 92.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 88.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 62.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 86.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 83.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 113.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 109.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 86.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 141.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(227.5 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 143.25 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 136.75 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 64.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 111.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 79.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(226.5 mm, 105.0 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 80.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 114.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 67.5 mm): Via [<no net>] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    ; warning
+    @(150.0 mm, 112.5 mm): Via [<no net>] on F.Cu - B.Cu
 [track_dangling]: Track has unconnected end
     ; warning
     @(82.925 mm, 73.505 mm): Track [/SCLK] on B.Cu, length 0.1061 mm
@@ -10,16 +376,25 @@
     @(83.598529 mm, 69.59 mm): Track [+3V3] on B.Cu, length 1.0000 mm
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(50.0 mm, 77.83 mm): Segment on Edge.Cuts
+    @(64.83 mm, 56.03 mm): Segment on Edge.Cuts
     @(50.93 mm, 56.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -31,15 +406,59 @@
     @(147.07 mm, 88.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(101.0 mm, 87.66 mm): Arc on Edge.Cuts
+    @(135.17 mm, 55.53 mm): Arc on Edge.Cuts
     @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(156.185 mm, 83.49 mm): Segment on Edge.Cuts
+    @(152.495 mm, 79.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(156.185 mm, 83.49 mm): Segment on Edge.Cuts
+    @(157.495 mm, 80.39 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(209.525 mm, 56.82 mm): Segment on Edge.Cuts
+    @(205.835 mm, 52.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(205.08 mm, 67.472 mm): Arc on Edge.Cuts
+    @(205.835 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(205.08 mm, 67.472 mm): Arc on Edge.Cuts
+    @(205.835 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(221.67 mm, 60.66 mm): Arc on Edge.Cuts
+    @(220.835 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(209.525 mm, 56.82 mm): Segment on Edge.Cuts
+    @(210.835 mm, 53.72 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(190.475 mm, 83.49 mm): Segment on Edge.Cuts
+    @(179.165 mm, 79.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(193.920001 mm, 87.046001 mm): Segment on Edge.Cuts
+    @(179.165 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(194.92 mm, 87.046 mm): Arc on Edge.Cuts
+    @(194.165 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(182.855 mm, 83.49 mm): Segment on Edge.Cuts
+    @(184.165 mm, 80.39 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(122.67 mm, 83.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(130.67 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -51,6 +470,34 @@
     @(77.33 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
+    @(209.525 mm, 83.49 mm): Segment on Edge.Cuts
+    @(205.835 mm, 79.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(205.08 mm, 94.142 mm): Arc on Edge.Cuts
+    @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(206.08 mm, 96.66 mm): Segment on Edge.Cuts
+    @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(209.525 mm, 83.49 mm): Segment on Edge.Cuts
+    @(210.835 mm, 80.39 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(167.33 mm, 51.5 mm): Segment on Edge.Cuts
+    @(152.495 mm, 52.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(168.33 mm, 60.66 mm): Arc on Edge.Cuts
+    @(167.495 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(156.185 mm, 56.82 mm): Segment on Edge.Cuts
+    @(157.495 mm, 53.72 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
     @(133.655 mm, 63.17 mm): Segment on Edge.Cuts
     @(122.67 mm, 57.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
@@ -59,18 +506,84 @@
     @(130.67 mm, 63.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
+    @(243.815 mm, 83.49 mm): Segment on Edge.Cuts
+    @(232.505 mm, 79.165 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(236.195 mm, 83.49 mm): Segment on Edge.Cuts
+    @(237.505 mm, 80.39 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
     @(69.33 mm, 57.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
+    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
     @(77.33 mm, 63.33 mm): Segment on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(193.92 mm, 51.5 mm): Segment on Edge.Cuts
+    @(179.165 mm, 52.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(178.33 mm, 60.66 mm): Arc on Edge.Cuts
+    @(179.165 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(193.92 mm, 51.5 mm): Segment on Edge.Cuts
+    @(179.165 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(182.855 mm, 56.82 mm): Segment on Edge.Cuts
+    @(184.165 mm, 53.72 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
+    @(232.505 mm, 52.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(231.67 mm, 60.66 mm): Arc on Edge.Cuts
+    @(232.505 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
+    @(237.505 mm, 53.72 mm): Rectangle on F.Silkscreen
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 73.33 mm): Footprint U1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(186.665 mm, 73.33 mm): Footprint J1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(173.33 mm, 86.66 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(240.005 mm, 73.33 mm): Footprint J1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(126.67 mm, 73.33 mm): Footprint U1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(173.33 mm, 140.0 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(213.335 mm, 73.33 mm): Footprint J1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(159.995 mm, 73.33 mm): Footprint J1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(73.33 mm, 140.0 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(159.995 mm, 86.665 mm): Footprint SW1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(213.335 mm, 59.995 mm): Footprint SW1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(186.665 mm, 86.665 mm): Footprint SW1004
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(74.25 mm, 69.08 mm): Footprint R1001
@@ -82,7 +595,13 @@
     @(73.33 mm, 88.33 mm): Footprint J1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(213.335 mm, 86.665 mm): Footprint SW1006
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(126.0 mm, 77.58 mm): Footprint R1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(159.995 mm, 59.995 mm): Footprint SW1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(126.02 mm, 75.58 mm): Footprint C1004
@@ -94,7 +613,10 @@
     @(126.67 mm, 58.33 mm): Footprint J1004
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(100.0 mm, 54.83 mm): Footprint Q1001
+    @(240.005 mm, 86.665 mm): Footprint SW1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(92.45 mm, 59.5 mm): Footprint Q1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 58.33 mm): Footprint J1005
@@ -103,25 +625,262 @@
     @(73.25 mm, 71.08 mm): Footprint C1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(186.665 mm, 59.995 mm): Footprint SW1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(127.0 mm, 75.58 mm): Footprint C1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(59.75 mm, 65.58 mm): Footprint LOGO701
+    @(240.005 mm, 59.995 mm): Footprint SW1007
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(141.5 mm, 65.83 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on B.Silkscreen
+    @(126.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(226.67 mm, 86.66 mm): PCB Text 'Intech Studio BTNGROUP RevA 2024/9...' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(226.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(141.5 mm, 65.83 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on B.Silkscreen
+    @(152.695 mm, 88.965 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(56.060684 mm, 66.505456 mm): Polygon on B.Silkscreen
+    @(152.695 mm, 91.765 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(59.603052 mm, 63.956874 mm): Polygon on B.Silkscreen
+    @(153.345 mm, 92.765 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(56.647574 mm, 62.653975 mm): Polygon on B.Silkscreen
+    @(153.345 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(153.345 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(158.295 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(162.295 mm, 91.365 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(162.295 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(156.245 mm, 94.015 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(152.495 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.035 mm, 62.295 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.035 mm, 65.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(211.635 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(215.635 mm, 64.695 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(215.635 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(209.585 mm, 67.345 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(205.835 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.365 mm, 88.965 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.365 mm, 91.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(184.965 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(188.965 mm, 91.365 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(188.965 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(182.915 mm, 94.015 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.165 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.035 mm, 88.965 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.035 mm, 91.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(206.685 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(211.635 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(215.635 mm, 91.365 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(215.635 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(209.585 mm, 94.015 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(152.695 mm, 62.295 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(152.695 mm, 65.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(153.345 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(153.345 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(153.345 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(158.295 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(162.295 mm, 64.695 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(162.295 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(156.245 mm, 67.345 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(152.495 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.705 mm, 88.965 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.705 mm, 91.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 92.765 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(238.305 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(242.305 mm, 91.365 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(242.305 mm, 95.015 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(236.255 mm, 94.015 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.505 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.365 mm, 62.295 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.365 mm, 65.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(180.015 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(184.965 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(188.965 mm, 64.695 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(188.965 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(182.915 mm, 67.345 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(179.165 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.705 mm, 62.295 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.705 mm, 65.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(233.355 mm, 66.095 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(238.305 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(242.305 mm, 64.695 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(242.305 mm, 68.345 mm): Segment on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(236.255 mm, 67.345 mm): Arc on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(232.505 mm, 67.495 mm): Segment on F.Silkscreen
 
 ** Found 0 unconnected pads **
 
