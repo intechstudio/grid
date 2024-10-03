@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2024-10-03T11:30:44+0000 **
+** Created on 2024-10-03T16:30:39+0000 **
 
-** Found 308 DRC violations **
+** Found 314 DRC violations **
 [track_dangling]: Track has unconnected end
     ; warning
     @(85.5 mm, 101.75 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
@@ -548,6 +548,9 @@
     @(61.571683 mm, 56.537383 mm): Footprint C904
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(100.0 mm, 135.0 mm): Footprint H1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(63.75 mm, 98.5 mm): Footprint R1022
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -591,6 +594,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(113.335 mm, 126.67 mm): Footprint J905
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(61.83 mm, 63.33 mm): Footprint H1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(84.48 mm, 78.54 mm): Footprint C920
@@ -665,6 +671,9 @@
     @(101.5 mm, 58.25 mm): Footprint R601
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(61.83 mm, 83.33 mm): Footprint H1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(98.5 mm, 58.25 mm): Footprint R602
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -717,6 +726,12 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(122.225 mm, 111.684 mm): Footprint R1043
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(138.17 mm, 83.33 mm): Footprint H1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(138.17 mm, 63.33 mm): Footprint H1007
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(113.477742 mm, 54.489503 mm): Footprint D909
@@ -861,6 +876,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(94.75 mm, 102.5 mm): Footprint C735
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(126.67 mm, 73.33 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(73.33 mm, 73.33 mm): Circle on F.Silkscreen
