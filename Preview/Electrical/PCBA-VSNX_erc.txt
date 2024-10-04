@@ -1,10 +1,6 @@
-ERC report (2024-10-04T09:08:35+0000, Encoding UTF8)
+ERC report (2024-10-04T14:47:31+0000, Encoding UTF8)
 
 ***** Sheet /
-[multiple_net_names]: Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
-    ; warning
-    @(2.159 mm, 1.8542 mm): Global Label 'ESP_GPIO_1'
-    @(2.159 mm, 1.8796 mm): Global Label 'ESP_GPIO_18'
 
 ***** Sheet /UI_POT_BTN/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -913,7 +909,7 @@ ERC report (2024-10-04T09:08:35+0000, Encoding UTF8)
     @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
-    @(2.286 mm, 1.016 mm): Global Label 'ESP_GPIO_16'
+    @(2.286 mm, 1.1684 mm): Global Label 'ESP_GPIO_33'
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
     @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
@@ -1109,7 +1105,7 @@ ERC report (2024-10-04T09:08:35+0000, Encoding UTF8)
     @(0.4318 mm, 0.8128 mm): Symbol R801 [RES]
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; warning
-    @(0.4318 mm, 0.6604 mm): Symbol #PWR0847 Hidden pin 1 [+3V3, Power input, Line]
+    @(1.0414 mm, 0.635 mm): Symbol #PWR0832 Hidden pin 1 [+3V3, Power input, Line]
     @(0.7874 mm, 0.8128 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1155,90 +1151,34 @@ ERC report (2024-10-04T09:08:35+0000, Encoding UTF8)
 ***** Sheet /UI_DISPLAY/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.5494 mm, 1.6002 mm): Symbol #PWR0976 [GND]
-[lib_symbol_issues]: Symbol 'SN74LVC1G14DBV' has been modified in library '74xGxx'
-    ; warning
-    @(0.5588 mm, 1.397 mm): Symbol U902 [SN74LVC1G14DBV]
+    @(2.3368 mm, 0.8509 mm): Symbol #PWR0976 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.5588 mm, 1.5494 mm): Symbol #PWR0977 [GND]
+    @(1.9812 mm, 0.5588 mm): Symbol #PWR0964 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.5588 mm, 1.2446 mm): Symbol #PWR0962 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.4224 mm, 1.0668 mm): Symbol #PWR0961 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.4732 mm, 1.1176 mm): Symbol R903 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.4732 mm, 1.0668 mm): Symbol #PWR0960 [+3V3]
+    @(2.2098 mm, 0.4318 mm): Symbol #PWR0961 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.2098 mm, 0.7874 mm): Symbol #PWR01031 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.2098 mm, 0.7366 mm): Symbol C1019 [CAP]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(2.2098 mm, 0.6858 mm): Symbol #PWR01029 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.778 mm, 1.3462 mm): Symbol U901 [DISPLAY_TEK1]
+    @(1.9812 mm, 0.8128 mm): Symbol #PWR0967 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.5494 mm, 0.9906 mm): Symbol #PWR01027 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(2.0828 mm, 1.2954 mm): Symbol #PWR0965 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.0828 mm, 1.3462 mm): Symbol C920 [CAP]
+    @(1.9939 mm, 1.397 mm): Symbol #PWR0977 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.0828 mm, 1.397 mm): Symbol #PWR0967 [GND]
+    @(2.3368 mm, 0.5969 mm): Symbol #PWR0965 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(2.2098 mm, 1.2954 mm): Symbol #PWR0964 [+3V3]
+    @(1.778 mm, 0.4064 mm): Symbol #PWR0960 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.2098 mm, 1.397 mm): Symbol #PWR0966 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.2098 mm, 1.3462 mm): Symbol C919 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.778 mm, 0.7366 mm): Symbol U1003 [DISPLAY_TEK1]
+    @(1.6002 mm, 0.8382 mm): Symbol #PWR0966 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.0828 mm, 0.7874 mm): Symbol #PWR01032 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    @(1.6002 mm, 0.5842 mm): Symbol #PWR0962 [GND]
+[multiple_net_names]: Both BACKLIGHT_PWM and BACKLIGHT are attached to the same items; BACKLIGHT_PWM will be used in the netlist
     ; warning
-    @(2.0828 mm, 0.7366 mm): Symbol C1020 [CAP]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(2.0828 mm, 0.6858 mm): Symbol #PWR01030 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.4732 mm, 0.508 mm): Symbol R1017 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.4224 mm, 0.4572 mm): Symbol #PWR01026 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.4732 mm, 0.4572 mm): Symbol #PWR01025 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1176 mm, 0.5842 mm): Symbol R1018 [RES]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.1176 mm, 0.5334 mm): Symbol #PWR01028 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.2446 mm, 0.5334 mm): Symbol #PWR01042 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.2446 mm, 0.5842 mm): Symbol R1026 [RES]
+    @(1.905 mm, 0.508 mm): Label 'BACKLIGHT_PWM'
+    @(0.9652 mm, 0.5588 mm): Hierarchical Label 'BACKLIGHT'
 
- ** ERC messages: 405  Errors 0  Warnings 405
+ ** ERC messages: 385  Errors 0  Warnings 385

@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-04T09:08:37+0000 **
+** Created on 2024-10-04T14:47:35+0000 **
 
-** Found 293 DRC violations **
+** Found 307 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(150.0 mm, 61.0 mm): Via [<no net>] on F.Cu - B.Cu
@@ -392,6 +392,15 @@
 [isolated_copper]: Isolated copper fill
     ; warning
     @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(73.33 mm, 126.67 mm): Arc on Edge.Cuts
@@ -596,6 +605,9 @@
     @(159.995 mm, 86.665 mm): Footprint SW1002
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(110.0 mm, 86.0 mm): Footprint R1009
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(213.335 mm, 59.995 mm): Footprint SW1005
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -615,6 +627,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(124.0 mm, 77.58 mm): Footprint R1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(93.0 mm, 86.0 mm): Footprint R1006
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(100.0 mm, 135.0 mm): Footprint H1003
@@ -650,6 +665,9 @@
     @(61.83 mm, 83.33 mm): Footprint H1002
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(91.5 mm, 86.0 mm): Footprint R1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(186.665 mm, 59.995 mm): Footprint SW1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -662,7 +680,19 @@
     @(125.0 mm, 75.58 mm): Footprint C1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(90.0 mm, 86.0 mm): Footprint R1004
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(107.0 mm, 86.0 mm): Footprint R1008
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(108.5 mm, 86.0 mm): Footprint R1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(240.005 mm, 59.995 mm): Footprint SW1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(89.5 mm, 58.5 mm): Footprint R1003
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(126.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on F.Silkscreen
@@ -714,6 +744,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(152.495 mm, 94.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(108.83 mm, 86.0 mm): Reference 'R1009'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(206.035 mm, 62.295 mm): Segment on B.Silkscreen
@@ -806,6 +839,9 @@
     @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(91.83 mm, 86.0 mm): Reference 'R1006'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(152.695 mm, 62.295 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -866,6 +902,9 @@
     @(232.505 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(90.33 mm, 86.0 mm): Reference 'R1005'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(179.365 mm, 62.295 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -894,6 +933,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(179.165 mm, 67.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(107.33 mm, 86.0 mm): Reference 'R1007'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(232.705 mm, 62.295 mm): Segment on B.Silkscreen
