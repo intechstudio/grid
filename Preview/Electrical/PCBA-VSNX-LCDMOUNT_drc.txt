@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-03T16:30:32+0000 **
+** Created on 2024-10-04T09:08:37+0000 **
 
 ** Found 293 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
@@ -431,7 +431,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(156.185 mm, 83.49 mm): Segment on Edge.Cuts
-    @(162.495 mm, 83.54 mm): Rectangle on F.Silkscreen
+    @(157.495 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(206.08 mm, 60.392 mm): Segment on Edge.Cuts
@@ -451,7 +451,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(209.525 mm, 56.82 mm): Segment on Edge.Cuts
-    @(215.835 mm, 56.87 mm): Rectangle on F.Silkscreen
+    @(210.835 mm, 53.72 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(190.475 mm, 83.49 mm): Segment on Edge.Cuts
@@ -467,7 +467,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(182.855 mm, 83.49 mm): Segment on Edge.Cuts
-    @(189.165 mm, 83.54 mm): Rectangle on F.Silkscreen
+    @(184.165 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
@@ -499,7 +499,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(209.525 mm, 83.49 mm): Segment on Edge.Cuts
-    @(215.835 mm, 83.54 mm): Rectangle on F.Silkscreen
+    @(210.835 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(167.33 mm, 51.5 mm): Segment on Edge.Cuts
@@ -511,7 +511,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(156.185 mm, 56.82 mm): Segment on Edge.Cuts
-    @(162.495 mm, 56.87 mm): Rectangle on F.Silkscreen
+    @(157.495 mm, 53.72 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(133.655 mm, 63.17 mm): Segment on Edge.Cuts
@@ -527,7 +527,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(236.195 mm, 83.49 mm): Segment on Edge.Cuts
-    @(242.505 mm, 83.54 mm): Rectangle on F.Silkscreen
+    @(237.505 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
@@ -551,7 +551,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(182.855 mm, 56.82 mm): Segment on Edge.Cuts
-    @(189.165 mm, 56.87 mm): Rectangle on F.Silkscreen
+    @(184.165 mm, 53.72 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(232.67 mm, 60.66 mm): Segment on Edge.Cuts
@@ -563,7 +563,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
-    @(242.505 mm, 56.87 mm): Rectangle on F.Silkscreen
+    @(237.505 mm, 53.72 mm): Rectangle on F.Silkscreen
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 73.33 mm): Footprint U1001

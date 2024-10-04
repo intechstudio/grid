@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2024-10-03T16:30:39+0000 **
+** Created on 2024-10-04T09:08:46+0000 **
 
-** Found 314 DRC violations **
+** Found 313 DRC violations **
 [track_dangling]: Track has unconnected end
     ; warning
     @(85.5 mm, 101.75 mm): Track [ESP_GPIO_37] on F.Cu, length 0.0220 mm
@@ -53,12 +53,6 @@
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
@@ -191,11 +185,15 @@
     @(96.5 mm, 93.5 mm): Footprint TP702
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
+    @(91.665 mm, 108.435 mm): Arc on Edge.Cuts
+    @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
     @(51.5 mm, 69.33 mm): Arc on Edge.Cuts
     @(50.0 mm, 68.83 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(50.0 mm, 122.17 mm): Segment on Edge.Cuts
+    @(51.5 mm, 77.33 mm): Arc on Edge.Cuts
     @(50.0 mm, 77.83 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -207,7 +205,7 @@
     @(51.499999 mm, 77.329999 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(51.5 mm, 122.17 mm): Segment on Edge.Cuts
+    @(50.0 mm, 122.17 mm): Segment on Edge.Cuts
     @(50.0 mm, 122.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -227,7 +225,7 @@
     @(68.83 mm, 150.0 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(77.33 mm, 148.5 mm): Arc on Edge.Cuts
+    @(94.5 mm, 150.0 mm): Segment on Edge.Cuts
     @(77.83 mm, 150.0 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -243,7 +241,7 @@
     @(68.83 mm, 50.0 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
+    @(77.83 mm, 51.5 mm): Segment on Edge.Cuts
     @(77.83 mm, 50.0 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -251,7 +249,7 @@
     @(69.330001 mm, 51.499999 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(77.33 mm, 51.5 mm): Arc on Edge.Cuts
+    @(69.33 mm, 52.0 mm): Segment on Edge.Cuts
     @(77.33 mm, 51.5 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -299,15 +297,15 @@
     @(148.500001 mm, 69.330001 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(148.0 mm, 69.33 mm): Segment on Edge.Cuts
+    @(148.5 mm, 77.33 mm): Arc on Edge.Cuts
     @(148.5 mm, 77.33 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(150.0 mm, 77.83 mm): Segment on Edge.Cuts
+    @(150.0 mm, 122.17 mm): Segment on Edge.Cuts
     @(150.0 mm, 122.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(150.0 mm, 131.17 mm): Segment on Edge.Cuts
+    @(148.5 mm, 130.67 mm): Arc on Edge.Cuts
     @(150.0 mm, 131.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -327,7 +325,7 @@
     @(104.75 mm, 56.57 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(150.0 mm, 68.83 mm): Segment on Edge.Cuts
+    @(148.5 mm, 77.83 mm): Segment on Edge.Cuts
     @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
