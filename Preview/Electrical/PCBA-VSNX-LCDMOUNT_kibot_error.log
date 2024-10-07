@@ -646,7 +646,7 @@ WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.2286 mm, 0.6858 mm): Symbol J1003 [MountingHole_Pad]
+    @(0.2286 mm, 0.6858 mm): Symbol J1003 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
@@ -749,7 +749,7 @@ WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.2286 mm, 0.9398 mm): Symbol J1005 [MountingHole_Pad]
+    @(0.2286 mm, 0.9398 mm): Symbol J1005 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
@@ -1232,7 +1232,7 @@ WARNING:(W058) (pin_to_pin) Pins of type Passive and Unspecified are connected
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(2.032 mm, 1.5494 mm): Symbol J1009 [MountingHole_Pad]
+    @(2.032 mm, 1.5494 mm): Symbol J1009 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
     ; warning
@@ -2414,11 +2414,11 @@ WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.6068 mm, 0.9906 mm): Symbol J1006 [MountingHole_Pad]
+    @(3.6068 mm, 0.9906 mm): Symbol J1006 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.6068 mm, 0.7366 mm): Symbol J1004 [MountingHole_Pad]
+    @(3.6068 mm, 0.7366 mm): Symbol J1004 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning

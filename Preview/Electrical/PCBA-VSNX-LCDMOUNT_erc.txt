@@ -1,4 +1,4 @@
-ERC report (2024-10-07T14:38:12+0000, Encoding UTF8)
+ERC report (2024-10-07T15:25:10+0000, Encoding UTF8)
 
 ***** Sheet /
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
@@ -513,7 +513,7 @@ ERC report (2024-10-07T14:38:12+0000, Encoding UTF8)
     @(0.9144 mm, 2.667 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.2286 mm, 0.6858 mm): Symbol J1003 [MountingHole_Pad]
+    @(0.2286 mm, 0.6858 mm): Symbol J1003 [SMD_NUT]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; warning
     @(0.2286 mm, 0.7366 mm): Symbol #PWR01010 Hidden pin 1 [GND, Power input, Line]
@@ -595,7 +595,7 @@ ERC report (2024-10-07T14:38:12+0000, Encoding UTF8)
     @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.2286 mm, 0.9398 mm): Symbol J1005 [MountingHole_Pad]
+    @(0.2286 mm, 0.9398 mm): Symbol J1005 [SMD_NUT]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; warning
     @(0.2286 mm, 0.9906 mm): Symbol #PWR01022 Hidden pin 1 [GND, Power input, Line]
@@ -978,7 +978,7 @@ ERC report (2024-10-07T14:38:12+0000, Encoding UTF8)
     @(0.9144 mm, 2.667 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(2.032 mm, 1.5494 mm): Symbol J1009 [MountingHole_Pad]
+    @(2.032 mm, 1.5494 mm): Symbol J1009 [SMD_NUT]
 [pin_to_pin]: Pins of type Input and Unspecified are connected
     ; warning
     @(2.032 mm, 1.5748 mm): Symbol J1009 Pin 1 [1, Input, Line]
@@ -1919,10 +1919,10 @@ ERC report (2024-10-07T14:38:12+0000, Encoding UTF8)
     @(0.9144 mm, 2.667 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.6068 mm, 0.9906 mm): Symbol J1006 [MountingHole_Pad]
+    @(3.6068 mm, 0.9906 mm): Symbol J1006 [SMD_NUT]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.6068 mm, 0.7366 mm): Symbol J1004 [MountingHole_Pad]
+    @(3.6068 mm, 0.7366 mm): Symbol J1004 [SMD_NUT]
 [pin_to_pin]: Pins of type Power input and Unspecified are connected
     ; warning
     @(3.6068 mm, 0.7874 mm): Symbol #PWR01013 Hidden pin 1 [GND, Power input, Line]
