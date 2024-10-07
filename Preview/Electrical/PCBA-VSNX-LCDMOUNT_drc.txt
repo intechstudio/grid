@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-07T14:24:20+0000 **
+** Created on 2024-10-07T14:38:19+0000 **
 
 ** Found 308 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer

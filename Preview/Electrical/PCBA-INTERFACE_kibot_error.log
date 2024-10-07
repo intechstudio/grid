@@ -343,8 +343,6 @@ WARNING:(W143) For KiCad 8 use the `drc` preflight instead of `run_drc` (kibot.p
 ERROR:Found 0 DRC errors and 37 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:126)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
-ERROR:PCB ' (pcbnew_do - interposer.py:526) (kibot - kiplot.py:126)
-WARNING:(W058) This file is already opened (PCB 'PCBA-INTERFACE.kicad_pcb' is already open by 'suku' at 'suku-Precision-T3610'.) (pcbnew_do - interposer.py:533) (kibot - kiplot.py:129)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
