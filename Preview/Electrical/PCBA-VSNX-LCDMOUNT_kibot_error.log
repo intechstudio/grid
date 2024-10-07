@@ -18,11 +18,6 @@ WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connect
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
-    @(3.6068 mm, 0.7874 mm): Symbol #PWR01039 Hidden pin 1 [GND, Power input, Line]
-    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
-    ; warning
     @(3.2512 mm, 0.9398 mm): Symbol #PWR01024 Hidden pin 1 [GND, Power input, Line]
     @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
@@ -242,35 +237,25 @@ WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connect
     @(3.2512 mm, 0.9398 mm): Symbol #PWR01024 Hidden pin 1 [GND, Power input, Line]
     @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.7874 mm): Symbol #PWR01039 Hidden pin 1 [GND, Power input, Line]
+    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
     ; warning
     @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(1.4224 mm, 2.667 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.7874 mm): Symbol #PWR01039 Hidden pin 1 [GND, Power input, Line]
     @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(0.9144 mm, 2.667 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(1.4224 mm, 2.413 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
@@ -290,7 +275,7 @@ WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connect
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
     @(3.6068 mm, 0.7874 mm): Symbol #PWR01039 Hidden pin 1 [GND, Power input, Line]
-    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
@@ -309,21 +294,6 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
     @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
-    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
-    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
-    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
     @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
@@ -344,66 +314,96 @@ WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connect
 WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
     ; warning
     @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
+    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
+    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
+    @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(0.9144 mm, 2.667 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(1.4224 mm, 2.413 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(1.4224 mm, 2.667 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
+    @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(0.9144 mm, 2.667 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(1.4224 mm, 2.413 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 Hidden pin 1 [GND, Power input, Line]
+    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
+    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
+WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
+    ; warning
+    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
     @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
     @(3.6068 mm, 1.0414 mm): Symbol #PWR01040 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(0.9144 mm, 2.667 mm): Symbol SW1002 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(1.4224 mm, 2.413 mm): Symbol SW1003 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(1.4224 mm, 2.667 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(1.9304 mm, 2.667 mm): Symbol SW1006 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(2.4384 mm, 2.413 mm): Symbol SW1007 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(2.4384 mm, 2.667 mm): Symbol SW1008 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Power input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.7874 mm): Symbol #PWR01039 Hidden pin 1 [GND, Power input, Line]
-    @(0.9144 mm, 2.413 mm): Symbol SW1001 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 0.762 mm): Symbol H1007 Pin 1 [1, Input, Line]
-    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(1.4224 mm, 2.667 mm): Symbol SW1004 Pin 1 [1, Unspecified, Line]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
-WARNING:(W058) (pin_to_pin) Pins of type Input and Unspecified are connected
-    ; warning
-    @(3.6068 mm, 1.016 mm): Symbol H1008 Pin 1 [1, Input, Line]
-    @(1.9304 mm, 2.413 mm): Symbol SW1005 Pin 1 [1, Unspecified, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:129)
 WARNING:(W058) (pin_to_pin) Pins of type Power output and Unspecified are connected
     ; warning
@@ -2701,7 +2701,7 @@ WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `drc` preflight instead of `run_drc` (kibot.pre_run_drc - pre_run_drc.py:81)
-ERROR:Found 0 DRC errors and 219 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:126)
+ERROR:Found 0 DRC errors and 224 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:126)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)

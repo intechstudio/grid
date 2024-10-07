@@ -1,13 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2024-10-04T14:47:42+0000 **
+** Created on 2024-10-07T13:46:07+0000 **
 
-** Found 303 DRC violations **
-[via_dangling]: Via is not connected or connected on only one layer
-    ; warning
-    @(106.25 mm, 90.0 mm): Via [ESP_GPIO_16] on F.Cu - B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
+** Found 301 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -186,7 +180,7 @@
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(91.665 mm, 108.435 mm): Arc on Edge.Cuts
-    @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
+    @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(51.5 mm, 69.33 mm): Arc on Edge.Cuts
@@ -472,7 +466,7 @@
     @(126.035 mm, 109.5184 mm): Footprint R1016
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(99.0 mm, 78.8875 mm): Footprint C801
+    @(97.25 mm, 77.0 mm): Footprint C801
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(120.75 mm, 100.0 mm): Footprint C1018
@@ -556,7 +550,7 @@
     @(116.94978 mm, 52.484921 mm): Footprint D910
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(73.33 mm, 86.0 mm): Footprint R902
+    @(73.33 mm, 86.25 mm): Footprint R902
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(100.35 mm, 108.0 mm): Footprint C750
@@ -676,7 +670,7 @@
     @(105.824921 mm, 63.60978 mm): Footprint D906
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(126.67 mm, 86.63 mm): Footprint R1025
+    @(126.67 mm, 86.25 mm): Footprint R1025
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(115.0 mm, 98.5 mm): Footprint R1010
@@ -975,11 +969,7 @@
     ; warning
     @(73.33 mm, 56.33 mm): Reference 'J901'
 
-** Found 1 unconnected pads **
-[unconnected_items]: Missing connection between items
-    ; error
-    @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
-    @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
+** Found 0 unconnected pads **
 
 ** Found 0 Footprint errors **
 

@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-04T14:47:35+0000 **
+** Created on 2024-10-07T13:45:58+0000 **
 
-** Found 307 DRC violations **
+** Found 308 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(150.0 mm, 61.0 mm): Via [<no net>] on F.Cu - B.Cu
@@ -573,6 +573,21 @@
     ; warning
     @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
     @(237.505 mm, 53.72 mm): Rectangle on F.Silkscreen
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(100.0 mm, 135.0 mm): Footprint H1003
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(138.17 mm, 63.33 mm): Footprint H1007
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(61.83 mm, 83.33 mm): Footprint H1002
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(61.83 mm, 63.33 mm): Footprint H1001
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(138.17 mm, 83.33 mm): Footprint H1008
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 73.33 mm): Footprint U1001
@@ -746,9 +761,6 @@
     @(152.495 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(108.83 mm, 86.0 mm): Reference 'R1009'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(206.035 mm, 62.295 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -839,9 +851,6 @@
     @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(91.83 mm, 86.0 mm): Reference 'R1006'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(152.695 mm, 62.295 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -902,9 +911,6 @@
     @(232.505 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(90.33 mm, 86.0 mm): Reference 'R1005'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(179.365 mm, 62.295 mm): Segment on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -933,9 +939,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(179.165 mm, 67.495 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(107.33 mm, 86.0 mm): Reference 'R1007'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(232.705 mm, 62.295 mm): Segment on B.Silkscreen
