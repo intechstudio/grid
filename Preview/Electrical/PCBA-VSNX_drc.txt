@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2024-10-07T13:46:07+0000 **
+** Created on 2024-10-07T14:24:25+0000 **
 
-** Found 301 DRC violations **
+** Found 297 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -883,9 +883,6 @@
     @(104.75 mm, 56.57 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(126.67 mm, 90.33 mm): Reference 'J908'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(122.67 mm, 83.33 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -901,9 +898,6 @@
     @(61.445 mm, 109.186 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(73.33 mm, 90.33 mm): Reference 'J907'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(69.33 mm, 83.33 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -914,9 +908,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(51.403215 mm, 62.498514 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(126.67 mm, 56.33 mm): Reference 'J902'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(63.495453 mm, 50.938335 mm): Segment on F.Silkscreen
@@ -965,9 +956,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 109.186 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(73.33 mm, 56.33 mm): Reference 'J901'
 
 ** Found 0 unconnected pads **
 
