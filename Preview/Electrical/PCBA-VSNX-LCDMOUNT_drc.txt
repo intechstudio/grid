@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-10-21T15:04:39+0000 **
+** Created on 2024-10-22T15:16:36+0000 **
 
-** Found 316 DRC violations **
+** Found 320 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(150.0 mm, 61.0 mm): Via [<no net>] on F.Cu - B.Cu
@@ -389,18 +389,6 @@
 [isolated_copper]: Isolated copper fill
     ; warning
     @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(113.477742 mm, 54.489503 mm): Circle on Edge.Cuts
@@ -451,7 +439,7 @@
     @(79.665 mm, 119.585 mm): Dimension '14.0000 mm' on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(50.0 mm, 77.83 mm): Segment on Edge.Cuts
+    @(84.83 mm, 55.53 mm): Arc on Edge.Cuts
     @(50.93 mm, 56.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -463,7 +451,7 @@
     @(147.07 mm, 88.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(118.17 mm, 91.13 mm): Arc on Edge.Cuts
+    @(146.5 mm, 77.83 mm): Segment on Edge.Cuts
     @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -475,11 +463,15 @@
     @(157.495 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(220.67 mm, 51.5 mm): Segment on Edge.Cuts
+    @(100.75 mm, 81.75 mm): Segment on Edge.Cuts
+    @(98.25 mm, 83.33 mm): Circle on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(206.08 mm, 60.392 mm): Segment on Edge.Cuts
     @(205.835 mm, 52.495 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(205.08 mm, 67.472 mm): Arc on Edge.Cuts
+    @(205.08 mm, 60.392 mm): Arc on Edge.Cuts
     @(205.835 mm, 67.495 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -493,6 +485,10 @@
     ; warning
     @(209.525 mm, 56.82 mm): Segment on Edge.Cuts
     @(210.835 mm, 53.72 mm): Rectangle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(105.824921 mm, 63.60978 mm): Circle on Edge.Cuts
+    @(101.75 mm, 63.33 mm): Circle on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
     @(182.855 mm, 83.49 mm): Segment on Edge.Cuts
@@ -511,27 +507,27 @@
     @(184.165 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(122.67 mm, 83.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(130.67 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 84.76 mm): Segment on Edge.Cuts
+    @(66.345 mm, 83.49 mm): Segment on Edge.Cuts
     @(69.33 mm, 83.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 84.76 mm): Segment on Edge.Cuts
+    @(66.345 mm, 83.49 mm): Segment on Edge.Cuts
     @(77.33 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(217.145 mm, 83.49 mm): Segment on Edge.Cuts
+    @(209.525 mm, 83.49 mm): Segment on Edge.Cuts
     @(205.835 mm, 79.165 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(205.08 mm, 94.142 mm): Arc on Edge.Cuts
+    @(205.08 mm, 87.062 mm): Arc on Edge.Cuts
     @(205.835 mm, 94.165 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -563,7 +559,7 @@
     @(130.67 mm, 63.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(236.195 mm, 83.49 mm): Segment on Edge.Cuts
+    @(243.815 mm, 83.49 mm): Segment on Edge.Cuts
     @(232.505 mm, 79.165 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -571,11 +567,11 @@
     @(237.505 mm, 80.39 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
+    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
     @(69.33 mm, 57.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
+    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
     @(77.33 mm, 63.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -595,7 +591,7 @@
     @(184.165 mm, 53.72 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(243.815 mm, 56.82 mm): Segment on Edge.Cuts
+    @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
     @(232.505 mm, 52.495 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -605,6 +601,12 @@
     ; warning
     @(236.195 mm, 56.82 mm): Segment on Edge.Cuts
     @(237.505 mm, 53.72 mm): Rectangle on F.Silkscreen
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(98.25 mm, 83.33 mm): Footprint J1015
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(101.75 mm, 63.33 mm): Footprint J1016
 [footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
     ; warning
     @(100.0 mm, 135.0 mm): Footprint J1005
@@ -652,10 +654,16 @@
     @(159.995 mm, 86.665 mm): Footprint SW1005
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(98.25 mm, 83.33 mm): Footprint J1015
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(110.0 mm, 86.0 mm): Footprint R1009
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(213.335 mm, 59.995 mm): Footprint SW1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(101.75 mm, 63.33 mm): Footprint J1016
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(186.665 mm, 86.665 mm): Footprint SW1006
@@ -757,10 +765,16 @@
     @(61.83 mm, 83.33 mm): Circle on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(50.93 mm, 56.03 mm): Rectangle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(138.17 mm, 63.33 mm): Circle on B.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(138.17 mm, 83.33 mm): Circle on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(152.695 mm, 88.965 mm): Segment on B.Silkscreen
