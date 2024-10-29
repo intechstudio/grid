@@ -1,7 +1,7 @@
 ** Drc report for PCBA-PO16_BU16.kicad_pcb **
-** Created on 2024-10-29T14:01:49+0000 **
+** Created on 2024-10-29T14:24:00+0000 **
 
-** Found 391 DRC violations **
+** Found 375 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(104.25 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -930,9 +930,6 @@
     @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(86.625 mm, 52.995 mm): Reference 'UI1005'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(81.915 mm, 55.195 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -942,9 +939,6 @@
     @(86.665 mm, 59.995 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(113.295 mm, 52.995 mm): Reference 'UI1009'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(108.585 mm, 55.195 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -952,9 +946,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(113.335 mm, 59.995 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(139.965 mm, 52.995 mm): Reference 'UI1013'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(135.255 mm, 55.195 mm): Segment on F.Silkscreen
@@ -990,9 +981,6 @@
     @(65.995 mm, 135.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(59.955 mm, 52.995 mm): Reference 'UI1001'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(55.245 mm, 55.195 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1020,9 +1008,6 @@
     @(146.005 mm, 82.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(86.625 mm, 106.335 mm): Reference 'UI1007'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(81.915 mm, 108.535 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1030,9 +1015,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(86.665 mm, 113.335 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(139.965 mm, 106.335 mm): Reference 'UI1015'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(135.255 mm, 108.535 mm): Segment on F.Silkscreen
@@ -1044,9 +1026,6 @@
     @(140.005 mm, 113.335 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(86.625 mm, 79.665 mm): Reference 'UI1006'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(81.915 mm, 81.865 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1054,9 +1033,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(86.665 mm, 86.665 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(59.955 mm, 106.335 mm): Reference 'UI1003'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(55.245 mm, 108.535 mm): Segment on F.Silkscreen
@@ -1086,9 +1062,6 @@
     @(65.995 mm, 82.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(139.965 mm, 79.665 mm): Reference 'UI1014'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(135.255 mm, 81.865 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1110,9 +1083,6 @@
     @(65.995 mm, 108.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(86.625 mm, 133.005 mm): Reference 'UI1008'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(81.915 mm, 135.205 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1129,9 +1099,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(119.335 mm, 82.165 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(59.955 mm, 79.665 mm): Reference 'UI1002'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(55.245 mm, 81.865 mm): Segment on F.Silkscreen
@@ -1155,9 +1122,6 @@
     @(119.335 mm, 108.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(113.295 mm, 133.005 mm): Reference 'UI1012'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(108.585 mm, 135.205 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1165,9 +1129,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(113.335 mm, 140.005 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(113.295 mm, 79.665 mm): Reference 'UI1010'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(108.585 mm, 81.865 mm): Segment on F.Silkscreen
@@ -1185,9 +1146,6 @@
     @(92.665 mm, 82.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(139.965 mm, 133.005 mm): Reference 'UI1016'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
     @(135.255 mm, 135.205 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1195,9 +1153,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(140.005 mm, 140.005 mm): Circle on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(113.295 mm, 106.335 mm): Reference 'UI1011'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(108.585 mm, 108.535 mm): Segment on F.Silkscreen
@@ -1213,9 +1168,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(59.955 mm, 133.005 mm): Reference 'UI1004'
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(55.245 mm, 135.205 mm): Segment on F.Silkscreen
