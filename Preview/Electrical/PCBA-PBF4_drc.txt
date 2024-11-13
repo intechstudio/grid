@@ -1,7 +1,7 @@
 ** Drc report for PCBA-PBF4.kicad_pcb **
-** Created on 2024-10-29T14:23:56+0000 **
+** Created on 2024-11-13T12:49:37+0000 **
 
-** Found 276 DRC violations **
+** Found 277 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -604,6 +604,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(98.75 mm, 105.25 mm): Footprint C752
+[lib_footprint_mismatch]: Footprint 'U.FL_Molex_MCRF_73412-0110_Vertical' does not match copy in library 'Connector_Coaxial'.
+    ; warning
+    @(105.0 mm, 107.25 mm): Footprint J701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(98.75 mm, 113.25 mm): Footprint C758

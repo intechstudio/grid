@@ -1,10 +1,13 @@
-ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
+ERC report (2024-11-13T12:49:30+0000, Encoding UTF8)
 
 ***** Sheet /
 
 ***** Sheet /UI_ENC/ENCODER_8/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -18,9 +21,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -42,73 +57,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_11/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -122,9 +77,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -146,69 +113,6 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_LED/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -217,78 +121,60 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.508 mm, 0.381 mm): Symbol #PWR0930 [+5V]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.762 mm, 0.381 mm): Symbol #PWR0944 [+5V]
+    @(0.762 mm, 0.508 mm): Symbol D905 [UI_WS2812C-2020]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.8382 mm, 0.4064 mm): Symbol C905 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.508 mm, 0.508 mm): Symbol D901 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.635 mm, 0.4318 mm): Symbol #PWR0938 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(0.762 mm, 0.381 mm): Symbol #PWR0944 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0922 mm, 0.4064 mm): Symbol C909 [CAP]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.016 mm, 0.381 mm): Symbol #PWR0956 [+5V]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(1.27 mm, 0.381 mm): Symbol #PWR0968 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.3462 mm, 0.4064 mm): Symbol C913 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.397 mm, 0.4318 mm): Symbol #PWR0976 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR0952 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.016 mm, 0.508 mm): Symbol D909 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.016 mm, 0.6096 mm): Symbol #PWR0957 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D913'.
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.27 mm, 0.508 mm): Symbol D913 [UI_WS2812C-2020]
+    @(1.143 mm, 0.4318 mm): Symbol #PWR0964 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(1.27 mm, 0.381 mm): Symbol #PWR0968 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.27 mm, 0.508 mm): Symbol D913 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.27 mm, 0.6096 mm): Symbol #PWR0969 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.8382 mm, 0.4064 mm): Symbol C905 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR0952 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D909'.
-    ; warning
-    @(1.016 mm, 0.508 mm): Symbol D909 [UI_WS2812C-2020]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.143 mm, 0.4318 mm): Symbol #PWR0964 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D902'.
-    ; warning
-    @(0.508 mm, 0.889 mm): Symbol D902 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D906'.
-    ; warning
-    @(0.762 mm, 0.889 mm): Symbol D906 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D901'.
-    ; warning
-    @(0.508 mm, 0.508 mm): Symbol D901 [UI_WS2812C-2020]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 0.508 mm): Symbol D901 [UI_WS2812C-2020]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 0.6096 mm): Symbol #PWR0931 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D905'.
-    ; warning
-    @(0.762 mm, 0.508 mm): Symbol D905 [UI_WS2812C-2020]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.762 mm, 0.508 mm): Symbol D905 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.762 mm, 0.6096 mm): Symbol #PWR0945 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 0.6096 mm): Symbol #PWR0931 [GND]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.762 mm, 1.1684 mm): Symbol #PWR0948 [+5V]
@@ -304,7 +190,7 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.762 mm, 1.2954 mm): Symbol D907 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D903'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.508 mm, 1.2954 mm): Symbol D903 [UI_WS2812C-2020]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -312,67 +198,52 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
     @(0.5842 mm, 1.1938 mm): Symbol C903 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.508 mm, 1.2954 mm): Symbol D903 [UI_WS2812C-2020]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
     @(0.8382 mm, 1.1938 mm): Symbol C907 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 1.5494 mm): Symbol C904 [CAP]
-[simulation_model_issue]: No simulation model definition found for symbol 'D904'.
-    ; warning
-    @(0.508 mm, 1.651 mm): Symbol D904 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.635 mm, 1.5748 mm): Symbol #PWR0941 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 1.397 mm): Symbol #PWR0935 [GND]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 1.524 mm): Symbol #PWR0936 [+5V]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.508 mm, 1.7526 mm): Symbol #PWR0937 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.508 mm, 1.651 mm): Symbol D904 [UI_WS2812C-2020]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 1.397 mm): Symbol #PWR0935 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 1.524 mm): Symbol #PWR0936 [+5V]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0922 mm, 1.1938 mm): Symbol C911 [CAP]
-[simulation_model_issue]: No simulation model definition found for symbol 'D911'.
-    ; warning
-    @(1.016 mm, 1.2954 mm): Symbol D911 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.016 mm, 1.397 mm): Symbol #PWR0961 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.016 mm, 1.2954 mm): Symbol D911 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D907'.
-    ; warning
-    @(0.762 mm, 1.2954 mm): Symbol D907 [UI_WS2812C-2020]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 1.2192 mm): Symbol #PWR0954 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D915'.
-    ; warning
-    @(1.27 mm, 1.2954 mm): Symbol D915 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.143 mm, 1.2192 mm): Symbol #PWR0966 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.27 mm, 1.2954 mm): Symbol D915 [UI_WS2812C-2020]
+    @(1.016 mm, 1.2954 mm): Symbol D911 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.27 mm, 1.397 mm): Symbol #PWR0973 [GND]
+    @(0.889 mm, 1.2192 mm): Symbol #PWR0954 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.0922 mm, 1.5494 mm): Symbol C912 [CAP]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(1.016 mm, 1.524 mm): Symbol #PWR0962 [+5V]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.8382 mm, 1.5494 mm): Symbol C908 [CAP]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.27 mm, 0.762 mm): Symbol #PWR0970 [+5V]
-[simulation_model_issue]: No simulation model definition found for symbol 'D914'.
-    ; warning
-    @(1.27 mm, 0.889 mm): Symbol D914 [UI_WS2812C-2020]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.27 mm, 0.889 mm): Symbol D914 [UI_WS2812C-2020]
@@ -391,60 +262,42 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0922 mm, 0.7874 mm): Symbol C910 [CAP]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(1.016 mm, 0.762 mm): Symbol #PWR0958 [+5V]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.016 mm, 0.9906 mm): Symbol #PWR0959 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.3462 mm, 1.5494 mm): Symbol C916 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.397 mm, 1.5748 mm): Symbol #PWR0979 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.27 mm, 1.2954 mm): Symbol D915 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.397 mm, 1.2192 mm): Symbol #PWR0978 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D912'.
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.016 mm, 1.651 mm): Symbol D912 [UI_WS2812C-2020]
+    @(1.27 mm, 1.397 mm): Symbol #PWR0973 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.016 mm, 1.651 mm): Symbol D912 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.143 mm, 1.5748 mm): Symbol #PWR0967 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.0922 mm, 1.5494 mm): Symbol C912 [CAP]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(1.016 mm, 1.524 mm): Symbol #PWR0962 [+5V]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.762 mm, 1.524 mm): Symbol #PWR0950 [+5V]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.8382 mm, 1.5494 mm): Symbol C908 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.889 mm, 1.5748 mm): Symbol #PWR0955 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.016 mm, 1.7526 mm): Symbol #PWR0963 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'D908'.
-    ; warning
-    @(0.762 mm, 1.651 mm): Symbol D908 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.762 mm, 1.7526 mm): Symbol #PWR0951 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.762 mm, 1.651 mm): Symbol D908 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D916'.
-    ; warning
-    @(1.27 mm, 1.651 mm): Symbol D916 [UI_WS2812C-2020]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.27 mm, 1.7526 mm): Symbol #PWR0975 [GND]
@@ -454,9 +307,6 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.27 mm, 1.651 mm): Symbol D916 [UI_WS2812C-2020]
-[simulation_model_issue]: No simulation model definition found for symbol 'D910'.
-    ; warning
-    @(1.016 mm, 0.889 mm): Symbol D910 [UI_WS2812C-2020]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.016 mm, 0.889 mm): Symbol D910 [UI_WS2812C-2020]
@@ -490,6 +340,9 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.508 mm, 0.762 mm): Symbol #PWR0932 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.016 mm, 0.9906 mm): Symbol #PWR0959 [GND]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.016 mm, 1.1684 mm): Symbol #PWR0960 [+5V]
@@ -499,10 +352,16 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.27 mm, 1.1684 mm): Symbol #PWR0972 [+5V]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(1.016 mm, 0.762 mm): Symbol #PWR0958 [+5V]
 
 ***** Sheet /UI_ENC/ENCODER_5/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -516,9 +375,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -540,73 +411,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_12/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -620,9 +431,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -644,74 +467,8 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /MCU/
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.4732 mm, 1.1684 mm): Symbol #PWR0817 [GND]
@@ -733,9 +490,6 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.2954 mm, 0.7112 mm): Symbol C742 [CAP]
-[simulation_model_issue]: No simulation model definition found for symbol 'J701'.
-    ; warning
-    @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
 [lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
     ; warning
     @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
@@ -784,138 +538,87 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.4732 mm, 0.4826 mm): Symbol #PWR0816 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'LOGO701'.
-    ; warning
-    @(3.9243 mm, 2.3749 mm): Symbol LOGO701 [OSHWA]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.9243 mm, 2.3749 mm): Symbol LOGO701 [OSHWA]
-[simulation_model_issue]: No simulation model definition found for symbol 'J799'.
-    ; warning
-    @(2.7432 mm, 2.286 mm): Symbol J799 [Conn_01x02]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.4036 mm, 2.3114 mm): Symbol #PWR0833 [VDD_SPI]
+    @(1.8542 mm, 0.4064 mm): Symbol C751 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.8194 mm, 2.3114 mm): Symbol #PWR01058 [GND]
+    @(1.8542 mm, 0.4572 mm): Symbol #PWR0823 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.4036 mm, 2.3622 mm): Symbol C755 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.5052 mm, 2.3114 mm): Symbol #PWR0837 [VDD_SPI]
-[simulation_model_issue]: No simulation model definition found for symbol 'U705'.
-    ; warning
-    @(3.6576 mm, 2.159 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.6576 mm, 2.286 mm): Symbol #PWR0843 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.5052 mm, 2.413 mm): Symbol #PWR0838 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.4036 mm, 2.413 mm): Symbol #PWR0834 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.5052 mm, 2.3622 mm): Symbol C756 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.4544 mm, 0.9144 mm): Symbol R701 [RES]
+    @(1.9304 mm, 0.3302 mm): Symbol #PWR0824 [VDD_SPI]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(3.556 mm, 1.2192 mm): Symbol #PWR0835 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.556 mm, 1.27 mm): Symbol R735 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'SW701'.
-    ; warning
-    @(3.7084 mm, 0.9652 mm): Symbol SW701 [SW_SPST]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.6068 mm, 0.9652 mm): Symbol R736 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.556 mm, 0.9144 mm): Symbol C757 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.7846 mm, 1.016 mm): Symbol #PWR0844 [GND]
+    @(1.8542 mm, 0.3302 mm): Symbol #PWR0822 [+3V3]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(3.556 mm, 0.8636 mm): Symbol #PWR0840 [+3V3]
+    @(2.0066 mm, 0.3302 mm): Symbol #PWR0826 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.7366 mm): Global Label 'ESP_GPIO_5'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.0668 mm): Global Label 'ESP_GPIO_18'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.016 mm): Global Label 'ESP_GPIO_16'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.7112 mm): Global Label 'ESP_GPIO_4'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.635 mm): Global Label 'ESP_GPIO_1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.6604 mm): Global Label 'ESP_GPIO_2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.6858 mm): Global Label 'ESP_GPIO_3'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.0066 mm, 0.4064 mm): Symbol C752 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.0066 mm, 0.4572 mm): Symbol #PWR0827 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(3.4544 mm, 0.8636 mm): Symbol #PWR01105 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.4798 mm, 0.5334 mm): Symbol R733 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'J702'.
-    ; warning
-    @(3.6068 mm, 0.508 mm): Symbol J702 [Conn_02x05_Odd_Even]
+    @(2.3368 mm, 0.3556 mm): Symbol #PWR0830 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(3.5306 mm, 0.635 mm): Symbol #PWR0839 [GND]
+    @(2.2098 mm, 0.4826 mm): Symbol #PWR0828 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(3.6068 mm, 1.3716 mm): Symbol C758 [CAP]
+    @(2.2098 mm, 0.4318 mm): Symbol C753 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.286 mm, 0.4318 mm): Symbol C754 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(3.6068 mm, 1.4224 mm): Symbol #PWR0841 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'SW703'.
-    ; warning
-    @(3.7084 mm, 1.6256 mm): Symbol SW703 [SW_SPST]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.7846 mm, 1.6764 mm): Symbol #PWR0846 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'SW702'.
-    ; warning
-    @(3.7084 mm, 1.3208 mm): Symbol SW702 [SW_SPST]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.7846 mm, 1.3716 mm): Symbol #PWR0845 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.5052 mm, 2.0828 mm): Symbol R734 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.5052 mm, 2.032 mm): Symbol #PWR0836 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.6576 mm, 2.032 mm): Symbol #PWR0842 [VDD_SPI]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.6576 mm, 2.159 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP708'.
-    ; warning
-    @(2.6924 mm, 1.3208 mm): Symbol TP708 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP709'.
-    ; warning
-    @(2.6924 mm, 1.3462 mm): Symbol TP709 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP707'.
-    ; warning
-    @(2.6924 mm, 1.2954 mm): Symbol TP707 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP706'.
-    ; warning
-    @(2.6924 mm, 1.27 mm): Symbol TP706 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP710'.
-    ; warning
-    @(2.6924 mm, 1.3716 mm): Symbol TP710 [TestPoint]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.667 mm, 1.397 mm): Symbol #PWR0831 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP703'.
-    ; warning
-    @(0.9398 mm, 2.2352 mm): Symbol TP703 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP701'.
-    ; warning
-    @(0.9398 mm, 2.1844 mm): Symbol TP701 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP702'.
-    ; warning
-    @(0.9398 mm, 2.2098 mm): Symbol TP702 [TestPoint]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP704'.
-    ; warning
-    @(0.9398 mm, 2.2606 mm): Symbol TP704 [TestPoint]
+    @(2.286 mm, 0.4826 mm): Symbol #PWR0829 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.1176 mm, 2.3114 mm): Symbol #PWR0807 [GND]
@@ -934,21 +637,15 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.889 mm, 1.778 mm): Symbol #PWR0802 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.635 mm, 2.2606 mm): Symbol U703 [RP2040]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.635 mm, 2.7432 mm): Symbol #PWR0799 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.3556 mm, 2.667 mm): Symbol #PWR0795 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U703'.
-    ; warning
-    @(0.635 mm, 2.2606 mm): Symbol U703 [RP2040]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.635 mm, 2.2606 mm): Symbol U703 [RP2040]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP705'.
-    ; warning
-    @(1.143 mm, 2.286 mm): Symbol TP705 [TestPoint]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.2794 mm, 1.8288 mm): Symbol R729 [RES]
@@ -1018,98 +715,92 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.27 mm, 1.7272 mm): Symbol C741 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.6068 mm, 1.4224 mm): Symbol #PWR0841 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.9304 mm, 0.3302 mm): Symbol #PWR0824 [VDD_SPI]
+    @(3.6068 mm, 1.3716 mm): Symbol C758 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.7846 mm, 1.6764 mm): Symbol #PWR0846 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.5052 mm, 2.0828 mm): Symbol R734 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.6576 mm, 2.159 mm): Symbol U705 [U_FLASH_W25Q16JVSSIQ]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.5052 mm, 2.032 mm): Symbol #PWR0836 [VDD_SPI]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.6576 mm, 2.032 mm): Symbol #PWR0842 [VDD_SPI]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.7846 mm, 1.3716 mm): Symbol #PWR0845 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.4544 mm, 0.9144 mm): Symbol R701 [RES]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(1.8542 mm, 0.3302 mm): Symbol #PWR0822 [+3V3]
-[simulation_model_issue]: No simulation model definition found for symbol 'Y701'.
-    ; warning
-    @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
+    @(3.556 mm, 1.2192 mm): Symbol #PWR0835 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.8542 mm, 0.4064 mm): Symbol C751 [CAP]
+    @(3.556 mm, 1.27 mm): Symbol R735 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.8542 mm, 0.4572 mm): Symbol #PWR0823 [GND]
+    @(2.667 mm, 1.397 mm): Symbol #PWR0831 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(2.0066 mm, 0.4064 mm): Symbol C752 [CAP]
+    @(3.6068 mm, 0.9652 mm): Symbol R736 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.0066 mm, 0.4572 mm): Symbol #PWR0827 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U704'.
-    ; warning
-    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
+    @(3.7846 mm, 1.016 mm): Symbol #PWR0844 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.7366 mm): Global Label 'ESP_GPIO_5'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.0668 mm): Global Label 'ESP_GPIO_18'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.016 mm): Global Label 'ESP_GPIO_16'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.7112 mm): Global Label 'ESP_GPIO_4'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.635 mm): Global Label 'ESP_GPIO_1'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.6604 mm): Global Label 'ESP_GPIO_2'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.6858 mm): Global Label 'ESP_GPIO_3'
+    @(3.556 mm, 0.9144 mm): Symbol C757 [CAP]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(2.0066 mm, 0.3302 mm): Symbol #PWR0826 [+3V3]
+    @(3.556 mm, 0.8636 mm): Symbol #PWR0840 [+3V3]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(2.3368 mm, 0.3556 mm): Symbol #PWR0830 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.2098 mm, 0.4826 mm): Symbol #PWR0828 [GND]
+    @(3.4544 mm, 0.8636 mm): Symbol #PWR01105 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(2.2098 mm, 0.4318 mm): Symbol C753 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.286 mm, 0.4318 mm): Symbol C754 [CAP]
+    @(3.4798 mm, 0.5334 mm): Symbol R733 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.286 mm, 0.4826 mm): Symbol #PWR0829 [GND]
+    @(3.5306 mm, 0.635 mm): Symbol #PWR0839 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.6576 mm, 2.286 mm): Symbol #PWR0843 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.9243 mm, 2.3749 mm): Symbol LOGO701 [OSHWA]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.8194 mm, 2.3114 mm): Symbol #PWR01058 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.4036 mm, 2.3114 mm): Symbol #PWR0833 [VDD_SPI]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.5052 mm, 2.3114 mm): Symbol #PWR0837 [VDD_SPI]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.5052 mm, 2.413 mm): Symbol #PWR0838 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.4036 mm, 2.413 mm): Symbol #PWR0834 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.4036 mm, 2.3622 mm): Symbol C755 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.5052 mm, 2.3622 mm): Symbol C756 [CAP]
 
 ***** Sheet /MCU/sheet5D85C9EA/
-[simulation_model_issue]: No simulation model definition found for symbol 'J501'.
-    ; warning
-    @(0.635 mm, 0.4826 mm): Symbol J501 [Conn_01x04]
-[simulation_model_issue]: No simulation model definition found for symbol 'J502'.
-    ; warning
-    @(0.8636 mm, 0.4826 mm): Symbol J502 [Conn_01x04]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.381 mm, 0.7366 mm): Symbol #PWR0507 [GND]
@@ -1122,18 +813,12 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.5588 mm, 0.381 mm): Symbol #PWR0501 [+5V]
-[simulation_model_issue]: No simulation model definition found for symbol 'J504'.
-    ; warning
-    @(0.4826 mm, 0.6604 mm): Symbol J504 [Conn_01x04]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.381 mm, 0.5588 mm): Symbol #PWR0505 [+5V]
-[simulation_model_issue]: No simulation model definition found for symbol 'M501'.
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
-    @(1.778 mm, 0.635 mm): Symbol M501 [Conn_01x08]
-[simulation_model_issue]: No simulation model definition found for symbol 'J506'.
-    ; warning
-    @(0.4826 mm, 0.889 mm): Symbol J506 [Conn_01x04]
+    @(1.143 mm, 0.5588 mm): Symbol #PWR0506 [+5V]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.381 mm, 0.7874 mm): Symbol #PWR0509 [GND]
@@ -1143,74 +828,53 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.7366 mm, 1.143 mm): Symbol #PWR0514 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.7874 mm, 1.143 mm): Symbol #PWR0515 [GND]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.381 mm, 0.9652 mm): Symbol #PWR0511 [+5V]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(0.9652 mm, 1.143 mm): Symbol #PWR0516 [+5V]
-[simulation_model_issue]: No simulation model definition found for symbol 'J507'.
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.6604 mm, 1.0414 mm): Symbol J507 [Conn_01x04]
-[simulation_model_issue]: No simulation model definition found for symbol 'J508'.
+    @(0.7874 mm, 1.143 mm): Symbol #PWR0515 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
-    @(0.889 mm, 1.0414 mm): Symbol J508 [Conn_01x04]
-[simulation_model_issue]: No simulation model definition found for symbol 'J505'.
-    ; warning
-    @(1.0414 mm, 0.8636 mm): Symbol J505 [Conn_01x04]
+    @(0.9652 mm, 0.381 mm): Symbol #PWR0504 [+5V]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.143 mm, 0.9652 mm): Symbol #PWR0512 [+5V]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(1.143 mm, 0.5588 mm): Symbol #PWR0506 [+5V]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.143 mm, 0.7874 mm): Symbol #PWR0510 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.143 mm, 0.7366 mm): Symbol #PWR0508 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'J503'.
-    ; warning
-    @(1.0414 mm, 0.635 mm): Symbol J503 [Conn_01x04]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.381 mm): Symbol #PWR0504 [+5V]
 
 ***** Sheet /MCU/Sheet60F06FE1/
-[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(2.1336 mm, 0.6858 mm): Symbol #FLG0601 [PWR_FLAG]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP605'.
-    ; warning
-    @(2.5908 mm, 0.762 mm): Symbol TP605 [TestPoint_Alt]
-[simulation_model_issue]: No simulation model definition found for symbol 'U602'.
-    ; warning
-    @(2.3622 mm, 0.762 mm): Symbol U602 [U_REGULATOR_SOT23-5]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.4892 mm, 0.8382 mm): Symbol #PWR0610 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.4892 mm, 0.7874 mm): Symbol C602 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.3622 mm, 0.8636 mm): Symbol #PWR0611 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.3622 mm, 0.762 mm): Symbol U602 [U_REGULATOR_SOT23-5]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.6162 mm, 0.7112 mm): Symbol #PWR0608 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.4892 mm, 0.8382 mm): Symbol #PWR0610 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.3622 mm, 0.8636 mm): Symbol #PWR0611 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.1844 mm, 0.7874 mm): Symbol C601 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(2.1844 mm, 0.8382 mm): Symbol #PWR0609 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(2.6162 mm, 0.7112 mm): Symbol #PWR0608 [+3V3]
+    @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.016 mm, 0.9652 mm): Symbol R602 [RES]
@@ -1223,12 +887,6 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.9398 mm, 1.016 mm): Symbol #PWR0612 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'J601'.
-    ; warning
-    @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
 [lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning
     @(0.6604 mm, 1.1176 mm): Symbol #FLG0603 [PWR_FLAG]
@@ -1257,51 +915,36 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
     ; warning
     @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
     @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP602'.
-    ; warning
-    @(1.4986 mm, 0.3048 mm): Symbol TP602 [TestPoint_Alt]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; warning
     @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 [VBUS]
-[simulation_model_issue]: No simulation model definition found for symbol 'U601'.
-    ; warning
-    @(0.9652 mm, 0.4064 mm): Symbol U601 [U_ESD_4ch]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9652 mm, 0.4064 mm): Symbol U601 [U_ESD_4ch]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP601'.
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; warning
-    @(1.397 mm, 0.3048 mm): Symbol TP601 [TestPoint_Alt]
+    @(0.8382 mm, 0.3556 mm): Symbol #PWR0601 [VBUS]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.397 mm, 0.4064 mm): Symbol #PWR0602 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.0668 mm, 0.4826 mm): Symbol #PWR0604 [GND]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning
-    @(0.8382 mm, 0.3556 mm): Symbol #PWR0601 [VBUS]
+    @(2.1336 mm, 0.6858 mm): Symbol #FLG0601 [PWR_FLAG]
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
     ; warning
     @(1.905 mm, 0.7112 mm): Symbol #PWR0607 [+5V]
 [lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
     ; warning
     @(1.8542 mm, 0.7112 mm): Symbol #PWR0606 [VBUS]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP604'.
-    ; warning
-    @(1.7018 mm, 0.3048 mm): Symbol TP604 [TestPoint_Alt]
-[simulation_model_issue]: No simulation model definition found for symbol 'TP603'.
-    ; warning
-    @(1.6002 mm, 0.3048 mm): Symbol TP603 [TestPoint_Alt]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.0066 mm, 0.7366 mm): Symbol L601 [FERRIT]
 
 ***** Sheet /HWCFG/
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.4572 mm, 0.7366 mm): Symbol #PWR0879 [+3V3]
-[simulation_model_issue]: No simulation model definition found for symbol 'JP801'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.4572 mm, 0.7874 mm): Symbol JP801 [JP_SolderJumper_2_Open]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
@@ -1310,15 +953,18 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.4572 mm, 0.889 mm): Symbol R801 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.4572 mm, 0.7874 mm): Symbol JP801 [JP_SolderJumper_2_Open]
+    @(0.4572 mm, 0.7366 mm): Symbol #PWR0879 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0414 mm, 0.8636 mm): Symbol U801 [74HC165]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(1.0414 mm, 0.635 mm): Symbol #PWR0881 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.2192 mm, 0.8636 mm): Symbol #PWR0942 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.0414 mm, 1.143 mm): Symbol #PWR0882 [GND]
@@ -1336,16 +982,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.2192 mm, 0.9398 mm): Symbol C801 [CAP]
-[simulation_model_issue]: No simulation model definition found for symbol 'U801'.
-    ; warning
-    @(1.0414 mm, 0.8636 mm): Symbol U801 [74HC165]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.2192 mm, 0.8636 mm): Symbol #PWR0942 [+3V3]
 
 ***** Sheet /UI_ENC/ENCODER_0/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1359,9 +1002,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -1383,73 +1038,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_6/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1463,9 +1058,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -1487,81 +1094,18 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(-0.6604 mm, 1.2192 mm): Symbol #PWR01050 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(-0.508 mm, 0.762 mm): Symbol #PWR01075 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(-0.508 mm, 0.4826 mm): Symbol #PWR01054 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(-0.3302 mm, 0.4826 mm): Symbol #PWR01062 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(-0.508 mm, 0.2286 mm): Symbol U1001 [74HC165]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
@@ -1569,17 +1113,20 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
     @(-0.3302 mm, 0.381 mm): Symbol #PWR01053 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(-0.6604 mm, 0.4318 mm): Symbol #PWR01049 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    @(-0.3302 mm, 0.4826 mm): Symbol #PWR01062 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(-0.508 mm, 0.2286 mm): Symbol U1001 [74HC165]
+    @(-0.6604 mm, 0.4318 mm): Symbol #PWR01049 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(-0.3302 mm, 0.4318 mm): Symbol C1019 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.3556 mm, 0.4572 mm): Symbol #PWR01069 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1005'.
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 0.0 mm): Symbol #PWR01061 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.508 mm, 0.2286 mm): Symbol U1005 [74HC165]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -1603,21 +1150,12 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.508 mm, 0.4826 mm): Symbol #PWR01074 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 0.0 mm): Symbol #PWR01061 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 0.2286 mm): Symbol U1005 [74HC165]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.6858 mm, 0.4826 mm): Symbol #PWR01082 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1006'.
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.508 mm, 0.9906 mm): Symbol U1006 [74HC165]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 0.9906 mm): Symbol U1006 [74HC165]
+    @(0.508 mm, 1.524 mm): Symbol #PWR01077 [+3V3]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.508 mm, 0.762 mm): Symbol #PWR01073 [+3V3]
@@ -1633,18 +1171,15 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.508 mm, 1.2446 mm): Symbol #PWR01076 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.508 mm, 0.9906 mm): Symbol U1006 [74HC165]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.6858 mm, 1.143 mm): Symbol #PWR01083 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(-0.6604 mm, 1.2192 mm): Symbol #PWR01050 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1002'.
-    ; warning
-    @(-0.508 mm, 0.9906 mm): Symbol U1002 [74HC165]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(-0.508 mm, 0.9906 mm): Symbol U1002 [74HC165]
+    @(-0.508 mm, 1.2446 mm): Symbol #PWR01056 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(-0.508 mm, 0.0 mm): Symbol #PWR01055 [+3V3]
@@ -1654,36 +1189,54 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(-0.3302 mm, 1.2446 mm): Symbol #PWR01064 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(-0.508 mm, 1.2446 mm): Symbol #PWR01056 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(-0.3302 mm, 1.1938 mm): Symbol C1020 [CAP]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1003'.
-    ; warning
-    @(-0.508 mm, 1.7526 mm): Symbol U1003 [74HC165]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(-0.3302 mm, 1.9558 mm): Symbol C1021 [CAP]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(-0.3302 mm, 1.905 mm): Symbol #PWR01065 [+3V3]
+    @(-0.508 mm, 0.9906 mm): Symbol U1002 [74HC165]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(-0.508 mm, 1.524 mm): Symbol #PWR01057 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(-0.508 mm, 1.7526 mm): Symbol U1003 [74HC165]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(-0.508 mm, 2.0066 mm): Symbol #PWR0101 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(-0.3302 mm, 2.0066 mm): Symbol #PWR01066 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(-0.3302 mm, 1.9558 mm): Symbol C1021 [CAP]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(-0.3302 mm, 1.905 mm): Symbol #PWR01065 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(-0.508 mm, 1.7526 mm): Symbol U1003 [74HC165]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(-0.508 mm, 2.286 mm): Symbol #PWR01059 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(-0.508 mm, 2.5146 mm): Symbol U1004 [74HC165]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(-0.6604 mm, 1.9812 mm): Symbol #PWR01051 [GND]
+    @(-0.6604 mm, 2.7432 mm): Symbol #PWR01052 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(-0.3302 mm, 2.7178 mm): Symbol C1022 [CAP]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(-0.3302 mm, 2.667 mm): Symbol #PWR01067 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(-0.3302 mm, 2.7686 mm): Symbol #PWR01068 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(-0.508 mm, 2.7686 mm): Symbol #PWR01060 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 2.286 mm): Symbol #PWR01079 [+3V3]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.6858 mm, 2.7686 mm): Symbol #PWR01088 [GND]
@@ -1693,25 +1246,22 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.6858 mm, 2.667 mm): Symbol #PWR01087 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.508 mm, 2.5146 mm): Symbol U1008 [74HC165]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.508 mm, 2.7686 mm): Symbol #PWR01080 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.3556 mm, 2.7432 mm): Symbol #PWR01072 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1008'.
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.508 mm, 2.5146 mm): Symbol U1008 [74HC165]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 2.286 mm): Symbol #PWR01079 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 2.5146 mm): Symbol U1008 [74HC165]
+    @(-0.6604 mm, 1.9812 mm): Symbol #PWR01051 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.3556 mm, 1.9812 mm): Symbol #PWR01071 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1007'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.508 mm, 1.7526 mm): Symbol U1007 [74HC165]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
@@ -1726,40 +1276,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.6858 mm, 2.0066 mm): Symbol #PWR01086 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 1.524 mm): Symbol #PWR01077 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 1.7526 mm): Symbol U1007 [74HC165]
-[simulation_model_issue]: No simulation model definition found for symbol 'U1004'.
-    ; warning
-    @(-0.508 mm, 2.5146 mm): Symbol U1004 [74HC165]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(-0.508 mm, 2.5146 mm): Symbol U1004 [74HC165]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(-0.6604 mm, 2.7432 mm): Symbol #PWR01052 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(-0.3302 mm, 2.7178 mm): Symbol C1022 [CAP]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(-0.3302 mm, 2.667 mm): Symbol #PWR01067 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(-0.508 mm, 2.286 mm): Symbol #PWR01059 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(-0.3302 mm, 2.7686 mm): Symbol #PWR01068 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(-0.508 mm, 2.7686 mm): Symbol #PWR01060 [GND]
 
 ***** Sheet /UI_ENC/ENCODER_3/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1773,9 +1296,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -1797,73 +1332,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_1/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1877,9 +1352,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -1901,73 +1388,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_7/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1981,9 +1408,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2005,73 +1444,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_14/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2085,9 +1464,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2109,73 +1500,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_13/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2189,9 +1520,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2213,73 +1556,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_10/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2293,9 +1576,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2317,73 +1612,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_15/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2397,9 +1632,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2421,73 +1668,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_2/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2501,9 +1688,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2525,73 +1724,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_4/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2605,9 +1744,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2629,73 +1780,13 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
 ***** Sheet /UI_ENC/ENCODER_9/
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.5334 mm, 0.6858 mm): Symbol #PWR01161 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -2709,9 +1800,21 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 0.4826 mm): Symbol R1092 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1001'.
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5842 mm, 0.5334 mm): Symbol R1091 [RES]
@@ -2733,68 +1836,5 @@ ERC report (2024-10-29T14:23:47+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.6858 mm): Symbol #PWR01164 [GND]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1006'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1007'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1008'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1002'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1003'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1004'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1005'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1016'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1009'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1010'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1011'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1013'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 0.4318 mm): Symbol #PWR01166 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 0.4318 mm): Symbol #PWR01125 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 0.4826 mm): Symbol R1093 [RES]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4826 mm): Symbol R1094 [RES]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1012'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1014'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[simulation_model_issue]: No simulation model definition found for symbol 'UI1015'.
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7366 mm, 0.5588 mm): Symbol UI1016 [UI_Rotary_Encoder_Switch]
 
- ** ERC messages: 915  Errors 0  Warnings 915
+ ** ERC messages: 595  Errors 0  Warnings 595

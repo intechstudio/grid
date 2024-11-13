@@ -1,7 +1,7 @@
 ** Drc report for PCBA-TEK2.kicad_pcb **
-** Created on 2024-10-29T14:23:59+0000 **
+** Created on 2024-11-13T12:49:40+0000 **
 
-** Found 282 DRC violations **
+** Found 281 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -642,6 +642,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(93.396 mm, 113.335 mm): Footprint R1039
+[lib_footprint_mismatch]: Footprint 'U.FL_Molex_MCRF_73412-0110_Vertical' does not match copy in library 'Connector_Coaxial'.
+    ; warning
+    @(105.0 mm, 107.25 mm): Footprint J701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(104.75 mm, 104.25 mm): Footprint L701
@@ -687,9 +690,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 66.0 mm): Footprint R702
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(104.0 mm, 66.0 mm): Footprint TP601
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(103.25 mm, 107.2 mm): Footprint L702
@@ -705,9 +705,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(94.75 mm, 99.0 mm): Footprint C736
-[lib_footprint_mismatch]: Footprint 'TestPoint_Pad_1.0x1.0mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(96.5 mm, 87.5 mm): Footprint TP705
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(99.0 mm, 105.25 mm): Footprint C744
