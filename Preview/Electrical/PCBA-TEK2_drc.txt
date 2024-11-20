@@ -1,5 +1,5 @@
 ** Drc report for PCBA-TEK2.kicad_pcb **
-** Created on 2024-11-15T16:14:04+0000 **
+** Created on 2024-11-20T14:14:07+0000 **
 
 ** Found 281 DRC violations **
 [isolated_copper]: Isolated copper fill

@@ -1787,6 +1787,7 @@ WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Resistor_SMD.3dshapes%2FR_0805_2012Metric.step` (kibot - out_base_3d.py:174)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
