@@ -1,0 +1,16 @@
+** Drc report for PCBA-VSN2-FRONTPANEL.kicad_pcb **
+** Created on 2024-11-20T14:19:02+0000 **
+
+** Found 2 DRC violations **
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
