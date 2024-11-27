@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-11-25T09:08:25+0000 **
+** Created on 2024-11-27T12:58:39+0000 **
 
 ** Found 67 DRC violations **
 [isolated_copper]: Isolated copper fill
@@ -61,11 +61,11 @@
     @(79.665 mm, 119.585 mm): Dimension '14.0000 mm' on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(99.0 mm, 87.66 mm): Arc on Edge.Cuts
+    @(54.11 mm, 55.34 mm): Arc on Edge.Cuts
     @(50.93 mm, 56.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(57.066544 mm, 57.066544 mm): Circle on Edge.Cuts
+    @(50.0 mm, 77.83 mm): Segment on Edge.Cuts
     @(52.93 mm, 58.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -73,15 +73,15 @@
     @(147.07 mm, 88.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(146.5 mm, 77.83 mm): Segment on Edge.Cuts
+    @(145.89 mm, 91.32 mm): Arc on Edge.Cuts
     @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
+    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
     @(122.67 mm, 83.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
+    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
     @(130.67 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
