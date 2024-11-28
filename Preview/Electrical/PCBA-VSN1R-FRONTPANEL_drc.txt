@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSN1R-FRONTPANEL.kicad_pcb **
-** Created on 2024-11-27T13:16:39+0000 **
+** Created on 2024-11-28T16:52:37+0000 **
 
 ** Found 2 DRC violations **
 [isolated_copper]: Isolated copper fill
