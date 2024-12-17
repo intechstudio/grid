@@ -1,13 +1,13 @@
 ** Drc report for PCBA-XX16-FRONTPANEL.kicad_pcb **
-** Created on 2024-11-28T16:52:37+0000 **
+** Created on 2024-12-17T12:51:53+0000 **
 
 ** Found 2 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
 [isolated_copper]: Isolated copper fill
     ; warning
-    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
 
 ** Found 0 unconnected pads **
 

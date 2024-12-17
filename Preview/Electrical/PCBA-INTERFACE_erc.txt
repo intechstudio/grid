@@ -1,4 +1,4 @@
-ERC report (2024-11-28T16:52:33+0000, Encoding UTF8)
+ERC report (2024-12-17T12:51:49+0000, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
