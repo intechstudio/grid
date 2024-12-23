@@ -1,7 +1,16 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2024-12-17T12:51:54+0000 **
+** Created on 2024-12-23T11:23:09+0000 **
 
-** Found 67 DRC violations **
+** Found 64 DRC violations **
+[track_dangling]: Track has unconnected end
+    ; warning
+    @(86.92 mm, 67.83 mm): Track [/LEDK] on B.Cu, length 6.0900 mm
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
 [isolated_copper]: Isolated copper fill
     ; warning
     @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
@@ -45,23 +54,7 @@
     @(115.17 mm, 55.53 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(73.33 mm, 126.67 mm): Circle on Edge.Cuts
-    @(80.415 mm, 120.335 mm): Dimension '14.0000 mm' on F.Silkscreen
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    ; warning
-    @(178.33 mm, 126.67 mm): Circle on Edge.Cuts
-    @(184.165 mm, 119.585 mm): Dimension '15.0000 mm' on F.Silkscreen
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    ; warning
-    @(178.33 mm, 126.67 mm): Circle on Edge.Cuts
-    @(184.915 mm, 120.335 mm): Dimension '14.0000 mm' on F.Silkscreen
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    ; warning
-    @(73.33 mm, 126.67 mm): Circle on Edge.Cuts
-    @(79.665 mm, 119.585 mm): Dimension '14.0000 mm' on F.Silkscreen
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    ; warning
-    @(54.11 mm, 55.34 mm): Arc on Edge.Cuts
+    @(92.55 mm, 91.33 mm): Arc on Edge.Cuts
     @(50.93 mm, 56.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -73,15 +66,15 @@
     @(147.07 mm, 88.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(145.89 mm, 91.32 mm): Arc on Edge.Cuts
+    @(145.89 mm, 91.33 mm): Arc on Edge.Cuts
     @(149.07 mm, 90.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(122.67 mm, 83.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(113.335 mm, 83.49 mm): Segment on Edge.Cuts
+    @(134.925 mm, 84.76 mm): Segment on Edge.Cuts
     @(130.67 mm, 89.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -101,11 +94,11 @@
     @(130.67 mm, 63.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
+    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
     @(69.33 mm, 57.33 mm): Segment on B.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(86.665 mm, 63.17 mm): Segment on Edge.Cuts
+    @(65.075 mm, 61.9 mm): Segment on Edge.Cuts
     @(77.33 mm, 63.33 mm): Segment on B.Silkscreen
 [footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
     ; warning
@@ -125,9 +118,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 73.33 mm): Footprint U1001
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(178.33 mm, 86.66 mm): Footprint LOGO701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(126.67 mm, 73.33 mm): Footprint U1002
@@ -209,9 +199,6 @@
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(126.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on F.Silkscreen
-[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
-    ; warning
-    @(231.67 mm, 86.66 mm): PCB Text 'Intech Studio BTNGROUP RevA 2024/1...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(231.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT RevA 2024/1...' on F.Silkscreen
