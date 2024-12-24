@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-BTNGROUP.kicad_pcb **
-** Created on 2024-12-23T11:23:09+0000 **
+** Created on 2024-12-24T11:40:47+0000 **
 
 ** Found 121 DRC violations **
 [silk_edge_clearance]: Silkscreen clipped by board edge
