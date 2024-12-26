@@ -1,0 +1,16 @@
+** Drc report for PCBA-EF44-FRONTPANEL.kicad_pcb **
+** Created on 2024-12-26T18:30:44+0000 **
+
+** Found 2 DRC violations **
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(45.0 mm, 45.0 mm): Zone [GND] on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
