@@ -1,6 +1,6 @@
 ## PLASTIC-HOUSING
 Lower plastic casing of the project (internally codenamed Canvas)
-![Canvas](PLASTIC-HOUSING.png?raw=true)
+![Canvas](Preview/Mechanical/PLASTIC-CANVAS.png?raw=true)
 
 ## Boolian features
 Canvas final geometry is formed by subtracting each separately designed feature from a base cube one-by-one.
