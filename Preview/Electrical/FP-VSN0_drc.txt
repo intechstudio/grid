@@ -1,0 +1,19 @@
+** Drc report for FP-VSN0.kicad_pcb **
+** Created on 2025-01-07T21:01:35+0000 **
+
+** Found 3 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(57.066544 mm, 59.766544 mm): Reference 'H514'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(107.829503 mm, 62.837742 mm): Reference 'H518'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(54.489503 mm, 62.837742 mm): Reference 'H513'
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
