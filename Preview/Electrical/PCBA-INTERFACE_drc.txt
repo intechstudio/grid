@@ -1,10 +1,7 @@
 ** Drc report for PCBA-INTERFACE.kicad_pcb **
-** Created on 2025-01-07T21:00:19+0000 **
+** Created on 2025-01-12T11:23:14+0000 **
 
-** Found 54 DRC violations **
-[track_dangling]: Track has unconnected end
-    ; warning
-    @(81.44 mm, 105.0 mm): Track [+5F] on F.Cu, length 0.3111 mm
+** Found 52 DRC violations **
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(73.0 mm, 111.25 mm): Footprint U2
@@ -155,9 +152,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(73.33 mm, 106.0 mm): Footprint J1
-[unresolved_variable]: Unresolved text variable
-    ; warning
-    @(100.0 mm, 102.0 mm): PCB Text 'INTERFACE ${HASH} EE: SUKU ${DATE}' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
     ; warning
     @(100.0 mm, 102.0 mm): PCB Text 'INTERFACE ${HASH} EE: SUKU ${DATE}' on F.Silkscreen
