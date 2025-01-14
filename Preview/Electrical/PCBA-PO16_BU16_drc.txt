@@ -1,5 +1,5 @@
 ** Drc report for PCBA-PO16_BU16.kicad_pcb **
-** Created on 2025-01-14T20:36:32+0000 **
+** Created on 2025-01-14T22:54:42+0000 **
 
 ** Found 376 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
