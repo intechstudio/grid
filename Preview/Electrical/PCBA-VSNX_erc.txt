@@ -1,4 +1,4 @@
-ERC report (2025-01-14T19:47:13+0000, Encoding UTF8)
+ERC report (2025-01-14T20:36:15+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -996,13 +996,22 @@ ERC report (2025-01-14T19:47:13+0000, Encoding UTF8)
     @(3.4544 mm, 0.9144 mm): Symbol R701 [RES]
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
+    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
     @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
     @(2.286 mm, 1.1684 mm): Global Label 'ESP_GPIO_33'
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
-    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.7432 mm, 1.7018 mm): Symbol #PWR0983 [VDD_SPI]
@@ -1195,7 +1204,7 @@ ERC report (2025-01-14T19:47:13+0000, Encoding UTF8)
     @(0.4318 mm, 0.8128 mm): Symbol R801 [RES]
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; warning
-    @(1.2192 mm, 0.8636 mm): Symbol #PWR0849 Hidden pin 1 [+3V3, Power input, Line]
+    @(0.4318 mm, 0.6604 mm): Symbol #PWR0847 Hidden pin 1 [+3V3, Power input, Line]
     @(0.7874 mm, 0.8128 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1505,4 +1514,4 @@ ERC report (2025-01-14T19:47:13+0000, Encoding UTF8)
     ; warning
     @(1.2192 mm, 0.5334 mm): Symbol #PWR01086 [+3V3]
 
- ** ERC messages: 487  Errors 0  Warnings 487
+ ** ERC messages: 490  Errors 0  Warnings 490

@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2025-01-14T19:47:27+0000 **
+** Created on 2025-01-14T20:36:28+0000 **
 
-** Found 317 DRC violations **
+** Found 320 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -48,6 +48,15 @@
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
 [isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1000 mm; actual 0.0407 mm) (B.Cu)
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on B.Cu
 [connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1000 mm; actual 0.0757 mm) (F.Cu)
