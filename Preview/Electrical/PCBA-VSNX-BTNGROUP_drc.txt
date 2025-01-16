@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-BTNGROUP.kicad_pcb **
-** Created on 2025-01-15T15:17:13+0000 **
+** Created on 2025-01-16T12:16:51+0000 **
 
 ** Found 4 DRC violations **
 [isolated_copper]: Isolated copper fill
@@ -10,10 +10,10 @@
     @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(73.33 mm, 140.0 mm): Footprint LOGO701
+    @(74.25 mm, 143.75 mm): Footprint LOGO701
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(126.67 mm, 140.0 mm): PCB Text 'Intech Studio LCDMOUNT ${HASH} ${D...' on F.Silkscreen
+    @(125.87625 mm, 138.814375 mm): PCB Text 'Intech Studio LCDMOUNT L1-2      $...' on F.Silkscreen
 
 ** Found 0 unconnected pads **
 

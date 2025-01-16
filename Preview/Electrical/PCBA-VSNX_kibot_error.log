@@ -1,6 +1,38 @@
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `erc` preflight instead of `run_erc` (kibot.pre_run_erc - pre_run_erc.py:77)
-WARNING:(W058) 490 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
+WARNING:(W058) 501 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.6035 mm, 2.2987 mm): Symbol J904 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.6035 mm, 2.3495 mm): Symbol #PWR01088 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.3655 mm, 2.2987 mm): Symbol J912 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.3655 mm, 2.3495 mm): Symbol #PWR01094 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.8575 mm, 2.2987 mm): Symbol J906 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.8575 mm, 2.3495 mm): Symbol #PWR01090 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.1115 mm, 2.3495 mm): Symbol #PWR01092 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.1115 mm, 2.2987 mm): Symbol J910 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.762 mm, 0.8128 mm): Symbol R902 [RES]
@@ -1520,6 +1552,10 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
     ; warning
     @(2.3368 mm, 0.8509 mm): Symbol #PWR0976 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.3368 mm, 0.8001 mm): Symbol J911 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.9812 mm, 0.5588 mm): Symbol #PWR0964 [GND]
@@ -1530,15 +1566,28 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'p
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(2.3368 mm, 0.5969 mm): Symbol #PWR0965 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.3368 mm, 0.5461 mm): Symbol J909 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(1.9812 mm, 0.8128 mm): Symbol #PWR0967 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+WARNING:(W058) (multiple_net_names) Both BACKLIGHT_PWM and BACKLIGHT are attached to the same items; BACKLIGHT_PWM will be used in the netlist
     ; warning
-    @(1.9939 mm, 1.397 mm): Symbol #PWR0977 [GND]
+    @(1.905 mm, 0.508 mm): Label 'BACKLIGHT_PWM'
+    @(0.9652 mm, 0.5588 mm): Hierarchical Label 'BACKLIGHT'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6002 mm, 0.7874 mm): Symbol J905 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.3368 mm, 0.5969 mm): Symbol #PWR0965 [GND]
+    @(1.6002 mm, 0.8382 mm): Symbol #PWR0966 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
@@ -1546,16 +1595,11 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'p
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.6002 mm, 0.8382 mm): Symbol #PWR0966 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
     @(1.6002 mm, 0.5842 mm): Symbol #PWR0962 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (multiple_net_names) Both BACKLIGHT_PWM and BACKLIGHT are attached to the same items; BACKLIGHT_PWM will be used in the netlist
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.905 mm, 0.508 mm): Label 'BACKLIGHT_PWM'
-    @(0.9652 mm, 0.5588 mm): Hierarchical Label 'BACKLIGHT'
+    @(1.6002 mm, 0.5334 mm): Symbol J903 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1619,7 +1663,7 @@ WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L601) (kibot - units
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units.py:239)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `drc` preflight instead of `run_drc` (kibot.pre_run_drc - pre_run_drc.py:81)
-ERROR:Found 0 DRC errors and 255 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:130)
+ERROR:Found 0 DRC errors and 264 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:130)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
