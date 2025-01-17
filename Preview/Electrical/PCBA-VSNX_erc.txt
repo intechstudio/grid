@@ -1,18 +1,9 @@
-ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
+ERC report (2025-01-17T18:02:43+0000, Encoding UTF8)
 
 ***** Sheet /
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+[no_connect_connected]: A pin with a "no connection" flag is connected
     ; warning
-    @(2.6035 mm, 2.2987 mm): Symbol J904 [SMD_NUT]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.6035 mm, 2.3495 mm): Symbol #PWR01088 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(3.3655 mm, 2.2987 mm): Symbol J912 [SMD_NUT]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(3.3655 mm, 2.3495 mm): Symbol #PWR01094 [GND]
+    @(1.7145 mm, 2.6416 mm): No Connect
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.8575 mm, 2.2987 mm): Symbol J906 [SMD_NUT]
@@ -25,6 +16,18 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(3.1115 mm, 2.2987 mm): Symbol J910 [SMD_NUT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.6035 mm, 2.2987 mm): Symbol J904 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.6035 mm, 2.3495 mm): Symbol #PWR01088 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(3.3655 mm, 2.2987 mm): Symbol J912 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(3.3655 mm, 2.3495 mm): Symbol #PWR01094 [GND]
 
 ***** Sheet /UI_POT_BTN/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -771,28 +774,46 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
     @(1.4732 mm, 0.4318 mm): Symbol C746 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.5494 mm, 0.4826 mm): Symbol #PWR0818 [GND]
+    @(1.4732 mm, 0.4826 mm): Symbol #PWR0816 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.4732 mm, 0.4826 mm): Symbol #PWR0816 [GND]
+    @(1.5494 mm, 0.4826 mm): Symbol #PWR0818 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.5494 mm, 0.4318 mm): Symbol C747 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.6002 mm, 0.381 mm): Symbol L702 [FERRIT]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.6002 mm, 1.1684 mm): Symbol C748 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.6764 mm, 1.1684 mm): Symbol C750 [CAP]
+    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.4732 mm, 1.1684 mm): Symbol #PWR0817 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6764 mm, 1.1684 mm): Symbol C750 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6002 mm, 1.1684 mm): Symbol C748 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.6002 mm, 1.2192 mm): Symbol #PWR0819 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.6764 mm, 1.2192 mm): Symbol #PWR0821 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(2.0066 mm, 0.4572 mm): Symbol #PWR0827 [GND]
@@ -817,126 +838,87 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(2.2098 mm, 0.4826 mm): Symbol #PWR0828 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.3462 mm, 0.3556 mm): Symbol #PWR0812 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.3462 mm, 0.4318 mm): Symbol C743 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.3462 mm, 0.4826 mm): Symbol #PWR0813 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+[multiple_net_names]: Both ESP_GPIO_44 and U0RXD are attached to the same items; ESP_GPIO_44 will be used in the netlist
     ; warning
-    @(1.3462 mm, 0.3556 mm): Symbol #PWR0812 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.2954 mm, 0.7112 mm): Symbol C742 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.2954 mm, 0.762 mm): Symbol #PWR0811 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.6002 mm, 1.2192 mm): Symbol #PWR0819 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.6764 mm, 1.2192 mm): Symbol #PWR0821 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
+    @(1.524 mm, 1.4478 mm): Global Label 'ESP_GPIO_44'
+    @(1.651 mm, 1.4478 mm): Label 'U0RXD'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.4224 mm, 1.7272 mm): Symbol C745 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+[multiple_net_names]: Both ESP_GPIO_43 and U0TXD are attached to the same items; ESP_GPIO_43 will be used in the netlist
     ; warning
-    @(1.3462 mm, 1.7272 mm): Symbol C744 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    @(1.524 mm, 1.4224 mm): Global Label 'ESP_GPIO_43'
+    @(1.651 mm, 1.4224 mm): Label 'U0TXD'
+[multiple_net_names]: Both ESP_GPIO_39 and TCK are attached to the same items; ESP_GPIO_39 will be used in the netlist
     ; warning
-    @(1.27 mm, 1.7272 mm): Symbol C741 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    @(1.524 mm, 1.3208 mm): Global Label 'ESP_GPIO_39'
+    @(1.651 mm, 1.3208 mm): Label 'TCK'
+[multiple_net_names]: Both ESP_GPIO_40 and TDO are attached to the same items; ESP_GPIO_40 will be used in the netlist
     ; warning
-    @(1.3462 mm, 1.778 mm): Symbol #PWR0814 [GND]
+    @(1.524 mm, 1.3462 mm): Global Label 'ESP_GPIO_40'
+    @(1.651 mm, 1.3462 mm): Label 'TDO'
+[multiple_net_names]: Both ESP_GPIO_41 and TDI are attached to the same items; ESP_GPIO_41 will be used in the netlist
+    ; warning
+    @(1.524 mm, 1.3716 mm): Global Label 'ESP_GPIO_41'
+    @(1.651 mm, 1.3716 mm): Label 'TDI'
+[multiple_net_names]: Both ESP_GPIO_42 and TMS are attached to the same items; ESP_GPIO_42 will be used in the netlist
+    ; warning
+    @(1.524 mm, 1.397 mm): Global Label 'ESP_GPIO_42'
+    @(1.651 mm, 1.397 mm): Label 'TMS'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.4224 mm, 1.778 mm): Symbol #PWR0815 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.27 mm, 1.778 mm): Symbol #PWR0810 [GND]
+    @(1.3462 mm, 1.778 mm): Symbol #PWR0814 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.3462 mm, 1.7272 mm): Symbol C744 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.889 mm, 1.7272 mm): Symbol C735 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1938 mm, 0.762 mm): Symbol #PWR0808 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 0.7366 mm): Symbol #PWR0804 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.1938 mm, 0.7112 mm): Symbol C739 [CAP]
-[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
-    ; warning
-    @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
+    @(1.1176 mm, 1.7272 mm): Symbol C738 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.2446 mm, 0.6604 mm): Symbol L701 [INDUCTOR]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.3556 mm, 1.778 mm): Symbol #PWR0794 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.4318 mm, 1.778 mm): Symbol #PWR0796 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 1.778 mm): Symbol #PWR0802 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 1.778 mm): Symbol #PWR0805 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1176 mm, 1.778 mm): Symbol #PWR0806 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1938 mm, 1.778 mm): Symbol #PWR0809 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.9652 mm, 1.778 mm): Symbol #PWR0803 [GND]
+    @(1.1938 mm, 1.7272 mm): Symbol C740 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0414 mm, 1.7272 mm): Symbol C737 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9652 mm, 1.7272 mm): Symbol C736 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1938 mm, 1.7272 mm): Symbol C740 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1176 mm, 1.7272 mm): Symbol C738 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7874 mm, 1.7272 mm): Symbol C734 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.7874 mm, 1.778 mm): Symbol #PWR0801 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.7366 mm, 1.651 mm): Symbol #PWR0800 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.4318 mm, 1.7272 mm): Symbol C732 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.3556 mm, 1.7272 mm): Symbol C731 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 1.7272 mm): Symbol C733 [CAP]
+    @(1.1938 mm, 1.778 mm): Symbol #PWR0809 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.508 mm, 1.778 mm): Symbol #PWR0797 [GND]
-[lib_symbol_issues]: Symbol '+1V1' has been modified in library 'power'
+    @(1.1176 mm, 1.778 mm): Symbol #PWR0806 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.5842 mm, 1.651 mm): Symbol #PWR0798 [+1V1]
+    @(1.27 mm, 1.778 mm): Symbol #PWR0810 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.27 mm, 1.7272 mm): Symbol C741 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.0414 mm, 1.778 mm): Symbol #PWR0805 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 1.778 mm): Symbol #PWR0803 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 1.778 mm): Symbol #PWR0802 [GND]
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(0.2794 mm, 1.778 mm): Symbol #PWR0793 [+3V3]
@@ -952,6 +934,57 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.3556 mm, 2.667 mm): Symbol #PWR0795 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.1938 mm, 0.7112 mm): Symbol C739 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.2954 mm, 0.762 mm): Symbol #PWR0811 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.1938 mm, 0.762 mm): Symbol #PWR0808 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.0414 mm, 0.7366 mm): Symbol #PWR0804 [GND]
+[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
+    ; warning
+    @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2446 mm, 0.6604 mm): Symbol L701 [INDUCTOR]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2954 mm, 0.7112 mm): Symbol C742 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.3556 mm, 1.778 mm): Symbol #PWR0794 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.4318 mm, 1.778 mm): Symbol #PWR0796 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.508 mm, 1.7272 mm): Symbol C733 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 1.778 mm): Symbol #PWR0797 [GND]
+[lib_symbol_issues]: Symbol '+1V1' has been modified in library 'power'
+    ; warning
+    @(0.5842 mm, 1.651 mm): Symbol #PWR0798 [+1V1]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.7874 mm, 1.7272 mm): Symbol C734 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.7874 mm, 1.778 mm): Symbol #PWR0801 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.7366 mm, 1.651 mm): Symbol #PWR0800 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.4318 mm, 1.7272 mm): Symbol C732 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.3556 mm, 1.7272 mm): Symbol C731 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(3.6068 mm, 1.4224 mm): Symbol #PWR0841 [GND]
@@ -1020,22 +1053,7 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
     @(3.4544 mm, 0.9144 mm): Symbol R701 [RES]
 [global_label_dangling]: Global label not connected anywhere else in the schematic
     ; warning
-    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
     @(2.286 mm, 1.1684 mm): Global Label 'ESP_GPIO_33'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.7432 mm, 1.7018 mm): Symbol #PWR0983 [VDD_SPI]
@@ -1228,7 +1246,7 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
     @(0.4318 mm, 0.8128 mm): Symbol R801 [RES]
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; warning
-    @(0.4318 mm, 0.6604 mm): Symbol #PWR0847 Hidden pin 1 [+3V3, Power input, Line]
+    @(1.2192 mm, 0.8636 mm): Symbol #PWR0849 Hidden pin 1 [+3V3, Power input, Line]
     @(0.7874 mm, 0.8128 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -1547,4 +1565,247 @@ ERC report (2025-01-16T12:16:52+0000, Encoding UTF8)
     ; warning
     @(1.2192 mm, 0.5334 mm): Symbol #PWR01086 [+3V3]
 
- ** ERC messages: 501  Errors 0  Warnings 501
+***** Sheet /AUDIO/
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.7112 mm, 0.635 mm): Symbol R939 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.7112 mm, 0.635 mm): Symbol R939 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.6858 mm, 0.635 mm): Symbol R939 [RES]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.7112 mm, 0.508 mm): Symbol L904 Pin 1 [Passive, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.7112 mm, 0.508 mm): Symbol L904 Pin 1 [Passive, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.6858 mm, 0.508 mm): Symbol L904 [FERRIT]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.4478 mm, 1.0414 mm): Symbol L903 Pin 1 [Passive, Line]
+    @(1.3208 mm, 1.0414 mm): Symbol U918 Pin 5 [VON, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.4732 mm, 1.0414 mm): Symbol L903 [FERRIT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.4732 mm, 0.9652 mm): Symbol L902 [FERRIT]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.3462 mm, 1.0668 mm): Symbol #PWR01093 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.3462 mm, 1.0668 mm): Symbol #PWR01093 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.4478 mm, 0.9652 mm): Symbol L902 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9652 mm): Symbol U918 Pin 8 [VOP, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.3716 mm, 0.889 mm): Symbol #PWR01095 Pin 1 [Power input, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.3716 mm, 0.889 mm): Symbol #PWR01095 Pin 1 [Power input, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.6604 mm): Symbol #PWR01087 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.6604 mm): Symbol #PWR01087 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.0668 mm, 0.9398 mm): Symbol #PWR01096 Pin 1 [Power input, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.0668 mm, 0.9398 mm): Symbol #PWR01096 Pin 1 [Power input, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; warning
+    @(0.9144 mm, 0.6604 mm): Symbol #FLG0902 Pin 1 [pwr, Power output, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 1.016 mm): Symbol R941 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 1.0414 mm): Symbol R942 [RES]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.9906 mm, 1.016 mm): Symbol R941 Pin 2 [Passive, Line]
+    @(1.0922 mm, 1.016 mm): Symbol U918 Pin 3 [BCLK, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.9906 mm, 1.0414 mm): Symbol R942 Pin 2 [Passive, Line]
+    @(1.0922 mm, 1.0414 mm): Symbol U918 Pin 4 [SDATA, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.9906 mm, 0.9906 mm): Symbol R940 Pin 2 [Passive, Line]
+    @(1.0922 mm, 0.9906 mm): Symbol U918 Pin 2 [LRCLK, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2065 mm, 0.9906 mm): Symbol U918 [NS4168_C910588]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; warning
+    @(0.9144 mm, 0.6604 mm): Symbol #FLG0902 Pin 1 [pwr, Power output, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.5842 mm): Symbol C936 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.5842 mm): Symbol C936 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.889 mm, 0.5842 mm): Symbol C937 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.889 mm, 0.5842 mm): Symbol C937 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.8128 mm, 0.5842 mm): Symbol C938 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.8128 mm, 0.5842 mm): Symbol C938 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9652 mm, 0.9906 mm): Symbol R940 [RES]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.5334 mm): Symbol C936 Pin 1 [Passive, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(0.9144 mm, 0.4826 mm): Symbol #FLG0901 [PWR_FLAG]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; warning
+    @(0.9144 mm, 0.4826 mm): Symbol #FLG0901 Pin 1 [pwr, Power output, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Power output and Unspecified are connected
+    ; warning
+    @(0.9144 mm, 0.4826 mm): Symbol #FLG0901 Pin 1 [pwr, Power output, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.4826 mm): Symbol #PWR01091 Pin 1 [Power input, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.4826 mm): Symbol #PWR01091 Pin 1 [Power input, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(0.9144 mm, 0.6604 mm): Symbol #FLG0902 [PWR_FLAG]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.889 mm, 0.5588 mm): Symbol C937 [CAP]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.8128 mm, 0.5334 mm): Symbol C938 Pin 1 [Passive, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.8128 mm, 0.5334 mm): Symbol C938 Pin 1 [Passive, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.8128 mm, 0.5588 mm): Symbol C938 [CAP]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.016 mm, 0.5334 mm): Symbol C936 Pin 1 [Passive, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.889 mm, 0.5334 mm): Symbol C937 Pin 1 [Passive, Line]
+    @(1.0922 mm, 0.9652 mm): Symbol U918 Pin 1 [CTRL, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(0.889 mm, 0.5334 mm): Symbol C937 Pin 1 [Passive, Line]
+    @(1.3208 mm, 1.016 mm): Symbol U918 Pin 6 [VDD, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.016 mm, 0.5588 mm): Symbol C936 [CAP]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.8796 mm, 1.0922 mm): Symbol TP903 Pin 1 [1, Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.8796 mm, 1.0922 mm): Symbol TP903 Pin 1 [1, Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.651 mm, 1.143 mm): Symbol #PWR01097 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.651 mm, 1.143 mm): Symbol #PWR01097 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.651 mm, 1.1176 mm): Symbol C939 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.651 mm, 1.1176 mm): Symbol C939 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.651 mm, 1.0922 mm): Symbol C939 [CAP]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.8542 mm, 1.143 mm): Symbol #PWR01099 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.7526 mm, 1.1176 mm): Symbol C940 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Passive and Unspecified are connected
+    ; warning
+    @(1.7526 mm, 1.1176 mm): Symbol C940 Pin 2 [Passive, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 1.0922 mm): Symbol C940 [CAP]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.7526 mm, 1.143 mm): Symbol #PWR01098 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.7526 mm, 1.143 mm): Symbol #PWR01098 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9398 mm): Symbol U918 Pin 9 [EP, Unspecified, Line]
+[pin_to_pin]: Pins of type Power input and Unspecified are connected
+    ; warning
+    @(1.8542 mm, 1.143 mm): Symbol #PWR01099 Pin 1 [Power input, Line]
+    @(1.3208 mm, 0.9906 mm): Symbol U918 Pin 7 [GND, Unspecified, Line]
+
+ ** ERC messages: 569  Errors 0  Warnings 569
