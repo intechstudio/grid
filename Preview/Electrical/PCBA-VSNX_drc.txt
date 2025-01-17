@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2025-01-17T18:02:58+0000 **
+** Created on 2025-01-17T21:40:19+0000 **
 
-** Found 350 DRC violations **
+** Found 335 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -1073,51 +1073,6 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.511875 mm, 108.789125 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.75 mm, 120.052 mm): Reference 'TP901'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(104.75 mm, 118.09 mm): Reference 'C939'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(95.0 mm, 120.42 mm): Reference 'R941'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.75 mm, 118.552 mm): Reference 'TP903'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(100.84 mm, 116.25 mm): Reference 'C937'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(104.75 mm, 119.34 mm): Reference 'C940'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(95.0 mm, 119.17 mm): Reference 'R942'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.91 mm, 120.0 mm): Reference 'U918'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(106.75 mm, 117.052 mm): Reference 'TP902'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(95.0 mm, 121.67 mm): Reference 'R940'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(99.5 mm, 117.92 mm): Reference 'R939'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(99.84 mm, 116.25 mm): Reference 'C938'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(104.75 mm, 120.58 mm): Reference 'L902'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(104.75 mm, 119.17 mm): Reference 'L903'
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(101.84 mm, 116.25 mm): Reference 'C936'
 
 ** Found 0 unconnected pads **
 
