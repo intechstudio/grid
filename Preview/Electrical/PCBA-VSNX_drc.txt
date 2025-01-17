@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2025-01-17T22:06:22+0000 **
+** Created on 2025-01-17T22:16:58+0000 **
 
-** Found 335 DRC violations **
+** Found 333 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -917,9 +917,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(97.25 mm, 74.0 mm): Footprint R802
-[lib_footprint_mismatch]: Footprint 'U.FL_Molex_MCRF_73412-0110_Vertical' does not match copy in library 'Connector_Coaxial'.
-    ; warning
-    @(105.0 mm, 107.25 mm): Footprint J701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(104.75 mm, 104.25 mm): Footprint L701
@@ -956,9 +953,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(110.652125 mm, 108.239125 mm): Footprint C913
-[lib_footprint_mismatch]: Footprint 'SOIC-8_3.9x4.9mm_P1.27mm' does not match copy in library 'Package_SO'.
-    ; warning
-    @(103.0 mm, 85.0 mm): Footprint U903
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(126.67 mm, 73.33 mm): Circle on F.Silkscreen

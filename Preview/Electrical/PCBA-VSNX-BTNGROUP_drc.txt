@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-BTNGROUP.kicad_pcb **
-** Created on 2025-01-17T22:06:13+0000 **
+** Created on 2025-01-17T22:16:49+0000 **
 
 ** Found 4 DRC violations **
 [isolated_copper]: Isolated copper fill
