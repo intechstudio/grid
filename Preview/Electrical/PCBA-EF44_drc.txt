@@ -1,5 +1,5 @@
 ** Drc report for PCBA-EF44.kicad_pcb **
-** Created on 2025-01-17T22:16:57+0000 **
+** Created on 2025-01-17T22:41:00+0000 **
 
 ** Found 286 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
