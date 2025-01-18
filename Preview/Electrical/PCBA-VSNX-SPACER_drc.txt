@@ -1,0 +1,25 @@
+** Drc report for PCBA-VSNX-SPACER.kicad_pcb **
+** Created on 2025-01-18T19:16:13+0000 **
+
+** Found 5 DRC violations **
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [GND] on F.Cu
+[isolated_copper]: Isolated copper fill
+    ; warning
+    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.25 mm, 143.75 mm): Footprint LOGO701
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(125.87625 mm, 144.0 mm): PCB Text 'L1, L2 ${HASH} ${DATE}' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(113.75 mm, 148.0 mm): PCB Text 'Intech Studio ${PROJECTNAME}' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

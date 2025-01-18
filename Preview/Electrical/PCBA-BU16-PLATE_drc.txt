@@ -1,0 +1,64 @@
+** Drc report for PCBA-BU16-PLATE.kicad_pcb **
+** Created on 2025-01-18T19:16:07+0000 **
+
+** Found 18 DRC violations **
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(74.12375 mm, 112.938125 mm): Footprint J1005
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(74.12375 mm, 87.061875 mm): Footprint J1003
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(125.87625 mm, 61.185625 mm): Footprint J1002
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(125.87625 mm, 138.814375 mm): Footprint J1012
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(74.12375 mm, 138.814375 mm): Footprint J1011
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(125.87625 mm, 87.061875 mm): Footprint J1004
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(125.87625 mm, 112.938125 mm): Footprint J1010
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(74.12375 mm, 61.185625 mm): Footprint J1001
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(87.0 mm, 125.5 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 112.938125 mm): Footprint J1005
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 87.061875 mm): Footprint J1003
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 61.185625 mm): Footprint J1002
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 138.814375 mm): Footprint J1012
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 138.814375 mm): Footprint J1011
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 87.061875 mm): Footprint J1004
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 112.938125 mm): Footprint J1010
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 61.185625 mm): Footprint J1001
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(113.0 mm, 126.0 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

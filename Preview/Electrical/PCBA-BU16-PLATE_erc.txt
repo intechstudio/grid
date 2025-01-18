@@ -1,0 +1,56 @@
+ERC report (2025-01-18T19:16:02+0000, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.524 mm, 1.27 mm): Symbol #PWR01005 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.778 mm, 1.5875 mm): Symbol #PWR01002 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.778 mm, 1.5367 mm): Symbol J1002 [SMD_NUT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.032 mm, 1.2827 mm): Symbol J1003 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.032 mm, 1.3335 mm): Symbol #PWR01003 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.778 mm, 1.3335 mm): Symbol #PWR01001 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.778 mm, 1.2827 mm): Symbol J1001 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.032 mm, 1.5875 mm): Symbol #PWR01004 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.032 mm, 1.5367 mm): Symbol J1004 [SMD_NUT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.778 mm, 1.7907 mm): Symbol J1005 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.778 mm, 1.8415 mm): Symbol #PWR01033 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.032 mm, 1.7907 mm): Symbol J1011 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.032 mm, 1.8415 mm): Symbol #PWR01035 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.778 mm, 2.0447 mm): Symbol J1010 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.778 mm, 2.0955 mm): Symbol #PWR01034 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.032 mm, 2.0447 mm): Symbol J1012 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.032 mm, 2.0955 mm): Symbol #PWR01036 [GND]
+
+ ** ERC messages: 17  Errors 0  Warnings 17

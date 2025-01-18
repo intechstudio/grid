@@ -1,5 +1,5 @@
 ** Drc report for PCBA-VSNX-LCDMOUNT.kicad_pcb **
-** Created on 2025-01-17T22:40:59+0000 **
+** Created on 2025-01-18T19:16:07+0000 **
 
 ** Found 66 DRC violations **
 [track_dangling]: Track has unconnected end
@@ -56,7 +56,7 @@
     @(52.93 mm, 58.03 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(146.5 mm, 77.83 mm): Segment on Edge.Cuts
+    @(147.5 mm, 69.33 mm): Arc on Edge.Cuts
     @(147.07 mm, 88.63 mm): Rectangle on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -207,7 +207,7 @@
     @(89.5 mm, 58.5 mm): Footprint R1001
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.0 mm, 126.0 mm): PCB Text 'Intech Studio LCDMOUNT ${HASH} ${D...' on F.Silkscreen
+    @(113.0 mm, 126.0 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(61.83 mm, 63.33 mm): Circle on B.Silkscreen
