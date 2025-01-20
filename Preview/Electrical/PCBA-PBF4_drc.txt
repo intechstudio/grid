@@ -1,7 +1,7 @@
 ** Drc report for PCBA-PBF4.kicad_pcb **
-** Created on 2025-01-18T19:16:15+0000 **
+** Created on 2025-01-20T17:05:59+0000 **
 
-** Found 277 DRC violations **
+** Found 305 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -262,18 +262,12 @@
     ; warning
     @(77.83 mm, 50.0 mm): Segment on Edge.Cuts
     @(104.75 mm, 56.57 mm): Segment on F.Silkscreen
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
     ; warning
-    @(59.995 mm, 132.385 mm): Footprint D903
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    @(74.12375 mm, 138.814375 mm): Footprint J509
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
     ; warning
-    @(113.335 mm, 132.385 mm): Footprint D909
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(86.665 mm, 132.385 mm): Footprint D906
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(140.005 mm, 132.385 mm): Footprint D912
+    @(125.87625 mm, 138.814375 mm): Footprint J510
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(86.665 mm, 52.375 mm): Footprint D904
@@ -292,9 +286,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(111.049 mm, 52.375 mm): Footprint C907
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(111.049 mm, 132.385 mm): Footprint C909
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(137.719 mm, 52.375 mm): Footprint C910
@@ -345,18 +336,6 @@
     @(150.0 mm, 73.33 mm): Footprint J503
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(53.264 mm, 140.005 mm): Footprint R1025
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(93.396 mm, 140.005 mm): Footprint R1026
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(106.604 mm, 140.005 mm): Footprint R1027
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(146.736 mm, 140.005 mm): Footprint R1028
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(71.425 mm, 92.507 mm): Footprint R1001
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -381,31 +360,10 @@
     @(140.005 mm, 59.995 mm): Footprint UI1007
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 140.005 mm): Footprint UI1010
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(113.335 mm, 140.005 mm): Footprint UI1011
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(140.005 mm, 140.005 mm): Footprint UI1012
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(57.709 mm, 132.385 mm): Footprint C903
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(84.379 mm, 74.6 mm): Footprint C905
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(84.379 mm, 132.385 mm): Footprint C906
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(137.719 mm, 132.385 mm): Footprint C912
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(150.0 mm, 126.67 mm): Footprint J505
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(59.995 mm, 140.005 mm): Footprint UI1009
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(124.765 mm, 92.507 mm): Footprint R1009
@@ -546,28 +504,76 @@
     @(57.455 mm, 69.52 mm): Footprint R1017
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(115.5 mm, 127.0 mm): Footprint R525
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(102.0 mm, 105.25 mm): Footprint C753
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(96.25 mm, 111.75 mm): Footprint R733
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(138.814375 mm, 134.115375 mm): Footprint D912
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(104.75 mm, 104.25 mm): Footprint L701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(113.0 mm, 128.0 mm): Footprint U511
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(141.25 mm, 129.0 mm): Footprint R531
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(100.35 mm, 108.0 mm): Footprint C750
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(135.25 mm, 127.0 mm): Footprint R530
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(105.25 mm, 101.5 mm): Footprint C749
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(83.5 mm, 127.0 mm): Footprint R522
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(89.5 mm, 127.0 mm): Footprint R521
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(87.061875 mm, 134.115375 mm): Footprint D906
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 138.814375 mm): Footprint J509
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(141.25 mm, 127.0 mm): Footprint R529
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(136.25 mm, 129.0 mm): Footprint R532
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(87.061875 mm, 138.814375 mm): Footprint SW506
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(104.0 mm, 60.5 mm): Footprint C602
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(63.75 mm, 127.0 mm): Footprint R517
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 138.814375 mm): Footprint J510
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(101.0 mm, 94.75 mm): Footprint C751
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(110.398125 mm, 143.114375 mm): Footprint C507
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(84.125 mm, 69.52 mm): Footprint R1019
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(61.185625 mm, 134.115375 mm): Footprint D903
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(105.25 mm, 57.5 mm): Footprint C603
@@ -576,13 +582,28 @@
     @(100.0 mm, 142.5 mm): Footprint R701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(89.5 mm, 129.0 mm): Footprint R523
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(140.005 mm, 76.505 mm): Footprint R1024
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(59.995 mm, 76.505 mm): Footprint R1018
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(57.75 mm, 127.0 mm): Footprint R518
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(58.75 mm, 129.0 mm): Footprint R520
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(61.25 mm, 128.0 mm): Footprint U509
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(110.795 mm, 69.52 mm): Footprint R1021
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(87.061875 mm, 143.114375 mm): Footprint U506
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(101.0 mm, 86.25 mm): Footprint R734
@@ -603,16 +624,49 @@
     @(98.5 mm, 58.25 mm): Footprint R602
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(112.938125 mm, 134.115375 mm): Footprint D909
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(98.75 mm, 105.25 mm): Footprint C752
 [lib_footprint_mismatch]: Footprint 'U.FL_Molex_MCRF_73412-0110_Vertical' does not match copy in library 'Connector_Coaxial'.
     ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(112.938125 mm, 143.114375 mm): Footprint U507
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(84.775875 mm, 134.115375 mm): Footprint C906
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(136.25 mm, 127.0 mm): Footprint C512
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(109.5 mm, 127.0 mm): Footprint R526
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(98.75 mm, 113.25 mm): Footprint C758
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(110.5 mm, 129.0 mm): Footprint R528
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(115.5 mm, 129.0 mm): Footprint R527
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(103.0 mm, 62.75 mm): Footprint U602
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(58.75 mm, 127.0 mm): Footprint C509
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(110.652125 mm, 134.115375 mm): Footprint C909
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(61.185625 mm, 143.114375 mm): Footprint U505
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(138.75 mm, 128.0 mm): Footprint U512
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(97.5 mm, 88.25 mm): Footprint U705
@@ -624,16 +678,34 @@
     @(100.0 mm, 100.0 mm): Footprint U704
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(58.899625 mm, 134.115375 mm): Footprint C903
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(63.75 mm, 129.0 mm): Footprint R519
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(103.0 mm, 105.25 mm): Footprint C754
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(101.0 mm, 90.25 mm): Footprint C756
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(87.0 mm, 128.0 mm): Footprint U510
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(86.665 mm, 76.505 mm): Footprint R1020
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(138.814375 mm, 138.814375 mm): Footprint SW508
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(94.75 mm, 57.5 mm): Footprint R603
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(136.528375 mm, 134.115375 mm): Footprint C912
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(84.521875 mm, 143.114375 mm): Footprint C506
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(100.0 mm, 126.67 mm): Footprint J799
@@ -642,16 +714,40 @@
     @(105.25 mm, 102.75 mm): Footprint C742
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(84.5 mm, 127.0 mm): Footprint C510
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(105.75 mm, 104.25 mm): Footprint C739
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(101.25 mm, 113.25 mm): Footprint R735
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(86.665 mm, 126.67 mm): Footprint LOGO701
+    @(84.5 mm, 129.0 mm): Footprint R524
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(110.5 mm, 127.0 mm): Footprint C511
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(112.938125 mm, 138.814375 mm): Footprint SW507
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(61.185625 mm, 138.814375 mm): Footprint SW505
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(73.33 mm, 115.0 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(58.645625 mm, 143.114375 mm): Footprint C505
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(102.1 mm, 108.0 mm): Footprint C748
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(136.274375 mm, 143.114375 mm): Footprint C508
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(138.814375 mm, 143.114375 mm): Footprint U508
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(98.0 mm, 105.25 mm): Footprint C732
@@ -711,7 +807,7 @@
     @(94.8184 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid PBF4 RevD 2024/...' on F.Silkscreen
+    @(126.67 mm, 115.0 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(94.0 mm, 118.0 mm): PCB Text 'BOOT 0' on F.Silkscreen
@@ -721,18 +817,6 @@
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(106.0 mm, 118.0 mm): PCB Text 'RESET' on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(61.445 mm, 132.935 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(114.785 mm, 132.935 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(88.115 mm, 132.935 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 52.925 mm): Segment on F.Silkscreen
@@ -753,37 +837,25 @@
     @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(81.915 mm, 66.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(86.665 mm, 59.995 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(108.585 mm, 66.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(113.335 mm, 59.995 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(135.255 mm, 66.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(140.005 mm, 59.995 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
-    @(80.665 mm, 144.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(92.665 mm, 135.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(107.335 mm, 144.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(119.335 mm, 135.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(134.005 mm, 144.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(146.005 mm, 135.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(53.995 mm, 144.505 mm): Segment on F.Silkscreen
-[silk_over_copper]: Silkscreen clipped by solder mask
-    ; warning
-    @(65.995 mm, 135.505 mm): Segment on F.Silkscreen
+    @(55.245 mm, 66.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(59.995 mm, 59.995 mm): Circle on F.Silkscreen
@@ -871,6 +943,18 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(104.75 mm, 56.57 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(140.264375 mm, 134.665375 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(88.511875 mm, 134.665375 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(62.635625 mm, 134.665375 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(114.388125 mm, 134.665375 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(92.25 mm, 97.75 mm): Circle on F.Silkscreen

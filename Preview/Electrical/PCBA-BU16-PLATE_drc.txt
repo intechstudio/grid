@@ -1,5 +1,5 @@
 ** Drc report for PCBA-BU16-PLATE.kicad_pcb **
-** Created on 2025-01-18T19:16:07+0000 **
+** Created on 2025-01-20T17:05:48+0000 **
 
 ** Found 18 DRC violations **
 [footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')

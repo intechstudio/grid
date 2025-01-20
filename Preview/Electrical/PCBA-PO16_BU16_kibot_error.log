@@ -1,6 +1,6 @@
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `erc` preflight instead of `run_erc` (kibot.pre_run_erc - pre_run_erc.py:77)
-WARNING:(W058) 448 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
+WARNING:(W058) 451 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
 WARNING:(W058) (multiple_net_names) Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     ; warning
     @(2.159 mm, 1.8542 mm): Global Label 'ESP_GPIO_1'
@@ -1152,7 +1152,19 @@ WARNING:(W058) (global_label_dangling) Global label not connected anywhere else 
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
     ; warning
+    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
     @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
     ; warning
@@ -1639,6 +1651,11 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     ; warning
     @(0.3302 mm, 0.9906 mm): Symbol R702 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
+    ; warning
+    @(1.0414 mm, 0.635 mm): Symbol #PWR0881 Hidden pin 1 [+3V3, Power input, Line]
+    @(0.7874 mm, 0.889 mm): Label 'HWCFG_HIGH'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.5588 mm, 0.5842 mm): Symbol R801 [RES]
@@ -1656,10 +1673,13 @@ WARNING:(W058) (multiple_net_names) Both GND and HWCFG_LOW are attached to the s
     @(1.0414 mm, 1.143 mm): Symbol #PWR0882 Hidden pin 1 [GND, Power input, Line]
     @(1.2954 mm, 0.9906 mm): Label 'HWCFG_LOW'
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.5588 mm, 0.5334 mm): Symbol #PWR0879 Hidden pin 1 [+3V3, Power input, Line]
-    @(1.2954 mm, 0.889 mm): Label 'HWCFG_HIGH'
+    @(1.0414 mm, 0.635 mm): Symbol #PWR0881 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.0414 mm, 0.8636 mm): Symbol U801 [74HC165]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
@@ -1668,14 +1688,6 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'p
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.2192 mm, 0.9398 mm): Symbol C801 [CAP]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 0.635 mm): Symbol #PWR0881 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.0414 mm, 0.8636 mm): Symbol U801 [74HC165]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)

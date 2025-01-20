@@ -1,10 +1,26 @@
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `erc` preflight instead of `run_erc` (kibot.pre_run_erc - pre_run_erc.py:77)
-WARNING:(W058) 341 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
+WARNING:(W058) 388 ERC warnings detected (eeschema_do - eeschema_do:622) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.54 mm, 2.286 mm): Symbol #PWR0517 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.54 mm, 2.2352 mm): Symbol J509 [SMD_NUT]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (multiple_net_names) Both ESP_GPIO_1 and ESP_GPIO_18 are attached to the same items; ESP_GPIO_1 will be used in the netlist
     ; warning
     @(2.159 mm, 1.8542 mm): Global Label 'ESP_GPIO_1'
     @(2.159 mm, 1.8796 mm): Global Label 'ESP_GPIO_18'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.794 mm, 2.286 mm): Symbol #PWR0518 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.794 mm, 2.2352 mm): Symbol J510 [SMD_NUT]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -46,29 +62,29 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     ; warning
     @(1.016 mm, 1.0922 mm): Symbol UI1006 [UI_Fader]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.1684 mm, 0.508 mm): Symbol #PWR01040 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1684 mm, 0.5588 mm): Symbol R1023 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.27 mm, 0.508 mm): Symbol UI1007 [UI_Potentiometer]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.8128 mm, 0.635 mm): Symbol #PWR01034 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.0668 mm, 0.635 mm): Symbol #PWR01039 [GND]
+    @(1.3208 mm, 0.635 mm): Symbol #PWR01044 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.3208 mm, 0.635 mm): Symbol #PWR01044 [GND]
+    @(1.0668 mm, 0.635 mm): Symbol #PWR01039 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.1684 mm, 0.5588 mm): Symbol R1023 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.1684 mm, 0.508 mm): Symbol #PWR01040 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.27 mm, 0.508 mm): Symbol UI1007 [UI_Potentiometer]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
@@ -81,6 +97,18 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'p
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.9144 mm, 0.5588 mm): Symbol R1021 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.762 mm, 0.508 mm): Symbol UI1003 [UI_Potentiometer]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.6604 mm, 0.508 mm): Symbol #PWR01030 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.6604 mm, 0.5588 mm): Symbol R1019 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (multiple_net_names) Both GND and OUT_8 are attached to the same items; GND will be used in the netlist
     ; warning
@@ -97,6 +125,10 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
+    @(0.6604 mm, 1.143 mm): Symbol #PWR01032 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
     @(0.6858 mm, 1.397 mm): Symbol #PWR01033 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
@@ -107,9 +139,9 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     ; warning
     @(0.6604 mm, 1.016 mm): Symbol R1020 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.6604 mm, 1.143 mm): Symbol #PWR01032 [GND]
+    @(0.4064 mm, 0.9652 mm): Symbol #PWR01026 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
@@ -117,15 +149,11 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.4064 mm, 1.016 mm): Symbol R1018 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.4064 mm, 0.9652 mm): Symbol #PWR01026 [+3V3]
+    @(0.508 mm, 1.0922 mm): Symbol UI1002 [UI_Fader]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.508 mm, 1.0922 mm): Symbol UI1002 [UI_Fader]
+    @(0.4064 mm, 1.016 mm): Symbol R1018 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
@@ -143,97 +171,101 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
     ; warning
     @(0.5588 mm, 0.635 mm): Symbol #PWR01029 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.4986 mm, 1.1684 mm): Symbol #PWR0547 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.4986 mm, 1.27 mm): Symbol #PWR0551 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.762 mm, 0.508 mm): Symbol UI1003 [UI_Potentiometer]
+    @(1.4986 mm, 1.2192 mm): Symbol C507 [CAP]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.6604 mm, 0.508 mm): Symbol #PWR01030 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.6604 mm, 0.5588 mm): Symbol R1019 [RES]
+    @(1.5748 mm, 1.0922 mm): Symbol #PWR0543 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.9304 mm, 1.1938 mm): Symbol #PWR01054 [GND]
+    @(1.5748 mm, 1.3462 mm): Symbol #PWR0555 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.6256 mm, 1.1938 mm): Symbol #PWR01053 [GND]
+    @(2.0828 mm, 1.27 mm): Symbol #PWR0552 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.524 mm, 1.143 mm): Symbol UI1011 [UI_Pushbutton_Omron]
+    @(2.159 mm, 1.3462 mm): Symbol #PWR0556 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(2.2098 mm, 1.0922 mm): Symbol #PWR01056 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.159 mm, 1.1176 mm): Symbol R1028 [RES]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.032 mm, 1.143 mm): Symbol UI1012 [UI_Pushbutton_Omron]
+    @(1.7018 mm, 1.0668 mm): Symbol #PWR0539 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(2.1336 mm, 1.1938 mm): Symbol #PWR01055 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.508 mm, 1.143 mm): Symbol UI1009 [UI_Pushbutton_Omron]
+    @(0.5588 mm, 1.3462 mm): Symbol #PWR0553 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.4064 mm, 1.1938 mm): Symbol #PWR01046 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.381 mm, 1.1176 mm): Symbol R1025 [RES]
+    @(1.0668 mm, 1.27 mm): Symbol #PWR0550 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.4224 mm, 1.1938 mm): Symbol #PWR01052 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.6096 mm, 1.1938 mm): Symbol #PWR01047 [GND]
+    @(1.143 mm, 1.3462 mm): Symbol #PWR0554 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(1.1938 mm, 1.0922 mm): Symbol #PWR01050 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.143 mm, 1.1176 mm): Symbol R1026 [RES]
+    @(0.5588 mm, 1.0922 mm): Symbol #PWR0541 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(0.3302 mm, 1.0922 mm): Symbol #PWR01045 [+3V3]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1176 mm, 1.1938 mm): Symbol #PWR01049 [GND]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.016 mm, 1.143 mm): Symbol UI1010 [UI_Pushbutton_Omron]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.397 mm, 1.1176 mm): Symbol R1027 [RES]
+    @(0.4826 mm, 1.1684 mm): Symbol #PWR0545 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
-    @(1.3462 mm, 1.0922 mm): Symbol #PWR01051 [+3V3]
+    @(0.6858 mm, 1.0668 mm): Symbol #PWR0537 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.27 mm, 1.0668 mm): Symbol #PWR0538 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.143 mm, 1.0922 mm): Symbol #PWR0542 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.9144 mm, 1.1938 mm): Symbol #PWR01048 [GND]
+    @(0.4826 mm, 1.27 mm): Symbol #PWR0549 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.4826 mm, 1.2192 mm): Symbol C505 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.0668 mm, 1.2192 mm): Symbol C506 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.0668 mm, 1.1684 mm): Symbol #PWR0546 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.0828 mm, 1.1684 mm): Symbol #PWR0548 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.0828 mm, 1.2192 mm): Symbol C508 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.159 mm, 1.0922 mm): Symbol #PWR0544 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.286 mm, 1.0668 mm): Symbol #PWR0540 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+5V' has been modified in library 'power'
     ; warning
@@ -733,7 +765,19 @@ WARNING:(W058) (global_label_dangling) Global label not connected anywhere else 
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
     ; warning
+    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
     @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (global_label_dangling) Global label not connected anywhere else in the schematic
     ; warning
@@ -1195,7 +1239,7 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (multiple_net_names) Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; warning
     @(1.0414 mm, 0.635 mm): Symbol #PWR0832 Hidden pin 1 [+3V3, Power input, Line]
-    @(0.7874 mm, 0.762 mm): Label 'HWCFG_HIGH'
+    @(0.7874 mm, 0.889 mm): Label 'HWCFG_HIGH'
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
     ; warning
@@ -1226,184 +1270,61 @@ WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'p
     ; warning
     @(1.2192 mm, 0.8636 mm): Symbol #PWR0880 [+3V3]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9906 mm, 0.889 mm): Symbol #PWR0568 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 0.8128 mm): Symbol R532 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.0414 mm, 0.5842 mm): Symbol R529 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.9906 mm, 0.5334 mm): Symbol #PWR0565 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.9144 mm, 0.6604 mm): Symbol R530 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.8382 mm, 0.762 mm): Symbol R531 [RES]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.2192 mm, 0.635 mm): Symbol #PWR0567 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2192 mm, 0.5842 mm): Symbol C512 [CAP]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.2192 mm, 0.5334 mm): Symbol #PWR0566 [+3V3]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
-WARNING:(W135) Description field mismatch for `D903` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D909` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D906` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D912` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D904` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D907` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D911` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C757` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C904` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C907` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C909` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C910` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C911` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1001` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1002` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1005` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1006` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D901` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D905` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D910` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J504` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J506` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J507` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J501` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J508` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J502` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J503` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1025` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1026` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1027` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1028` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1001` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1002` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1005` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1006` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R736` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1003` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1005` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1007` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1010` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1011` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1012` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C903` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C905` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C906` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C912` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J505` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1009` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1009` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1010` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1014` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1002` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1010` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1011` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1014` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1015` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1001` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1001` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1003` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1004` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1007` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1008` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1003` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1004` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1007` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1008` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1013` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1012` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1013` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1016` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1017` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1011` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1012` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1015` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1016` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C901` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C801` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1018` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1009` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW701` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U801` (SCH: `` PCB: `8-bit serial in/out Shift Register 3-State Outputs`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1004` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1008` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1002` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D902` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C902` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D908` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C908` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1006` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J601` (SCH: `` PCB: `USB Type-C Receptacle connector`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U601` (SCH: `` PCB: `Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW703` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1022` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L601` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1017` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C753` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R733` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L701` (SCH: `` PCB: `Inductor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C750` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J702` (SCH: `` PCB: `Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP709` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C749` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP708` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C602` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C751` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1019` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C603` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP706` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R701` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1024` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1018` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1021` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R734` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1023` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C601` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R601` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `M501` (SCH: `` PCB: `Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R602` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C752` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J701` (SCH: `` PCB: `coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW702` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP710` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C758` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U602` (SCH: `` PCB: `300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `Y701` (SCH: `` PCB: `Four pin crystal, GND on pins 2 and 3, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U705` (SCH: `` PCB: `16Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C755` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U704` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C754` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C756` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1020` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R603` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP707` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J799` (SCH: `` PCB: `Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C742` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C739` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R735` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Value field mismatch for `LOGO701` (SCH: `OSHWA` PCB: `LOGO`) (kibot - kiplot.py:393)
-WARNING:(W135) Description field mismatch for `LOGO701` (SCH: `` PCB: `Open Hardware logo, small`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C748` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP601` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP602` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP603` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP604` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C732` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C735` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP704` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L702` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C731` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C747` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C743` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C746` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C738` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C733` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP605` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C734` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP705` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C745` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C740` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R729` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C744` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C736` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP703` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U703` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C741` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP701` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C737` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP702` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U511` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U509` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U506` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Datasheet field mismatch for `J701` (SCH: `~` PCB: ` ~`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U507` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U505` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U512` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U510` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U508` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L601) (kibot - units.py:239)
 WARNING:(W020) Malformed value: `GZ2012D601TF` (no match in L702) (kibot - units.py:239)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) For KiCad 8 use the `drc` preflight instead of `run_drc` (kibot.pre_run_drc - pre_run_drc.py:81)
-ERROR:Found 0 DRC errors and 191 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:130)
+ERROR:Found 0 DRC errors and 223 unconnected pad/s or warnings (pcbnew_do - pcbnew_do:1443) (kibot - kiplot.py:130)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, use `pcb_print` instead (kibot - out_any_pcb_print.py:72)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
@@ -1411,174 +1332,15 @@ WARNING:(W143) The `pdf_pcb_print` and `svg_pcb_print` outputs are deprecated, u
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W015) Unknown option `exclude_filter` (kibot - optionable.py:225)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
-WARNING:(W135) Description field mismatch for `D903` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D909` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D906` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D912` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D904` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D907` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D911` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C757` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C904` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C907` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C909` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C910` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C911` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1001` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1002` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1005` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1006` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D901` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D905` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D910` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J504` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J506` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J507` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J501` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J508` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J502` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J503` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1025` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1026` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1027` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1028` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1001` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1002` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1005` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1006` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R736` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1003` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1005` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1007` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1010` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1011` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1012` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C903` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C905` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C906` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C912` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J505` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1009` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1009` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1010` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1014` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1002` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1010` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1011` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1014` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1015` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1001` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1001` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1003` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1004` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1007` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1008` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1003` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1004` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1007` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1008` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1013` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1012` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1013` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1016` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1017` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1011` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1012` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1015` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1016` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C901` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C801` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1018` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1009` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW701` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U801` (SCH: `` PCB: `8-bit serial in/out Shift Register 3-State Outputs`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1004` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1008` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1002` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D902` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C902` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D908` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C908` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1006` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J601` (SCH: `` PCB: `USB Type-C Receptacle connector`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U601` (SCH: `` PCB: `Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW703` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1022` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L601` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1017` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C753` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R733` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L701` (SCH: `` PCB: `Inductor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C750` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J702` (SCH: `` PCB: `Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP709` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C749` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP708` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C602` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C751` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1019` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C603` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP706` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R701` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1024` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1018` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1021` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R734` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1023` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C601` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R601` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `M501` (SCH: `` PCB: `Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R602` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C752` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J701` (SCH: `` PCB: `coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW702` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP710` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C758` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U602` (SCH: `` PCB: `300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `Y701` (SCH: `` PCB: `Four pin crystal, GND on pins 2 and 3, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U705` (SCH: `` PCB: `16Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C755` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U704` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C754` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C756` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1020` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R603` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP707` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J799` (SCH: `` PCB: `Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C742` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C739` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R735` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Value field mismatch for `LOGO701` (SCH: `OSHWA` PCB: `LOGO`) (kibot - kiplot.py:393)
-WARNING:(W135) Description field mismatch for `LOGO701` (SCH: `` PCB: `Open Hardware logo, small`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C748` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP601` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP602` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP603` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP604` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C732` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C735` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP704` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L702` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C731` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C747` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C743` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C746` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C738` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C733` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP605` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C734` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP705` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C745` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C740` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R729` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C744` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C736` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP703` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U703` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C741` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP701` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C737` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP702` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U511` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U509` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U506` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Datasheet field mismatch for `J701` (SCH: `~` PCB: ` ~`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U507` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U505` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U512` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U510` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U508` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W049) Layer "Inner layer 3" (In3_Cu) isn't used (kibot - out_any_layer.py:188)
 WARNING:(W049) Layer "Inner layer 4" (In4_Cu) isn't used (kibot - out_any_layer.py:188)
@@ -1587,182 +1349,19 @@ WARNING:(W049) Layer "Inner layer 6" (In6_Cu) isn't used (kibot - out_any_layer.
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
-WARNING:(W135) Description field mismatch for `D903` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D909` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D906` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D912` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D904` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D907` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D911` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C757` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C904` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C907` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C909` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C910` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C911` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1001` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1002` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1005` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1006` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D901` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D905` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D910` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J504` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J506` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J507` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J501` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J508` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J502` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J503` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1025` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1026` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1027` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1028` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1001` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1002` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1005` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1006` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R736` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1003` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1005` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1007` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1010` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1011` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1012` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C903` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C905` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C906` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C912` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J505` (SCH: `` PCB: `Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1009` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1009` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1010` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1014` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1002` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1010` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1011` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1014` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1015` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U1001` (SCH: `` PCB: `Analog Multiplexer 8 to 1 lins`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1001` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1003` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1004` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1007` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1008` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1003` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1004` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1007` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1008` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1013` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1012` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1013` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1016` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1017` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1011` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1012` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1015` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1016` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C901` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C801` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1018` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C1009` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW701` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U801` (SCH: `` PCB: `8-bit serial in/out Shift Register 3-State Outputs`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1004` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1008` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1002` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D902` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C902` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `D908` (SCH: `` PCB: `RGB LED with integrated controller`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C908` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `UI1006` (SCH: `` PCB: `Rotary encoder, dual channel, incremental quadrate outputs, with switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J601` (SCH: `` PCB: `USB Type-C Receptacle connector`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U601` (SCH: `` PCB: `Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW703` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1022` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L601` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1017` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C753` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R733` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L701` (SCH: `` PCB: `Inductor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C750` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J702` (SCH: `` PCB: `Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP709` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C749` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP708` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C602` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C751` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1019` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C603` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP706` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R701` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1024` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1018` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1021` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R734` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1023` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C601` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R601` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `M501` (SCH: `` PCB: `Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R602` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C752` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J701` (SCH: `` PCB: `coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `SW702` (SCH: `` PCB: `Single Pole Single Throw (SPST) switch`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP710` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C758` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U602` (SCH: `` PCB: `300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `Y701` (SCH: `` PCB: `Four pin crystal, GND on pins 2 and 3, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U705` (SCH: `` PCB: `16Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C755` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U704` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C754` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C756` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R1020` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R603` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP707` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `J799` (SCH: `` PCB: `Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C742` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C739` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R735` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Value field mismatch for `LOGO701` (SCH: `OSHWA` PCB: `LOGO`) (kibot - kiplot.py:393)
-WARNING:(W135) Description field mismatch for `LOGO701` (SCH: `` PCB: `Open Hardware logo, small`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C748` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP601` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP602` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP603` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP604` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C732` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C735` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP704` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `L702` (SCH: `` PCB: `Ferrite bead, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C731` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C747` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C743` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C746` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C738` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C733` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP605` (SCH: `` PCB: `test point (alternative shape)`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C734` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP705` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C745` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C740` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `R729` (SCH: `` PCB: `Resistor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C744` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C736` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP703` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `U703` (SCH: `` PCB: `A microcontroller by Raspberry Pi`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C741` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP701` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `C737` (SCH: `` PCB: `Unpolarized capacitor, small symbol`) (kibot - kiplot.py:349)
-WARNING:(W135) Description field mismatch for `TP702` (SCH: `` PCB: `test point`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U511` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U509` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U506` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Datasheet field mismatch for `J701` (SCH: `~` PCB: ` ~`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U507` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U505` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U512` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U510` (SCH: `LM321` PCB: `C90297`) (kibot - kiplot.py:349)
+WARNING:(W135) Part field mismatch for `U508` (SCH: `A1301KLHLT-T` PCB: `C85573`) (kibot - kiplot.py:349)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:307)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - config.py:114)
-WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -1773,10 +1372,6 @@ WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for UI1003: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1005: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1007: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1010: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1012: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/SW-SMD_L4.6-W3.5-H1.8-P4.3.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
@@ -1787,18 +1382,18 @@ WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
-WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  11 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W143) This output depends on KiCad version, use `blender_export` instead (kibot - out_render_3d.py:307)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - config.py:114)
-WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -1809,10 +1404,6 @@ WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for UI1003: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1005: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1007: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1010: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1012: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/SW-SMD_L4.6-W3.5-H1.8-P4.3.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
@@ -1823,17 +1414,17 @@ WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
-WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  11 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - config.py:114)
-WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -1844,10 +1435,6 @@ WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for UI1003: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1005: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1007: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1010: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1012: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/SW-SMD_L4.6-W3.5-H1.8-P4.3.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
@@ -1858,17 +1445,17 @@ WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
-WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  11 3D models downloaded or cached (kibot - out_base_3d.py:527)
 WARNING:(W143) The `ignore_unconnected` preflight is deprecated, use the `ignore_unconnected` option (kibot.pre_ignore_unconnected - pre_ignore_unconnected.py:26)
 WARNING:(W037) Field Datasheet of component J701 (Conn_Coaxial C5137195) contains extra spaces: ` ~` removing them. (kibot - v5_sch.py:1049)
 ERROR:Unable to expand `INTECH_3D` in `${INTECH_3D}/ws2812-2020.step` (kibot - config.py:114)
-WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D904: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D907: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for D911: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
@@ -1879,10 +1466,6 @@ WARNING:(W047) Missing 3D model for D910: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for UI1003: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1005: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1007: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1010: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1011: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1012: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
-WARNING:(W047) Missing 3D model for UI1009: `${INTECH_3D}/B3F_4050.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1001: `${INTECH_3D}/ptv09a-4x20f-xxxx.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/SW-SMD_L4.6-W3.5-H1.8-P4.3.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for SW701: `${INTECH_3D}/hyp_mapmode.step` (kibot - out_base_3d.py:514)
@@ -1893,7 +1476,11 @@ WARNING:(W047) Missing 3D model for D902: `${INTECH_3D}/ws2812-2020.step` (kibot
 WARNING:(W047) Missing 3D model for D908: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for UI1006: `${INTECH_3D}/FADER ps30-10mc1br10k.stp` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for J601: `${INTECH_3D}/HRO_TYPE-C-31-M-12.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D912: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D906: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D903: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
+WARNING:(W047) Missing 3D model for D909: `${INTECH_3D}/ws2812-2020.step` (kibot - out_base_3d.py:514)
 WARNING:(W048) Failed to download `https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Connector_Coaxial.3dshapes%2FU.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:174)
 WARNING:(W047) Missing 3D model for J701: `${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl` (kibot - out_base_3d.py:514)
 WARNING:(W047) Missing 3D model for U705: `${INTECH_3D}/SOIC-8-1_wide.STEP` (kibot - out_base_3d.py:514)
-WARNING:(W098)  10 3D models downloaded or cached (kibot - out_base_3d.py:527)
+WARNING:(W098)  11 3D models downloaded or cached (kibot - out_base_3d.py:527)
