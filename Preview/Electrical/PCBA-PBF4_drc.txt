@@ -1,7 +1,7 @@
 ** Drc report for PCBA-PBF4.kicad_pcb **
-** Created on 2025-01-20T17:05:59+0000 **
+** Created on 2025-01-22T18:54:46+0000 **
 
-** Found 305 DRC violations **
+** Found 302 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -92,18 +92,6 @@
     @(101.25 mm, 113.25 mm): Footprint R735
 [courtyards_overlap]: Courtyards overlap
     ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(98.0 mm, 66.0 mm): Footprint TP603
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(102.0 mm, 66.0 mm): Footprint TP605
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(98.0 mm, 66.0 mm): Footprint TP603
-    @(96.0 mm, 66.0 mm): Footprint TP604
-[courtyards_overlap]: Courtyards overlap
-    ; warning
     @(98.0 mm, 93.5 mm): Footprint TP704
     @(98.0 mm, 95.0 mm): Footprint TP703
 [courtyards_overlap]: Courtyards overlap
@@ -132,7 +120,7 @@
     @(50.0 mm, 68.83 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(50.0 mm, 122.17 mm): Segment on Edge.Cuts
+    @(51.5 mm, 77.33 mm): Arc on Edge.Cuts
     @(50.0 mm, 77.83 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -148,7 +136,7 @@
     @(50.0 mm, 122.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(51.5 mm, 130.67 mm): Arc on Edge.Cuts
+    @(50.0 mm, 144.0 mm): Segment on Edge.Cuts
     @(50.0 mm, 131.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -192,7 +180,7 @@
     @(77.33 mm, 51.5 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(122.67 mm, 148.5 mm): Arc on Edge.Cuts
+    @(122.17 mm, 150.0 mm): Segment on Edge.Cuts
     @(122.17 mm, 150.0 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
@@ -248,7 +236,7 @@
     @(150.0 mm, 131.17 mm): Segment on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning
-    @(150.0 mm, 122.17 mm): Segment on Edge.Cuts
+    @(148.0 mm, 122.67 mm): Segment on Edge.Cuts
     @(148.500001 mm, 122.670001 mm): Arc on F.Silkscreen
 [silk_edge_clearance]: Silkscreen clipped by board edge
     ; warning

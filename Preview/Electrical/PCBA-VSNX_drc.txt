@@ -1,7 +1,7 @@
 ** Drc report for PCBA-VSNX.kicad_pcb **
-** Created on 2025-01-20T17:07:32+0000 **
+** Created on 2025-01-22T18:54:42+0000 **
 
-** Found 333 DRC violations **
+** Found 328 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -87,10 +87,6 @@
     @(102.0 mm, 118.0 mm): Footprint SW702
 [courtyards_overlap]: Courtyards overlap
     ; warning
-    @(93.75 mm, 101.0 mm): Footprint TP905
-    @(91.75 mm, 101.0 mm): Footprint TP904
-[courtyards_overlap]: Courtyards overlap
-    ; warning
     @(101.25 mm, 110.25 mm): Footprint Y701
     @(105.0 mm, 107.25 mm): Footprint J701
 [courtyards_overlap]: Courtyards overlap
@@ -135,10 +131,6 @@
     @(96.25 mm, 111.75 mm): Footprint R733
 [courtyards_overlap]: Courtyards overlap
     ; warning
-    @(91.75 mm, 101.0 mm): Footprint TP904
-    @(89.75 mm, 101.0 mm): Footprint TP906
-[courtyards_overlap]: Courtyards overlap
-    ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
     @(104.75 mm, 104.25 mm): Footprint L701
 [courtyards_overlap]: Courtyards overlap
@@ -149,18 +141,6 @@
     ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
     @(103.0 mm, 105.25 mm): Footprint C754
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(98.0 mm, 66.0 mm): Footprint TP603
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(102.0 mm, 66.0 mm): Footprint TP605
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(98.0 mm, 66.0 mm): Footprint TP603
-    @(96.0 mm, 66.0 mm): Footprint TP604
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(100.0 mm, 100.0 mm): Footprint U703

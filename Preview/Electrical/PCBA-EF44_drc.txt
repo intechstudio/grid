@@ -1,7 +1,7 @@
 ** Drc report for PCBA-EF44.kicad_pcb **
-** Created on 2025-01-20T17:05:57+0000 **
+** Created on 2025-01-22T18:54:38+0000 **
 
-** Found 286 DRC violations **
+** Found 283 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(104.25 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -90,18 +90,6 @@
     ; warning
     @(103.0 mm, 118.0 mm): Footprint SW702
     @(101.25 mm, 113.25 mm): Footprint R735
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(98.0 mm, 66.0 mm): Footprint TP603
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(102.0 mm, 66.0 mm): Footprint TP605
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(98.0 mm, 66.0 mm): Footprint TP603
-    @(96.0 mm, 66.0 mm): Footprint TP604
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(96.5 mm, 93.5 mm): Footprint TP702
@@ -702,7 +690,7 @@
     @(94.666 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(126.67 mm, 140.005 mm): PCB Text 'Intech Studio Grid EF44 RevD 2024/...' on F.Silkscreen
+    @(126.67 mm, 140.005 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(106.0 mm, 118.0 mm): PCB Text 'RESET' on F.Silkscreen
@@ -864,6 +852,26 @@
     @(113.335 mm, 145.5 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
     @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
     @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -888,18 +896,6 @@
     @(81.665 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(58.545 mm, 53.525 mm): Segment on F.Silkscreen
     @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -918,14 +914,6 @@
     ; warning
     @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
     @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(96.5 mm, 93.5 mm): Circle on B.Silkscreen

@@ -1,4 +1,4 @@
-ERC report (2025-01-20T17:07:19+0000, Encoding UTF8)
+ERC report (2025-01-22T18:54:28+0000, Encoding UTF8)
 
 ***** Sheet /
 [no_connect_connected]: A pin with a "no connection" flag is connected
@@ -1246,7 +1246,7 @@ ERC report (2025-01-20T17:07:19+0000, Encoding UTF8)
     @(0.4318 mm, 0.8128 mm): Symbol R801 [RES]
 [multiple_net_names]: Both +3V3 and HWCFG_HIGH are attached to the same items; +3V3 will be used in the netlist
     ; warning
-    @(1.2192 mm, 0.8636 mm): Symbol #PWR0849 Hidden pin 1 [+3V3, Power input, Line]
+    @(1.0414 mm, 0.635 mm): Symbol #PWR0832 Hidden pin 1 [+3V3, Power input, Line]
     @(0.7874 mm, 0.8128 mm): Label 'HWCFG_HIGH'
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning

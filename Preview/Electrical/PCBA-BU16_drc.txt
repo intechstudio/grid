@@ -1,7 +1,7 @@
 ** Drc report for PCBA-BU16.kicad_pcb **
-** Created on 2025-01-20T17:06:01+0000 **
+** Created on 2025-01-22T18:54:45+0000 **
 
-** Found 315 DRC violations **
+** Found 312 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(104.25 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -135,18 +135,6 @@
     ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
     @(103.0 mm, 105.25 mm): Footprint C754
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(98.0 mm, 66.0 mm): Footprint TP603
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(102.0 mm, 66.0 mm): Footprint TP605
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(98.0 mm, 66.0 mm): Footprint TP603
-    @(96.0 mm, 66.0 mm): Footprint TP604
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(100.0 mm, 100.0 mm): Footprint U703
@@ -944,7 +932,7 @@
     @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(125.75 mm, 133.0 mm): PCB Text 'Intech Studio Grid BU16 ${HASH} ${...' on F.Silkscreen
+    @(125.75 mm, 133.0 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(100.0 mm, 122.75 mm): PCB Text 'GND' on F.Silkscreen

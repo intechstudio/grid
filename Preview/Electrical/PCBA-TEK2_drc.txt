@@ -1,7 +1,7 @@
 ** Drc report for PCBA-TEK2.kicad_pcb **
-** Created on 2025-01-20T17:05:59+0000 **
+** Created on 2025-01-22T18:54:37+0000 **
 
-** Found 281 DRC violations **
+** Found 278 DRC violations **
 [isolated_copper]: Isolated copper fill
     ; warning
     @(50.0 mm, 50.0 mm): Zone [+5V] on F.Cu
@@ -98,18 +98,6 @@
     ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
     @(103.0 mm, 105.25 mm): Footprint C754
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(98.0 mm, 66.0 mm): Footprint TP603
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(100.0 mm, 66.0 mm): Footprint TP602
-    @(102.0 mm, 66.0 mm): Footprint TP605
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(98.0 mm, 66.0 mm): Footprint TP603
-    @(96.0 mm, 66.0 mm): Footprint TP604
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(100.0 mm, 100.0 mm): Footprint U703
@@ -749,7 +737,7 @@
     @(94.8692 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX       E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio Grid TEK2 RevD 2024/...' on F.Silkscreen
+    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(100.0 mm, 122.75 mm): PCB Text 'GND' on F.Silkscreen

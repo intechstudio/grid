@@ -927,10 +927,6 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'po
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
-    ; warning
     @(1.016 mm, 0.9652 mm): Symbol R602 [RES]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
@@ -944,6 +940,10 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.9398 mm, 1.016 mm): Symbol #PWR0612 [GND]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (lib_symbol_issues) The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning
@@ -969,6 +969,11 @@ WARNING:(W058) (lib_symbol_issues) The current configuration does not include th
     ; warning
     @(0.254 mm, 1.397 mm): Symbol C603 [CAP]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
+WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
+    ; warning
+    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
+    @(0.762 mm, 0.7112 mm): Symbol #PWR0605 Hidden pin 1 [VBUS, Power input, Line]
+ (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
     ; warning
     @(0.762 mm, 0.7112 mm): Symbol #PWR0605 [VBUS]
@@ -976,11 +981,6 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'p
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning
     @(0.6604 mm, 0.7112 mm): Symbol #FLG0602 [PWR_FLAG]
- (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
-WARNING:(W058) (multiple_net_names) Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
-    ; warning
-    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'power'
     ; warning
@@ -996,11 +996,11 @@ WARNING:(W058) (lib_symbol_issues) Symbol 'VBUS' has been modified in library 'p
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.397 mm, 0.4064 mm): Symbol #PWR0602 [GND]
+    @(1.0668 mm, 0.4826 mm): Symbol #PWR0604 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.0668 mm, 0.4826 mm): Symbol #PWR0604 [GND]
+    @(1.397 mm, 0.4064 mm): Symbol #PWR0602 [GND]
  (eeschema_do.kiauto.file_util - file_util.py:154) (kibot - kiplot.py:133)
 WARNING:(W058) (lib_symbol_issues) Symbol 'PWR_FLAG' has been modified in library 'power'
     ; warning

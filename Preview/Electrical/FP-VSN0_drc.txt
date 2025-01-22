@@ -1,5 +1,5 @@
 ** Drc report for FP-VSN0.kicad_pcb **
-** Created on 2025-01-20T17:07:02+0000 **
+** Created on 2025-01-22T18:55:49+0000 **
 
 ** Found 3 DRC violations **
 [silk_over_copper]: Silkscreen clipped by solder mask
