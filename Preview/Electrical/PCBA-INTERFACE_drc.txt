@@ -1,5 +1,5 @@
 ** Drc report for PCBA-INTERFACE.kicad_pcb **
-** Created on 2025-01-22T18:54:30+0000 **
+** Created on 2025-02-06T09:25:54+0000 **
 
 ** Found 52 DRC violations **
 [courtyards_overlap]: Courtyards overlap
@@ -64,7 +64,7 @@
     @(57.9884 mm, 111.05 mm): Footprint C4
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(95.75 mm, 111.0 mm): Footprint R7
+    @(95.5 mm, 111.0 mm): Footprint R7
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(98.171 mm, 110.998 mm): Footprint C2
@@ -154,7 +154,7 @@
     @(73.33 mm, 106.0 mm): Footprint J1
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
     ; warning
-    @(100.0 mm, 102.0 mm): PCB Text 'INTERFACE ${HASH} EE: SUKU ${DATE}' on F.Silkscreen
+    @(100.0 mm, 101.75 mm): PCB Text 'INTERFACE ${HASH} EE: SUKU ${DATE}' on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(70.968 mm, 109.472 mm): Circle on F.Silkscreen
