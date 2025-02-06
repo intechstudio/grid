@@ -1,0 +1,19 @@
+** Drc report for PCBA-PBF4-SPACER.kicad_pcb **
+** Created on 2025-02-06T13:52:04+0000 **
+
+** Found 3 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.25 mm, 143.75 mm): Footprint LOGO701
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(125.87625 mm, 144.0 mm): PCB Text 'L1, L2 ${HASH} ${DATE}' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(113.75 mm, 148.0 mm): PCB Text 'Intech Studio ${PROJECTNAME}' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

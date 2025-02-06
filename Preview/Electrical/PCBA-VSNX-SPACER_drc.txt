@@ -1,13 +1,7 @@
 ** Drc report for PCBA-VSNX-SPACER.kicad_pcb **
-** Created on 2025-02-06T12:32:52+0000 **
+** Created on 2025-02-06T13:53:16+0000 **
 
-** Found 5 DRC violations **
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on F.Cu
-[isolated_copper]: Isolated copper fill
-    ; warning
-    @(50.0 mm, 50.0 mm): Zone [GND] on B.Cu
+** Found 3 DRC violations **
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(74.25 mm, 143.75 mm): Footprint LOGO701

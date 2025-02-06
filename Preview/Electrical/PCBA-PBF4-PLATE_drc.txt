@@ -1,0 +1,28 @@
+** Drc report for PCBA-PBF4-PLATE.kicad_pcb **
+** Created on 2025-02-06T13:51:14+0000 **
+
+** Found 6 DRC violations **
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(125.87625 mm, 138.814375 mm): Footprint J1012
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    ; warning
+    @(74.12375 mm, 138.814375 mm): Footprint J1011
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.0 mm, 144.0 mm): Footprint LOGO701
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(125.87625 mm, 138.814375 mm): Footprint J1012
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(74.12375 mm, 138.814375 mm): Footprint J1011
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    ; warning
+    @(100.0 mm, 135.0 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

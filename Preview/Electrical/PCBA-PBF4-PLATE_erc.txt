@@ -1,0 +1,20 @@
+ERC report (2025-02-06T13:51:09+0000, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.778 mm, 2.0447 mm): Symbol J1011 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.778 mm, 2.0955 mm): Symbol #PWR01035 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.524 mm, 1.27 mm): Symbol #PWR01005 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.032 mm, 2.0447 mm): Symbol J1012 [SMD_NUT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.032 mm, 2.0955 mm): Symbol #PWR01036 [GND]
+
+ ** ERC messages: 5  Errors 0  Warnings 5
