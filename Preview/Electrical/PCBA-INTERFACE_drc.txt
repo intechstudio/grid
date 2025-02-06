@@ -1,5 +1,5 @@
 ** Drc report for PCBA-INTERFACE.kicad_pcb **
-** Created on 2025-02-06T09:25:54+0000 **
+** Created on 2025-02-06T12:07:29+0000 **
 
 ** Found 52 DRC violations **
 [courtyards_overlap]: Courtyards overlap
