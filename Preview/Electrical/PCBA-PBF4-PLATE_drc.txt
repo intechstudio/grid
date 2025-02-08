@@ -1,5 +1,5 @@
 ** Drc report for PCBA-PBF4-PLATE.kicad_pcb **
-** Created on 2025-02-06T13:51:14+0000 **
+** Created on 2025-02-08T19:21:57+0000 **
 
 ** Found 6 DRC violations **
 [footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
