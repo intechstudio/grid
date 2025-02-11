@@ -1,7 +1,7 @@
 ** Drc report for PCBA-EN16.kicad_pcb **
-** Created on 2025-02-11T12:01:55+0000 **
+** Created on 2025-02-11T13:00:57+0000 **
 
-** Found 427 DRC violations **
+** Found 459 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -933,37 +933,73 @@
     @(61.445 mm, 132.935 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(61.695 mm, 133.785 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(114.785 mm, 132.935 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.035 mm, 133.785 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 132.935 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 52.925 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(88.365 mm, 53.775 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(61.445 mm, 52.925 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(61.695 mm, 53.775 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(61.445 mm, 79.595 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(61.695 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(95.25 mm, 56.57 mm): Segment on F.Silkscreen
@@ -981,6 +1017,9 @@
     @(65.995 mm, 65.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(59.995 mm, 59.995 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(76.33 mm, 114.3755 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -993,6 +1032,9 @@
     @(119.335 mm, 145.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(113.335 mm, 140.005 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(53.995 mm, 81.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1000,6 +1042,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(65.995 mm, 92.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(59.995 mm, 86.665 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(73.33 mm, 76.144 mm): Segment on F.Silkscreen
@@ -1014,6 +1059,9 @@
     @(61.445 mm, 106.265 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(61.695 mm, 107.115 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(80.665 mm, 54.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1021,6 +1069,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(92.665 mm, 65.495 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(86.665 mm, 59.995 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(73.33 mm, 123.856 mm): Segment on F.Silkscreen
@@ -1044,6 +1095,9 @@
     @(146.005 mm, 145.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(140.005 mm, 140.005 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(134.005 mm, 107.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1051,6 +1105,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(146.005 mm, 118.835 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(140.005 mm, 113.335 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(134.005 mm, 54.495 mm): Segment on F.Silkscreen
@@ -1062,6 +1119,9 @@
     @(146.005 mm, 65.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(140.005 mm, 59.995 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(107.335 mm, 81.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1069,6 +1129,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(119.335 mm, 92.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(113.335 mm, 86.665 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(107.335 mm, 54.495 mm): Segment on F.Silkscreen
@@ -1080,6 +1143,9 @@
     @(119.335 mm, 65.495 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(113.335 mm, 59.995 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(134.005 mm, 81.165 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1087,6 +1153,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(146.005 mm, 92.165 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(140.005 mm, 86.665 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(53.995 mm, 107.835 mm): Segment on F.Silkscreen
@@ -1098,10 +1167,16 @@
     @(65.995 mm, 118.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(59.995 mm, 113.335 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(129.67 mm, 114.374 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(107.335 mm, 107.835 mm): Segment on F.Silkscreen
@@ -1113,7 +1188,13 @@
     @(119.335 mm, 118.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(113.335 mm, 113.335 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(126.67 mm, 76.144 mm): Segment on F.Silkscreen
@@ -1140,6 +1221,9 @@
     @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(53.995 mm, 134.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1147,6 +1231,9 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(65.995 mm, 145.505 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(59.995 mm, 140.005 mm): Circle on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(80.665 mm, 81.165 mm): Segment on F.Silkscreen
@@ -1161,6 +1248,9 @@
     @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(86.665 mm, 86.665 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(80.665 mm, 134.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1170,6 +1260,9 @@
     @(92.665 mm, 145.505 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
+    @(86.665 mm, 140.005 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
     @(80.665 mm, 107.835 mm): Segment on F.Silkscreen
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
@@ -1177,126 +1270,33 @@
 [silk_over_copper]: Silkscreen clipped by solder mask
     ; warning
     @(92.665 mm, 118.835 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    ; warning
+    @(86.665 mm, 113.335 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
-    @(85.215 mm, 133.535 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
-    @(88.115 mm, 132.935 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
-    @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
     @(85.215 mm, 80.195 mm): Segment on F.Silkscreen
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
     @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
     @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
-    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
+    @(85.215 mm, 133.535 mm): Segment on F.Silkscreen
+    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+    @(88.115 mm, 132.935 mm): Segment on F.Silkscreen
+    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
+    @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
+    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(111.885 mm, 133.535 mm): Segment on F.Silkscreen
@@ -1315,28 +1315,32 @@
     @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(58.545 mm, 53.525 mm): Segment on F.Silkscreen
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(61.445 mm, 52.925 mm): Segment on F.Silkscreen
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(61.695 mm, 53.775 mm): Segment on F.Silkscreen
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
@@ -1363,18 +1367,6 @@
     @(81.665 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(61.445 mm, 132.935 mm): Segment on F.Silkscreen
-    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(61.695 mm, 133.785 mm): Segment on F.Silkscreen
-    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(58.545 mm, 133.535 mm): Segment on F.Silkscreen
-    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(58.545 mm, 80.195 mm): Segment on F.Silkscreen
     @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1387,16 +1379,120 @@
     @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(61.445 mm, 106.265 mm): Segment on F.Silkscreen
-    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
+    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(61.695 mm, 107.115 mm): Segment on F.Silkscreen
-    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
+    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(58.545 mm, 106.865 mm): Segment on F.Silkscreen
     @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(61.445 mm, 106.265 mm): Segment on F.Silkscreen
+    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
+    @(61.695 mm, 107.115 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(61.445 mm, 132.935 mm): Segment on F.Silkscreen
+    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(61.695 mm, 133.785 mm): Segment on F.Silkscreen
+    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(58.545 mm, 133.535 mm): Segment on F.Silkscreen
+    @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
+    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(96.5 mm, 93.5 mm): Circle on B.Silkscreen
