@@ -1,4 +1,4 @@
-ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
+ERC report (2025-02-11T21:08:01+0000, Encoding UTF8)
 
 ***** Sheet /
 
@@ -469,174 +469,6 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
 
 ***** Sheet /MCU/
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.4732 mm, 1.1684 mm): Symbol #PWR0817 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.6764 mm, 1.1684 mm): Symbol C750 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.6764 mm, 1.2192 mm): Symbol #PWR0821 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.6002 mm, 1.2192 mm): Symbol #PWR0819 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.6002 mm, 1.1684 mm): Symbol C748 [CAP]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.3462 mm, 0.3556 mm): Symbol #PWR0812 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.2954 mm, 0.7112 mm): Symbol C742 [CAP]
-[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
-    ; warning
-    @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 0.7366 mm): Symbol #PWR0804 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1938 mm, 0.762 mm): Symbol #PWR0808 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.3462 mm, 0.4318 mm): Symbol C743 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.3462 mm, 0.4826 mm): Symbol #PWR0813 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.2446 mm, 0.6604 mm): Symbol L701 [INDUCTOR]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.1938 mm, 0.7112 mm): Symbol C739 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.2954 mm, 0.762 mm): Symbol #PWR0811 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.4732 mm, 0.4318 mm): Symbol C746 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.5494 mm, 0.4318 mm): Symbol C747 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.6002 mm, 0.381 mm): Symbol L702 [FERRIT]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.651 mm, 0.4826 mm): Symbol #PWR0820 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.651 mm, 0.4318 mm): Symbol C749 [CAP]
-[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(1.7272 mm, 0.3556 mm): Symbol #FLG0701 [PWR_FLAG]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.5494 mm, 0.4826 mm): Symbol #PWR0818 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.4732 mm, 0.4826 mm): Symbol #PWR0816 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.8542 mm, 0.4064 mm): Symbol C751 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.8542 mm, 0.4572 mm): Symbol #PWR0823 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9304 mm, 0.3302 mm): Symbol #PWR0824 [VDD_SPI]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(1.8542 mm, 0.3302 mm): Symbol #PWR0822 [+3V3]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(2.0066 mm, 0.3302 mm): Symbol #PWR0826 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.7366 mm): Global Label 'ESP_GPIO_5'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.0668 mm): Global Label 'ESP_GPIO_18'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 1.016 mm): Global Label 'ESP_GPIO_16'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.7112 mm): Global Label 'ESP_GPIO_4'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.635 mm): Global Label 'ESP_GPIO_1'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.6604 mm): Global Label 'ESP_GPIO_2'
-[global_label_dangling]: Global label not connected anywhere else in the schematic
-    ; warning
-    @(2.286 mm, 0.6858 mm): Global Label 'ESP_GPIO_3'
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.0066 mm, 0.4064 mm): Symbol C752 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.0066 mm, 0.4572 mm): Symbol #PWR0827 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(2.3368 mm, 0.3556 mm): Symbol #PWR0830 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.2098 mm, 0.4826 mm): Symbol #PWR0828 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.2098 mm, 0.4318 mm): Symbol C753 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.286 mm, 0.4318 mm): Symbol C754 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.286 mm, 0.4826 mm): Symbol #PWR0829 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.1176 mm, 2.3114 mm): Symbol #PWR0807 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.7366 mm, 1.651 mm): Symbol #PWR0800 [+3V3]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.7874 mm, 1.7272 mm): Symbol C734 [CAP]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.889 mm, 1.7272 mm): Symbol C735 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.7874 mm, 1.778 mm): Symbol #PWR0801 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.889 mm, 1.778 mm): Symbol #PWR0802 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.635 mm, 2.2606 mm): Symbol U703 [RP2040]
@@ -648,31 +480,73 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     @(0.3556 mm, 2.667 mm): Symbol #PWR0795 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.2794 mm, 1.8288 mm): Symbol R729 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.3556 mm, 1.778 mm): Symbol #PWR0794 [GND]
-[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
-    ; warning
-    @(0.2794 mm, 1.778 mm): Symbol #PWR0793 [+3V3]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.4318 mm, 1.778 mm): Symbol #PWR0796 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.508 mm, 1.778 mm): Symbol #PWR0797 [GND]
-[lib_symbol_issues]: Symbol '+1V1' has been modified in library 'power'
-    ; warning
-    @(0.5842 mm, 1.651 mm): Symbol #PWR0798 [+1V1]
+    @(0.889 mm, 1.7272 mm): Symbol C735 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(0.508 mm, 1.7272 mm): Symbol C733 [CAP]
+    @(0.7874 mm, 1.7272 mm): Symbol C734 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.889 mm, 1.778 mm): Symbol #PWR0802 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.7874 mm, 1.778 mm): Symbol #PWR0801 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.1176 mm, 2.3114 mm): Symbol #PWR0807 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.3556 mm, 1.7272 mm): Symbol C731 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.4318 mm, 1.7272 mm): Symbol C732 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.3556 mm, 1.778 mm): Symbol #PWR0794 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.2794 mm, 1.8288 mm): Symbol R729 [RES]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(0.508 mm, 1.7272 mm): Symbol C733 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.4318 mm, 1.778 mm): Symbol #PWR0796 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.508 mm, 1.778 mm): Symbol #PWR0797 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.2794 mm, 1.778 mm): Symbol #PWR0793 [+3V3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.3462 mm, 1.778 mm): Symbol #PWR0814 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.27 mm, 1.778 mm): Symbol #PWR0810 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.4224 mm, 1.778 mm): Symbol #PWR0815 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.1938 mm, 1.778 mm): Symbol #PWR0809 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.1938 mm, 1.7272 mm): Symbol C740 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.27 mm, 1.7272 mm): Symbol C741 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.3462 mm, 1.7272 mm): Symbol C744 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.4224 mm, 1.7272 mm): Symbol C745 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9652 mm, 1.778 mm): Symbol #PWR0803 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.0414 mm, 1.778 mm): Symbol #PWR0805 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.0414 mm, 1.7272 mm): Symbol C737 [CAP]
@@ -681,40 +555,154 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     @(0.9652 mm, 1.7272 mm): Symbol C736 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.9652 mm, 1.778 mm): Symbol #PWR0803 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0414 mm, 1.778 mm): Symbol #PWR0805 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
     @(1.1176 mm, 1.778 mm): Symbol #PWR0806 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.4224 mm, 1.7272 mm): Symbol C745 [CAP]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.3462 mm, 1.778 mm): Symbol #PWR0814 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.4224 mm, 1.778 mm): Symbol #PWR0815 [GND]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(1.3462 mm, 1.7272 mm): Symbol C744 [CAP]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(1.1176 mm, 1.7272 mm): Symbol C738 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.1938 mm, 1.778 mm): Symbol #PWR0809 [GND]
+    @(1.9558 mm, 1.5494 mm): Symbol #PWR0825 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.286 mm, 0.4318 mm): Symbol C754 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.2098 mm, 0.4318 mm): Symbol C753 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(1.27 mm, 1.778 mm): Symbol #PWR0810 [GND]
+    @(2.286 mm, 0.4826 mm): Symbol #PWR0829 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.2098 mm, 0.4826 mm): Symbol #PWR0828 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.3368 mm, 0.3556 mm): Symbol #PWR0830 [+3V3]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.1938 mm, 1.7272 mm): Symbol C740 [CAP]
+    @(2.0066 mm, 0.4064 mm): Symbol C752 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.0066 mm, 0.4572 mm): Symbol #PWR0827 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.27 mm, 1.7272 mm): Symbol C741 [CAP]
+    @(1.8542 mm, 0.4064 mm): Symbol C751 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 0.4572 mm): Symbol #PWR0823 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(2.0066 mm, 0.3302 mm): Symbol #PWR0826 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.9304 mm, 0.3302 mm): Symbol #PWR0824 [VDD_SPI]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(1.7272 mm, 0.3556 mm): Symbol #FLG0701 [PWR_FLAG]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 0.3302 mm): Symbol #PWR0822 [+3V3]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.635 mm): Global Label 'ESP_GPIO_1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.6858 mm): Global Label 'ESP_GPIO_3'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.6604 mm): Global Label 'ESP_GPIO_2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3716 mm): Global Label 'ESP_GPIO_46'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.7112 mm): Global Label 'ESP_GPIO_4'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 0.7366 mm): Global Label 'ESP_GPIO_5'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.27 mm): Global Label 'ESP_GPIO_37'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.3462 mm): Global Label 'ESP_GPIO_45'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.9558 mm, 0.9906 mm): Symbol U704 [ESP32-S3]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.1938 mm, 0.762 mm): Symbol #PWR0808 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.1938 mm, 0.7112 mm): Symbol C739 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.0414 mm, 0.7366 mm): Symbol #PWR0804 [GND]
+[lib_symbol_issues]: Symbol 'Conn_Coaxial' has been modified in library 'Connector'
+    ; warning
+    @(1.0414 mm, 0.6604 mm): Symbol J701 [Conn_Coaxial]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.2954 mm, 0.762 mm): Symbol #PWR0811 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.524 mm, 1.0668 mm): Symbol Y701 [ESP32_XTAL]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.5494 mm, 0.4318 mm): Symbol C747 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.4732 mm, 0.4318 mm): Symbol C746 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.5494 mm, 0.4826 mm): Symbol #PWR0818 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.651 mm, 0.4826 mm): Symbol #PWR0820 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6002 mm, 0.381 mm): Symbol L702 [FERRIT]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.651 mm, 0.4318 mm): Symbol C749 [CAP]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(0.7366 mm, 1.651 mm): Symbol #PWR0800 [+3V3]
+[lib_symbol_issues]: Symbol '+1V1' has been modified in library 'power'
+    ; warning
+    @(0.5842 mm, 1.651 mm): Symbol #PWR0798 [+1V1]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.4732 mm, 1.1684 mm): Symbol #PWR0817 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6764 mm, 1.1684 mm): Symbol C750 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.6002 mm, 1.1684 mm): Symbol C748 [CAP]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.6002 mm, 1.2192 mm): Symbol #PWR0819 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.6764 mm, 1.2192 mm): Symbol #PWR0821 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.3462 mm, 0.4318 mm): Symbol C743 [CAP]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2446 mm, 0.6604 mm): Symbol L701 [INDUCTOR]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.4732 mm, 0.4826 mm): Symbol #PWR0816 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.3462 mm, 0.4826 mm): Symbol #PWR0813 [GND]
+[lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
+    ; warning
+    @(1.3462 mm, 0.3556 mm): Symbol #PWR0812 [+3V3]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.2954 mm, 0.7112 mm): Symbol C742 [CAP]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(3.6068 mm, 1.4224 mm): Symbol #PWR0841 [GND]
@@ -748,9 +736,6 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(3.556 mm, 1.27 mm): Symbol R735 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(2.667 mm, 1.397 mm): Symbol #PWR0831 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(3.6068 mm, 0.9652 mm): Symbol R736 [RES]
@@ -760,6 +745,18 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(3.556 mm, 0.9144 mm): Symbol C757 [CAP]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.016 mm): Global Label 'ESP_GPIO_16'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.0668 mm): Global Label 'ESP_GPIO_18'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2446 mm): Global Label 'ESP_GPIO_36'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(2.286 mm, 1.2192 mm): Global Label 'ESP_GPIO_35'
 [lib_symbol_issues]: Symbol '+3V3' has been modified in library 'power'
     ; warning
     @(3.556 mm, 0.8636 mm): Symbol #PWR0840 [+3V3]
@@ -772,6 +769,9 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(3.5306 mm, 0.635 mm): Symbol #PWR0839 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(2.667 mm, 1.397 mm): Symbol #PWR0831 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(3.6576 mm, 2.286 mm): Symbol #PWR0843 [GND]
@@ -850,7 +850,7 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     ; warning
     @(1.143 mm, 0.7366 mm): Symbol #PWR0508 [GND]
 
-***** Sheet /MCU/Sheet60F06FE1/
+***** Sheet /MCU/USB_POWER/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(2.4892 mm, 0.7874 mm): Symbol C602 [CAP]
@@ -874,28 +874,124 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     @(2.1844 mm, 0.8382 mm): Symbol #PWR0609 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
-    @(1.016 mm, 0.9652 mm): Symbol R602 [RES]
+    @(-0.2286 mm, 0.6096 mm): Symbol U504 [U_ESD_4ch]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(-0.3048 mm, 0.5588 mm): Symbol #PWR0521 [VBUS]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(-0.1524 mm, 0.6604 mm): Symbol #PWR0522 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(-0.2286 mm, 0.8382 mm): Symbol U507 [U_ESD_4ch]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(-0.3048 mm, 0.7874 mm): Symbol #PWR0529 [VBUS]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(0.762 mm, 0.7112 mm): Symbol #PWR0605 [VBUS]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(0.6604 mm, 0.7112 mm): Symbol #FLG0602 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(0.6604 mm, 1.1938 mm): Symbol #FLG0603 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.762 mm, 1.1938 mm): Symbol #PWR0614 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(0.9398 mm, 1.016 mm): Symbol #PWR0612 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(1.016 mm, 1.016 mm): Symbol #PWR0613 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
+    @(1.016 mm, 0.9652 mm): Symbol R602 [RES]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 1.0668 mm): Symbol #PWR0527 [GND]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.651 mm, 1.3208 mm): Symbol #PWR0523 [VBUS]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.651 mm, 1.1176 mm): Symbol #PWR0528 [VBUS]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.651 mm, 0.9652 mm): Symbol #PWR0517 [VBUS]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 1.2192 mm): Symbol #PWR0520 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 1.1684 mm): Symbol U503 [BL1551B]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 1.016 mm): Symbol U501 [BL1551B]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 1.4478 mm): Symbol #PWR0524 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 1.651 mm): Symbol #PWR0525 [GND]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 1.3716 mm): Symbol U505 [BL1551B]
+[multiple_net_names]: Both B7_DN and USB_DATA_N are attached to the same items; B7_DN will be used in the netlist
+    ; warning
+    @(0.5842 mm, 0.9652 mm): Label 'B7_DN'
+    @(1.9558 mm, 1.397 mm): Hierarchical Label 'USB_DATA_N'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(1.7526 mm, 1.5748 mm): Symbol U506 [BL1551B]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.651 mm, 1.524 mm): Symbol #PWR0526 [VBUS]
+[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
+    ; warning
+    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
+    @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 Hidden pin 1 [VBUS, Power input, Line]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 [VBUS]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(1.397 mm, 0.4064 mm): Symbol #PWR0602 [GND]
+[multiple_net_names]: Both B6_DP and USB_DATA_P are attached to the same items; B6_DP will be used in the netlist
+    ; warning
+    @(0.5842 mm, 1.016 mm): Label 'B6_DP'
+    @(1.7272 mm, 0.381 mm): Hierarchical Label 'USB_DATA_P'
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
     @(0.9398 mm, 0.9652 mm): Symbol R601 [RES]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
-    @(0.9398 mm, 1.016 mm): Symbol #PWR0612 [GND]
+    @(1.397 mm, 0.9398 mm): Symbol #PWR0518 [GND]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.397 mm, 0.6858 mm): Symbol #PWR0519 [VBUS]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; warning
+    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 [+5V]
+[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
+    ; warning
+    @(2.0066 mm, 0.7366 mm): Symbol L601 [FERRIT]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; warning
+    @(2.1336 mm, 0.6858 mm): Symbol #FLG0601 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
+    ; warning
+    @(1.8542 mm, 0.7112 mm): Symbol #PWR0606 [VBUS]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; warning
+    @(-0.1524 mm, 0.889 mm): Symbol #PWR0530 [GND]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.4064 mm, 0.9652 mm): Symbol J601 [USB_C_TYPE-C-32-M-12]
-[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(0.6604 mm, 1.1176 mm): Symbol #FLG0603 [PWR_FLAG]
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.381 mm, 1.397 mm): Symbol R603 [RES]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(0.762 mm, 1.1938 mm): Symbol #PWR0614 [GND]
 [lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
     ; warning
     @(0.381 mm, 1.4478 mm): Symbol #PWR0616 [GND]
@@ -905,43 +1001,6 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
     ; warning
     @(0.254 mm, 1.397 mm): Symbol C603 [CAP]
-[multiple_net_names]: Both +5V and VBUS are attached to the same items; +5V will be used in the netlist
-    ; warning
-    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 Hidden pin 1 [+5V, Power input, Line]
-    @(0.762 mm, 0.7112 mm): Symbol #PWR0605 Hidden pin 1 [VBUS, Power input, Line]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; warning
-    @(0.762 mm, 0.7112 mm): Symbol #PWR0605 [VBUS]
-[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(0.6604 mm, 0.7112 mm): Symbol #FLG0602 [PWR_FLAG]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; warning
-    @(1.5494 mm, 0.4064 mm): Symbol #PWR0603 [VBUS]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(0.9652 mm, 0.4064 mm): Symbol U601 [U_ESD_4ch]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; warning
-    @(0.8382 mm, 0.3556 mm): Symbol #PWR0601 [VBUS]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.0668 mm, 0.4826 mm): Symbol #PWR0604 [GND]
-[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
-    ; warning
-    @(1.397 mm, 0.4064 mm): Symbol #PWR0602 [GND]
-[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
-    ; warning
-    @(2.1336 mm, 0.6858 mm): Symbol #FLG0601 [PWR_FLAG]
-[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
-    ; warning
-    @(1.905 mm, 0.7112 mm): Symbol #PWR0607 [+5V]
-[lib_symbol_issues]: Symbol 'VBUS' has been modified in library 'power'
-    ; warning
-    @(1.8542 mm, 0.7112 mm): Symbol #PWR0606 [VBUS]
-[lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
-    ; warning
-    @(2.0066 mm, 0.7366 mm): Symbol L601 [FERRIT]
 
 ***** Sheet /HWCFG/
 [lib_symbol_issues]: The current configuration does not include the library 'suku_basics'
@@ -1837,4 +1896,4 @@ ERC report (2025-02-11T13:00:42+0000, Encoding UTF8)
     ; warning
     @(1.1176 mm, 0.635 mm): Symbol C1055 [CAP]
 
- ** ERC messages: 595  Errors 0  Warnings 595
+ ** ERC messages: 614  Errors 0  Warnings 614

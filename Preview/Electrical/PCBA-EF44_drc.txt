@@ -1,5 +1,5 @@
 ** Drc report for PCBA-EF44.kicad_pcb **
-** Created on 2025-02-11T13:00:51+0000 **
+** Created on 2025-02-11T21:08:14+0000 **
 
 ** Found 291 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
@@ -876,20 +876,16 @@
     @(113.335 mm, 145.5 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+    @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
+    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(85.215 mm, 53.525 mm): Segment on F.Silkscreen
@@ -902,18 +898,6 @@
     ; warning
     @(88.365 mm, 53.775 mm): Segment on F.Silkscreen
     @(81.665 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 52.925 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
-    @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
@@ -938,6 +922,22 @@
     ; warning
     @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
     @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(96.5 mm, 93.5 mm): Circle on B.Silkscreen

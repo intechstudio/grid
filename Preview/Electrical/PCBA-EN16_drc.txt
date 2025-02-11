@@ -1,7 +1,7 @@
 ** Drc report for PCBA-EN16.kicad_pcb **
-** Created on 2025-02-11T13:00:57+0000 **
+** Created on 2025-02-11T21:08:16+0000 **
 
-** Found 459 DRC violations **
+** Found 470 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
     ; warning
     @(105.75 mm, 108.5 mm): Via [GND] on F.Cu - B.Cu
@@ -99,12 +99,16 @@
     @(59.995 mm, 103.937 mm): Footprint C903
 [courtyards_overlap]: Courtyards overlap
     ; warning
-    @(104.0 mm, 60.5 mm): Footprint C602
-    @(103.0 mm, 62.75 mm): Footprint U602
-[courtyards_overlap]: Courtyards overlap
-    ; warning
     @(103.0 mm, 105.25 mm): Footprint C754
     @(105.0 mm, 107.25 mm): Footprint J701
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(102.0 mm, 62.5 mm): Footprint U501
+    @(102.0 mm, 59.75 mm): Footprint U503
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(98.0 mm, 59.75 mm): Footprint U506
+    @(98.0 mm, 62.5 mm): Footprint U505
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(98.75 mm, 105.25 mm): Footprint C752
@@ -121,10 +125,6 @@
     ; warning
     @(92.25 mm, 96.25 mm): Footprint TP708
     @(92.25 mm, 97.75 mm): Footprint TP709
-[courtyards_overlap]: Courtyards overlap
-    ; warning
-    @(102.0 mm, 60.5 mm): Footprint C601
-    @(103.0 mm, 62.75 mm): Footprint U602
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(102.1 mm, 108.0 mm): Footprint C748
@@ -155,6 +155,22 @@
     @(101.25 mm, 110.25 mm): Footprint Y701
 [courtyards_overlap]: Courtyards overlap
     ; warning
+    @(100.0 mm, 66.5 mm): Footprint TP602
+    @(99.0 mm, 65.25 mm): Footprint C602
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(98.0 mm, 66.5 mm): Footprint TP603
+    @(99.0 mm, 65.25 mm): Footprint C602
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(98.0 mm, 66.5 mm): Footprint TP603
+    @(97.0 mm, 65.25 mm): Footprint C601
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(96.0 mm, 66.5 mm): Footprint TP604
+    @(97.0 mm, 65.25 mm): Footprint C601
+[courtyards_overlap]: Courtyards overlap
+    ; warning
     @(96.5 mm, 93.5 mm): Footprint TP702
     @(96.5 mm, 95.0 mm): Footprint TP701
 [courtyards_overlap]: Courtyards overlap
@@ -163,12 +179,20 @@
     @(98.0 mm, 93.5 mm): Footprint TP704
 [courtyards_overlap]: Courtyards overlap
     ; warning
+    @(99.0 mm, 65.25 mm): Footprint C602
+    @(98.0 mm, 63.0 mm): Footprint U602
+[courtyards_overlap]: Courtyards overlap
+    ; warning
     @(96.5 mm, 95.0 mm): Footprint TP701
     @(100.0 mm, 100.0 mm): Footprint U703
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(96.5 mm, 95.0 mm): Footprint TP701
     @(98.0 mm, 95.0 mm): Footprint TP703
+[courtyards_overlap]: Courtyards overlap
+    ; warning
+    @(97.0 mm, 65.25 mm): Footprint C601
+    @(98.0 mm, 63.0 mm): Footprint U602
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(100.0 mm, 100.0 mm): Footprint U703
@@ -429,9 +453,6 @@
     @(100.0 mm, 53.4 mm): Footprint J601
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(97.0 mm, 62.75 mm): Footprint U601
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(86.665 mm, 103.937 mm): Footprint C907
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -445,9 +466,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(132.893 mm, 83.236 mm): Footprint R1040
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(100.0 mm, 62.75 mm): Footprint L601
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(121.971 mm, 81.712 mm): Footprint C1049
@@ -594,9 +612,6 @@
     @(78.029 mm, 78.664 mm): Footprint C1030
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(104.0 mm, 60.5 mm): Footprint C602
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(121.971 mm, 110.414 mm): Footprint C1042
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -609,6 +624,9 @@
     @(121.971 mm, 120.32 mm): Footprint R1055
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
+    @(102.0 mm, 62.5 mm): Footprint U501
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
     @(67.107 mm, 92.126 mm): Footprint R1087
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -619,6 +637,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(131.369 mm, 93.65 mm): Footprint C1035
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(98.0 mm, 59.75 mm): Footprint U506
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(131.369 mm, 120.32 mm): Footprint C1047
@@ -705,10 +726,10 @@
     @(131.369 mm, 109.398 mm): Footprint C1006
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(132.893 mm, 92.126 mm): Footprint R1051
+    @(102.0 mm, 59.75 mm): Footprint U503
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(102.0 mm, 60.5 mm): Footprint C601
+    @(132.893 mm, 92.126 mm): Footprint R1051
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(140.005 mm, 59.995 mm): Footprint UI1007
@@ -738,9 +759,6 @@
     @(102.1 mm, 108.0 mm): Footprint C748
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(101.5 mm, 58.25 mm): Footprint R601
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(106.834 mm, 76.489 mm): Footprint R801
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -756,9 +774,6 @@
     @(67.107 mm, 107.874 mm): Footprint R1003
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
-    @(98.5 mm, 58.25 mm): Footprint R602
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
     @(100.0 mm, 142.5 mm): Footprint R701
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
@@ -772,6 +787,9 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(68.631 mm, 119.25 mm): Footprint C1011
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(98.0 mm, 62.5 mm): Footprint U505
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(131.369 mm, 105.334 mm): Footprint C1004
@@ -832,9 +850,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(67.107 mm, 120.828 mm): Footprint R1020
-[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
-    ; warning
-    @(103.0 mm, 62.75 mm): Footprint U602
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(105.75 mm, 104.25 mm): Footprint C739
@@ -910,6 +925,15 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(131.369 mm, 106.35 mm): Footprint R1007
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(131.369 mm, 76.759 mm): Footprint C1023
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(94.75 mm, 57.5 mm): Footprint R603
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    ; warning
+    @(121.971 mm, 90.602 mm): Footprint C1018
 [lib_footprint_mismatch]: Footprint 'U.FL_Molex_MCRF_73412-0110_Vertical' does not match copy in library 'Connector_Coaxial'.
     ; warning
     @(105.0 mm, 107.25 mm): Footprint J701
@@ -1275,28 +1299,124 @@
     @(86.665 mm, 113.335 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(85.215 mm, 80.195 mm): Segment on F.Silkscreen
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
     @(85.215 mm, 133.535 mm): Segment on F.Silkscreen
-    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
     @(88.115 mm, 132.935 mm): Segment on F.Silkscreen
-    @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
     @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
+    @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(85.215 mm, 80.195 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
+    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(111.885 mm, 133.535 mm): Segment on F.Silkscreen
@@ -1315,32 +1435,28 @@
     @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(58.545 mm, 53.525 mm): Segment on F.Silkscreen
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(61.445 mm, 52.925 mm): Segment on F.Silkscreen
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
     @(61.695 mm, 53.775 mm): Segment on F.Silkscreen
+    @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
@@ -1367,42 +1483,6 @@
     @(81.665 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(58.545 mm, 80.195 mm): Segment on F.Silkscreen
-    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(61.445 mm, 79.595 mm): Segment on F.Silkscreen
-    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(61.695 mm, 80.445 mm): Segment on F.Silkscreen
-    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(58.545 mm, 106.865 mm): Segment on F.Silkscreen
-    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(61.445 mm, 106.265 mm): Segment on F.Silkscreen
-    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
-    @(61.695 mm, 107.115 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(61.445 mm, 132.935 mm): Segment on F.Silkscreen
     @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1415,84 +1495,48 @@
     @(54.995 mm, 133.505 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(58.545 mm, 80.195 mm): Segment on F.Silkscreen
+    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(61.445 mm, 79.595 mm): Segment on F.Silkscreen
+    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+    @(61.695 mm, 80.445 mm): Segment on F.Silkscreen
+    @(54.995 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+    @(61.445 mm, 106.265 mm): Segment on F.Silkscreen
+    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+    @(61.695 mm, 107.115 mm): Segment on F.Silkscreen
+    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+    @(58.545 mm, 106.865 mm): Segment on F.Silkscreen
+    @(54.995 mm, 106.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
+    @(99.75 mm, 67.75 mm): PCB Text 'G 3V 5V DN DP' on B.Silkscreen
+    @(104.7 mm, 67.2 mm): Segment on B.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
+    @(99.75 mm, 67.75 mm): PCB Text 'G 3V 5V DN DP' on B.Silkscreen
+    @(102.0 mm, 66.5 mm): Circle on B.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
+    @(99.75 mm, 67.75 mm): PCB Text 'G 3V 5V DN DP' on B.Silkscreen
+    @(100.0 mm, 66.5 mm): Circle on B.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(99.75 mm, 67.75 mm): PCB Text 'G 3V 5V DN DP' on B.Silkscreen
+    @(98.0 mm, 66.5 mm): Circle on B.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
-    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+    @(99.75 mm, 67.75 mm): PCB Text 'G 3V 5V DN DP' on B.Silkscreen
+    @(96.0 mm, 66.5 mm): Circle on B.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(96.5 mm, 93.5 mm): Circle on B.Silkscreen
@@ -1510,7 +1554,23 @@
     @(98.0 mm, 95.0 mm): Circle on B.Silkscreen
     @(98.0 mm, 93.5 mm): Circle on B.Silkscreen
 
-** Found 0 unconnected pads **
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    ; error
+    @(102.95 mm, 60.4 mm): Pad 1 [/MCU/U0RXD] of U503 on F.Cu
+    @(100.2 mm, 103.4375 mm): Track [/MCU/U0RXD] on F.Cu, length 0.8625 mm
+[unconnected_items]: Missing connection between items
+    ; error
+    @(99.8 mm, 104.2 mm): Track [/MCU/U0TXD] on F.Cu, length 0.7625 mm
+    @(102.95 mm, 63.15 mm): Pad 1 [/MCU/U0TXD] of U501 on F.Cu
+[unconnected_items]: Missing connection between items
+    ; error
+    @(106.158 mm, 100.908 mm): Track [/MCU/ESP_RESET] on F.Cu, length 1.6986 mm
+    @(97.05 mm, 59.1 mm): Pad 1 [/MCU/ESP_RESET] of U506 on F.Cu
+[unconnected_items]: Missing connection between items
+    ; error
+    @(104.312737 mm, 100.554 mm): Track [/MCU/ESP_BOOT0] on F.Cu, length 2.2413 mm
+    @(98.95 mm, 63.15 mm): Pad 1 [/MCU/ESP_BOOT0] of U505 on F.Cu
 
 ** Found 0 Footprint errors **
 
