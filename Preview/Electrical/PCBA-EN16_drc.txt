@@ -1,5 +1,5 @@
 ** Drc report for PCBA-EN16.kicad_pcb **
-** Created on 2025-02-08T19:22:10+0000 **
+** Created on 2025-02-11T12:01:55+0000 **
 
 ** Found 427 DRC violations **
 [via_dangling]: Via is not connected or connected on only one layer
@@ -918,7 +918,7 @@
     @(94.666 mm, 110.668 mm): PCB Text 'R_TX R_RX GND E_TX E_RX' on B.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
-    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio ${PROJECTNAME} RevD ...' on F.Silkscreen
+    @(113.335 mm, 126.67 mm): PCB Text 'Intech Studio ${PROJECTNAME} ${HAS...' on F.Silkscreen
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(100.0 mm, 122.75 mm): PCB Text 'GND' on F.Silkscreen
@@ -1179,52 +1179,16 @@
     @(92.665 mm, 118.835 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
-    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
     @(138.555 mm, 80.195 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
     @(141.455 mm, 79.595 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
     @(141.705 mm, 80.445 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
-    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
-    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(135.005 mm, 80.165 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
@@ -1237,6 +1201,102 @@
     ; warning
     @(81.665 mm, 133.505 mm): Segment on F.Silkscreen
     @(88.365 mm, 133.785 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(85.215 mm, 80.195 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
+    @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
+    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
+    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
+    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(111.885 mm, 106.865 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(114.785 mm, 106.265 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 106.835 mm): Segment on F.Silkscreen
+    @(115.035 mm, 107.115 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
+    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
+    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
+    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(138.555 mm, 133.535 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 132.935 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 133.785 mm): Segment on F.Silkscreen
+    @(135.005 mm, 133.505 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.455 mm, 106.265 mm): Segment on F.Silkscreen
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(141.705 mm, 107.115 mm): Segment on F.Silkscreen
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(135.005 mm, 106.835 mm): Segment on F.Silkscreen
+    @(138.555 mm, 106.865 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(111.885 mm, 133.535 mm): Segment on F.Silkscreen
@@ -1255,66 +1315,6 @@
     @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
-    @(93.75 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(93.75 mm, 96.25 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.25 mm, 97.75 mm): Circle on F.Silkscreen
-    @(92.25 mm, 96.25 mm): Circle on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.3 mm, 91.55 mm): Segment on F.Silkscreen
-    @(92.665 mm, 92.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(92.3 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(93.7 mm, 92.95 mm): Segment on F.Silkscreen
-    @(91.665 mm, 92.165 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
-    @(85.215 mm, 80.195 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
-    @(88.115 mm, 79.595 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(81.665 mm, 80.165 mm): Segment on F.Silkscreen
-    @(88.365 mm, 80.445 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(85.215 mm, 106.865 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(88.115 mm, 106.265 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(88.365 mm, 107.115 mm): Segment on F.Silkscreen
-    @(81.665 mm, 106.835 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(114.785 mm, 79.595 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 80.445 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 80.195 mm): Segment on F.Silkscreen
-    @(108.335 mm, 80.165 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
     @(58.545 mm, 53.525 mm): Segment on F.Silkscreen
     @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1327,6 +1327,18 @@
     @(54.995 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
+    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
+    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
+    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    ; warning
     @(138.555 mm, 53.525 mm): Segment on F.Silkscreen
     @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
@@ -1337,18 +1349,6 @@
     ; warning
     @(141.705 mm, 53.775 mm): Segment on F.Silkscreen
     @(135.005 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(111.885 mm, 53.525 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(114.785 mm, 52.925 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    ; warning
-    @(115.035 mm, 53.775 mm): Segment on F.Silkscreen
-    @(108.335 mm, 53.495 mm): Segment on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     ; warning
     @(85.215 mm, 53.525 mm): Segment on F.Silkscreen
